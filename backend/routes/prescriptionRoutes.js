@@ -1,16 +1,19 @@
 const express = require("express");
 const multer = require("multer");
+const path = require("path");
+const fs = require("fs");
 
 const authenticateToken = require("../middleware/authMiddleware");
-
 const verifyPrescriptionOwnership = require("../middleware/prescriptionOwnership");
-
 const { analyzePrescriptionAllergies } = require("../controllers/allergyController");
 
 const {
     testPrescriptionAPI,
     getMedicines,
     uploadPrescription,
+    confirmPrescriptionToSection,
+    getUserPrescriptions,
+    getPrescriptionById,
     checkDrugInteractions,
     checkFDAInteractions,
     checkDosage
@@ -18,36 +21,52 @@ const {
 
 const router = express.Router();
 
-// ======================================
-// MULTER CONFIGURATION
-// ======================================
+// Ensure uploads directory exists
+const uploadDir = path.join(__dirname, "..", "uploads");
+if (!fs.existsSync(uploadDir)) {
+    fs.mkdirSync(uploadDir, { recursive: true });
+}
 
+// Multer storage
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
-        cb(null, "uploads/");
+        cb(null, uploadDir);
     },
-
     filename: function (req, file, cb) {
-        const uniqueName = Date.now() + "-" + file.originalname;
+        const uniqueName = Date.now() + "-" + file.originalname.replace(/[^a-zA-Z0-9.-]/g, "_");
         cb(null, uniqueName);
     }
 });
 
-const upload = multer({ storage: storage });
+const upload = multer({
+    storage: storage,
+    limits: { fileSize: 15 * 1024 * 1024 } // 15MB limit
+});
 
-// ======================================
-// PUBLIC ROUTES
-// ======================================
-
+// Public routes
 router.get("/test", testPrescriptionAPI);
-
 router.get("/medicines", getMedicines);
 
-// ======================================
-// PROTECTED ANALYSIS ROUTES
-// ======================================
+// User prescriptions list & details
+router.get("/user", authenticateToken, getUserPrescriptions);
+router.get("/details/:id", authenticateToken, getPrescriptionById);
 
-// Drug interaction analysis
+// Upload & OCR
+router.post(
+    "/upload",
+    authenticateToken,
+    upload.single("prescription"),
+    uploadPrescription
+);
+
+// Batch confirm extracted medicines to Section A or B
+router.post(
+    "/confirm-to-section",
+    authenticateToken,
+    confirmPrescriptionToSection
+);
+
+// Analysis routes (prescription-specific)
 router.get(
     "/:prescriptionId/interactions",
     authenticateToken,
@@ -55,7 +74,6 @@ router.get(
     checkDrugInteractions
 );
 
-// FDA interaction analysis
 router.get(
     "/:prescriptionId/fda-interactions",
     authenticateToken,
@@ -63,7 +81,6 @@ router.get(
     checkFDAInteractions
 );
 
-// Dosage information analysis
 router.get(
     "/:prescriptionId/dosage-analysis",
     authenticateToken,
@@ -76,17 +93,6 @@ router.get(
     authenticateToken,
     verifyPrescriptionOwnership,
     analyzePrescriptionAllergies
-);
-
-// ======================================
-// PROTECTED UPLOAD ROUTE
-// ======================================
-
-router.post(
-    "/upload",
-    authenticateToken,
-    upload.single("prescription"),
-    uploadPrescription
 );
 
 module.exports = router;
