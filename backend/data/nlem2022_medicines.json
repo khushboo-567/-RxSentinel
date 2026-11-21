@@ -1,0 +1,1538 @@
+[
+  {
+    "nlem_number": 1,
+    "name": "5-aminosalicylic acid (Mesalazine/Mesalaine)"
+  },
+  {
+    "nlem_number": 2,
+    "name": "5-Fluorouracil"
+  },
+  {
+    "nlem_number": 3,
+    "name": "6-Mercaptopurine"
+  },
+  {
+    "nlem_number": 4,
+    "name": "Abacavir"
+  },
+  {
+    "nlem_number": 5,
+    "name": "Abacavir (A) + Lamivudine (B)"
+  },
+  {
+    "nlem_number": 6,
+    "name": "Acetazolamide"
+  },
+  {
+    "nlem_number": 7,
+    "name": "Acetylsalicylic acid"
+  },
+  {
+    "nlem_number": 8,
+    "name": "Actinomycin D"
+  },
+  {
+    "nlem_number": 9,
+    "name": "Activated Charcoal"
+  },
+  {
+    "nlem_number": 10,
+    "name": "Acyclovir"
+  },
+  {
+    "nlem_number": 11,
+    "name": "Adenosine"
+  },
+  {
+    "nlem_number": 12,
+    "name": "Adrenaline"
+  },
+  {
+    "nlem_number": 13,
+    "name": "Albendazole"
+  },
+  {
+    "nlem_number": 14,
+    "name": "Allopurinol"
+  },
+  {
+    "nlem_number": 15,
+    "name": "All-trans retinoic acid"
+  },
+  {
+    "nlem_number": 16,
+    "name": "Alprostadil"
+  },
+  {
+    "nlem_number": 17,
+    "name": "Amikacin"
+  },
+  {
+    "nlem_number": 18,
+    "name": "Amiodarone"
+  },
+  {
+    "nlem_number": 19,
+    "name": "Amitriptyline"
+  },
+  {
+    "nlem_number": 20,
+    "name": "Amlodipine"
+  },
+  {
+    "nlem_number": 21,
+    "name": "Amoxicillin"
+  },
+  {
+    "nlem_number": 22,
+    "name": "Amoxicillin (A) + Clavulanic acid (B)"
+  },
+  {
+    "nlem_number": 23,
+    "name": "Amphotericin B"
+  },
+  {
+    "nlem_number": 24,
+    "name": "Ampicillin"
+  },
+  {
+    "nlem_number": 25,
+    "name": "Anti-D immunoglobulin"
+  },
+  {
+    "nlem_number": 26,
+    "name": "Anti-rabies immunoglobulin"
+  },
+  {
+    "nlem_number": 27,
+    "name": "Anti-tetanus immunoglobulin"
+  },
+  {
+    "nlem_number": 28,
+    "name": "Arsenic trioxide"
+  },
+  {
+    "nlem_number": 29,
+    "name": "Artemether (A) + Lumefantrine (B)"
+  },
+  {
+    "nlem_number": 30,
+    "name": "Artesunate"
+  },
+  {
+    "nlem_number": 31,
+    "name": "Artesunate (A) + Sulphadoxine  Pyrimethamine (B)"
+  },
+  {
+    "nlem_number": 32,
+    "name": "Ascorbic acid (Vitamin C)"
+  },
+  {
+    "nlem_number": 33,
+    "name": "Atazanavir (A) + Ritonavir (B)"
+  },
+  {
+    "nlem_number": 34,
+    "name": "Atorvastatin"
+  },
+  {
+    "nlem_number": 35,
+    "name": "Atracurium"
+  },
+  {
+    "nlem_number": 36,
+    "name": "Atropine"
+  },
+  {
+    "nlem_number": 37,
+    "name": "Azathioprine"
+  },
+  {
+    "nlem_number": 38,
+    "name": "Azithromycin"
+  },
+  {
+    "nlem_number": 39,
+    "name": "Baclofen"
+  },
+  {
+    "nlem_number": 40,
+    "name": "Barium sulphate"
+  },
+  {
+    "nlem_number": 41,
+    "name": "BCG vaccine"
+  },
+  {
+    "nlem_number": 42,
+    "name": "Bedaquiline"
+  },
+  {
+    "nlem_number": 43,
+    "name": "Bendamustine Hydrochloride"
+  },
+  {
+    "nlem_number": 44,
+    "name": "Benzathine benzylpenicillin"
+  },
+  {
+    "nlem_number": 45,
+    "name": "Benzoyl peroxide"
+  },
+  {
+    "nlem_number": 46,
+    "name": "Benzylpenicillin"
+  },
+  {
+    "nlem_number": 47,
+    "name": "Betamethasone"
+  },
+  {
+    "nlem_number": 48,
+    "name": "Betamethasone (valerate)"
+  },
+  {
+    "nlem_number": 49,
+    "name": "Bicalutamide"
+  },
+  {
+    "nlem_number": 50,
+    "name": "Bisacodyl"
+  },
+  {
+    "nlem_number": 51,
+    "name": "Bleomycin"
+  },
+  {
+    "nlem_number": 52,
+    "name": "Bortezomib"
+  },
+  {
+    "nlem_number": 53,
+    "name": "Budesonide"
+  },
+  {
+    "nlem_number": 54,
+    "name": "Budesonide (A) +Formoterol (B)"
+  },
+  {
+    "nlem_number": 55,
+    "name": "Bupivacaine"
+  },
+  {
+    "nlem_number": 56,
+    "name": "Buprenorphine"
+  },
+  {
+    "nlem_number": 57,
+    "name": "Buprenorphine (A) + Naloxone (B)"
+  },
+  {
+    "nlem_number": 58,
+    "name": "Caffeine"
+  },
+  {
+    "nlem_number": 59,
+    "name": "Calamine"
+  },
+  {
+    "nlem_number": 60,
+    "name": "Calcium carbonate"
+  },
+  {
+    "nlem_number": 61,
+    "name": "Calcium folinate"
+  },
+  {
+    "nlem_number": 62,
+    "name": "Calcium gluconate"
+  },
+  {
+    "nlem_number": 63,
+    "name": "Capecitabine"
+  },
+  {
+    "nlem_number": 64,
+    "name": "Carbamazepine"
+  },
+  {
+    "nlem_number": 65,
+    "name": "Carbimazole"
+  },
+  {
+    "nlem_number": 66,
+    "name": "Carboplatin"
+  },
+  {
+    "nlem_number": 67,
+    "name": "Carboxymethyl cellulose"
+  },
+  {
+    "nlem_number": 68,
+    "name": "Cefadroxil"
+  },
+  {
+    "nlem_number": 69,
+    "name": "Cefazolin"
+  },
+  {
+    "nlem_number": 70,
+    "name": "Cefixime"
+  },
+  {
+    "nlem_number": 71,
+    "name": "Cefotaxime"
+  },
+  {
+    "nlem_number": 72,
+    "name": "Ceftazidime"
+  },
+  {
+    "nlem_number": 73,
+    "name": "Ceftriaxone"
+  },
+  {
+    "nlem_number": 74,
+    "name": "Cefuroxime"
+  },
+  {
+    "nlem_number": 75,
+    "name": "Cetirizine"
+  },
+  {
+    "nlem_number": 76,
+    "name": "Chlorambucil"
+  },
+  {
+    "nlem_number": 77,
+    "name": "Chlorhexidine"
+  },
+  {
+    "nlem_number": 78,
+    "name": "Chloroquine"
+  },
+  {
+    "nlem_number": 79,
+    "name": "Cholecalciferol"
+  },
+  {
+    "nlem_number": 80,
+    "name": "Ciprofloxacin"
+  },
+  {
+    "nlem_number": 81,
+    "name": "Cisplatin"
+  },
+  {
+    "nlem_number": 82,
+    "name": "Clarithromycin"
+  },
+  {
+    "nlem_number": 83,
+    "name": "Clindamycin"
+  },
+  {
+    "nlem_number": 84,
+    "name": "Clobazam"
+  },
+  {
+    "nlem_number": 85,
+    "name": "Clofazimine"
+  },
+  {
+    "nlem_number": 86,
+    "name": "Clomiphene citrate"
+  },
+  {
+    "nlem_number": 87,
+    "name": "Clomipramine"
+  },
+  {
+    "nlem_number": 88,
+    "name": "Clonazepam"
+  },
+  {
+    "nlem_number": 89,
+    "name": "Clopidogrel"
+  },
+  {
+    "nlem_number": 90,
+    "name": "Clotrimazole"
+  },
+  {
+    "nlem_number": 91,
+    "name": "Cloxacillin"
+  },
+  {
+    "nlem_number": 92,
+    "name": "Clozapine"
+  },
+  {
+    "nlem_number": 93,
+    "name": "Coagulation factor IX"
+  },
+  {
+    "nlem_number": 94,
+    "name": "Coagulation factor VIII"
+  },
+  {
+    "nlem_number": 95,
+    "name": "Coal tar (A) + Salicylic Acid (B)"
+  },
+  {
+    "nlem_number": 96,
+    "name": "Colchicine"
+  },
+  {
+    "nlem_number": 97,
+    "name": "Condom"
+  },
+  {
+    "nlem_number": 98,
+    "name": "Co-trimoxazole [Sulphamethoxazole (A) + Trimethoprim (B)]"
+  },
+  {
+    "nlem_number": 99,
+    "name": "Cryoprecipitate"
+  },
+  {
+    "nlem_number": 100,
+    "name": "Cyclophosphamide"
+  },
+  {
+    "nlem_number": 101,
+    "name": "Cycloserine"
+  },
+  {
+    "nlem_number": 102,
+    "name": "Cyclosporine"
+  },
+  {
+    "nlem_number": 103,
+    "name": "Cytosine arabinoside"
+  },
+  {
+    "nlem_number": 104,
+    "name": "D- Penicillamine"
+  },
+  {
+    "nlem_number": 105,
+    "name": "Dabigatran"
+  },
+  {
+    "nlem_number": 106,
+    "name": "Dacarbazine"
+  },
+  {
+    "nlem_number": 107,
+    "name": "Daclatasvir"
+  },
+  {
+    "nlem_number": 108,
+    "name": "Dapsone"
+  },
+  {
+    "nlem_number": 109,
+    "name": "Darunavir"
+  },
+  {
+    "nlem_number": 110,
+    "name": "Darunavir (A) + Ritonavir (B)"
+  },
+  {
+    "nlem_number": 111,
+    "name": "Daunorubicin"
+  },
+  {
+    "nlem_number": 112,
+    "name": "Delamanid"
+  },
+  {
+    "nlem_number": 113,
+    "name": "Desferrioxamine"
+  },
+  {
+    "nlem_number": 114,
+    "name": "Dexamethasone"
+  },
+  {
+    "nlem_number": 115,
+    "name": "Dextran-40"
+  },
+  {
+    "nlem_number": 116,
+    "name": "Diazepam"
+  },
+  {
+    "nlem_number": 117,
+    "name": "Diclofenac"
+  },
+  {
+    "nlem_number": 118,
+    "name": "Dicyclomine"
+  },
+  {
+    "nlem_number": 119,
+    "name": "Diethylcarbamazine"
+  },
+  {
+    "nlem_number": 120,
+    "name": "Digoxin"
+  },
+  {
+    "nlem_number": 121,
+    "name": "Diltiazem"
+  },
+  {
+    "nlem_number": 122,
+    "name": "Dinoprostone"
+  },
+  {
+    "nlem_number": 123,
+    "name": "Diphtheria antitoxin"
+  },
+  {
+    "nlem_number": 124,
+    "name": "Dobutamine"
+  },
+  {
+    "nlem_number": 125,
+    "name": "Docetaxel"
+  },
+  {
+    "nlem_number": 126,
+    "name": "Dolutegravir"
+  },
+  {
+    "nlem_number": 127,
+    "name": "Domperidone"
+  },
+  {
+    "nlem_number": 128,
+    "name": "Donepezil"
+  },
+  {
+    "nlem_number": 129,
+    "name": "Dopamine"
+  },
+  {
+    "nlem_number": 130,
+    "name": "Doxorubicin"
+  },
+  {
+    "nlem_number": 131,
+    "name": "Doxycycline"
+  },
+  {
+    "nlem_number": 132,
+    "name": "DPT vaccine"
+  },
+  {
+    "nlem_number": 133,
+    "name": "DPT+ Hib+ Hep B vaccine"
+  },
+  {
+    "nlem_number": 134,
+    "name": "Efavirenz"
+  },
+  {
+    "nlem_number": 135,
+    "name": "Enalapril"
+  },
+  {
+    "nlem_number": 136,
+    "name": "Enoxaparin"
+  },
+  {
+    "nlem_number": 137,
+    "name": "Entecavir"
+  },
+  {
+    "nlem_number": 138,
+    "name": "Erythropoietin"
+  },
+  {
+    "nlem_number": 139,
+    "name": "Escitalopram"
+  },
+  {
+    "nlem_number": 140,
+    "name": "Esmolol"
+  },
+  {
+    "nlem_number": 141,
+    "name": "Ethambutol"
+  },
+  {
+    "nlem_number": 142,
+    "name": "Ethinylestradiol (A) + Levonorgestrel (B)"
+  },
+  {
+    "nlem_number": 143,
+    "name": "Ethionamide"
+  },
+  {
+    "nlem_number": 144,
+    "name": "Ethyl alcohol (Denatured)"
+  },
+  {
+    "nlem_number": 145,
+    "name": "Etoposide"
+  },
+  {
+    "nlem_number": 146,
+    "name": "Fentanyl"
+  },
+  {
+    "nlem_number": 147,
+    "name": "Ferrous Salts (A) + Folic Acid (B)"
+  },
+  {
+    "nlem_number": 148,
+    "name": "Ferrous salts"
+  },
+  {
+    "nlem_number": 149,
+    "name": "Filgrastim"
+  },
+  {
+    "nlem_number": 150,
+    "name": "Fluconazole"
+  },
+  {
+    "nlem_number": 151,
+    "name": "Fludrocortisone"
+  },
+  {
+    "nlem_number": 152,
+    "name": "Flunarizine"
+  },
+  {
+    "nlem_number": 153,
+    "name": "Fluorescein"
+  },
+  {
+    "nlem_number": 154,
+    "name": "Fluoxetine"
+  },
+  {
+    "nlem_number": 155,
+    "name": "Fluphenazine"
+  },
+  {
+    "nlem_number": 156,
+    "name": "Folic Acid"
+  },
+  {
+    "nlem_number": 157,
+    "name": "Framycetin"
+  },
+  {
+    "nlem_number": 158,
+    "name": "Fresh frozen plasma"
+  },
+  {
+    "nlem_number": 159,
+    "name": "Furosemide"
+  },
+  {
+    "nlem_number": 160,
+    "name": "Fusidic acid"
+  },
+  {
+    "nlem_number": 161,
+    "name": "Gadobenate dimeglumine"
+  },
+  {
+    "nlem_number": 162,
+    "name": "Gefitinib"
+  },
+  {
+    "nlem_number": 163,
+    "name": "Gemcitabine"
+  },
+  {
+    "nlem_number": 164,
+    "name": "Gentamicin"
+  },
+  {
+    "nlem_number": 165,
+    "name": "Glimepiride"
+  },
+  {
+    "nlem_number": 166,
+    "name": "Glucose"
+  },
+  {
+    "nlem_number": 167,
+    "name": "Glucose(A) + Sodium chloride (B)"
+  },
+  {
+    "nlem_number": 168,
+    "name": "Glutaraldehyde"
+  },
+  {
+    "nlem_number": 169,
+    "name": "Glycerin"
+  },
+  {
+    "nlem_number": 170,
+    "name": "Glyceryl trinitrate"
+  },
+  {
+    "nlem_number": 171,
+    "name": "Glycopyrrolate"
+  },
+  {
+    "nlem_number": 172,
+    "name": "Griseofulvin"
+  },
+  {
+    "nlem_number": 173,
+    "name": "Haemodialysis fluid"
+  },
+  {
+    "nlem_number": 174,
+    "name": "Haloperidol"
+  },
+  {
+    "nlem_number": 175,
+    "name": "Halothane"
+  },
+  {
+    "nlem_number": 176,
+    "name": "Heparin"
+  },
+  {
+    "nlem_number": 177,
+    "name": "Hepatitis B immunoglobulin"
+  },
+  {
+    "nlem_number": 178,
+    "name": "Hepatitis B vaccine"
+  },
+  {
+    "nlem_number": 179,
+    "name": "Homatropine"
+  },
+  {
+    "nlem_number": 180,
+    "name": "Hormone releasing IUD"
+  },
+  {
+    "nlem_number": 181,
+    "name": "Human chorionic gonadotropin"
+  },
+  {
+    "nlem_number": 182,
+    "name": "Human normal immunoglobulin"
+  },
+  {
+    "nlem_number": 183,
+    "name": "Hydrochlorothiazide"
+  },
+  {
+    "nlem_number": 184,
+    "name": "Hydrocortisone"
+  },
+  {
+    "nlem_number": 185,
+    "name": "Hydrogen Peroxide"
+  },
+  {
+    "nlem_number": 186,
+    "name": "Hydroxocobalamine"
+  },
+  {
+    "nlem_number": 187,
+    "name": "Hydroxychloroquine"
+  },
+  {
+    "nlem_number": 188,
+    "name": "Hydroxypropyl methylcellulose"
+  },
+  {
+    "nlem_number": 189,
+    "name": "Hydroxyurea"
+  },
+  {
+    "nlem_number": 190,
+    "name": "Hyoscine butylbromide"
+  },
+  {
+    "nlem_number": 191,
+    "name": "Ibuprofen"
+  },
+  {
+    "nlem_number": 192,
+    "name": "Ifosfamide"
+  },
+  {
+    "nlem_number": 193,
+    "name": "Imatinib"
+  },
+  {
+    "nlem_number": 194,
+    "name": "Insulin (Soluble)"
+  },
+  {
+    "nlem_number": 195,
+    "name": "Insulin Glargine"
+  },
+  {
+    "nlem_number": 196,
+    "name": "Insulin Intermediate Acting (NPH)"
+  },
+  {
+    "nlem_number": 197,
+    "name": "Insulin Premix Injection 30:70 (Regular : NPH)"
+  },
+  {
+    "nlem_number": 198,
+    "name": "Iohexol"
+  },
+  {
+    "nlem_number": 199,
+    "name": "Ipratropium"
+  },
+  {
+    "nlem_number": 200,
+    "name": "Irinotecan HCI Trihydrate"
+  },
+  {
+    "nlem_number": 201,
+    "name": "Iron sucrose"
+  },
+  {
+    "nlem_number": 202,
+    "name": "Isoflurane"
+  },
+  {
+    "nlem_number": 203,
+    "name": "Isoniazid"
+  },
+  {
+    "nlem_number": 204,
+    "name": "Isosorbide dinitrate"
+  },
+  {
+    "nlem_number": 205,
+    "name": "Ispaghula"
+  },
+  {
+    "nlem_number": 206,
+    "name": "Itraconazole"
+  },
+  {
+    "nlem_number": 207,
+    "name": "IUD containing Copper"
+  },
+  {
+    "nlem_number": 208,
+    "name": "Ivermectin"
+  },
+  {
+    "nlem_number": 209,
+    "name": "Japanese Encephalitis Vaccine"
+  },
+  {
+    "nlem_number": 210,
+    "name": "Ketamine"
+  },
+  {
+    "nlem_number": 211,
+    "name": "Labetalol"
+  },
+  {
+    "nlem_number": 212,
+    "name": "Lactulose"
+  },
+  {
+    "nlem_number": 213,
+    "name": "Lamivudine"
+  },
+  {
+    "nlem_number": 214,
+    "name": "L-Asparaginase"
+  },
+  {
+    "nlem_number": 215,
+    "name": "Latanoprost"
+  },
+  {
+    "nlem_number": 216,
+    "name": "Lenalidomide"
+  },
+  {
+    "nlem_number": 217,
+    "name": "Letrozole"
+  },
+  {
+    "nlem_number": 218,
+    "name": "Leuprolide acetate"
+  },
+  {
+    "nlem_number": 219,
+    "name": "Levetiracetam"
+  },
+  {
+    "nlem_number": 220,
+    "name": "Levodopa (A) + Carbidopa (B)"
+  },
+  {
+    "nlem_number": 221,
+    "name": "Levofloxacin"
+  },
+  {
+    "nlem_number": 222,
+    "name": "Levonorgestrel"
+  },
+  {
+    "nlem_number": 223,
+    "name": "Levothyroxine"
+  },
+  {
+    "nlem_number": 224,
+    "name": "Lignocaine"
+  },
+  {
+    "nlem_number": 225,
+    "name": "Lignocaine (A) + Adrenaline (B)"
+  },
+  {
+    "nlem_number": 226,
+    "name": "Linezolid"
+  },
+  {
+    "nlem_number": 227,
+    "name": "Lithium"
+  },
+  {
+    "nlem_number": 228,
+    "name": "Loperamide"
+  },
+  {
+    "nlem_number": 229,
+    "name": "Lopinavir (A) + Ritonavir (B)"
+  },
+  {
+    "nlem_number": 230,
+    "name": "Lorazepam"
+  },
+  {
+    "nlem_number": 231,
+    "name": "Magnesium sulphate"
+  },
+  {
+    "nlem_number": 232,
+    "name": "Mannitol"
+  },
+  {
+    "nlem_number": 233,
+    "name": "Measles vaccine"
+  },
+  {
+    "nlem_number": 234,
+    "name": "Mebendazole"
+  },
+  {
+    "nlem_number": 235,
+    "name": "Medroxyprogesterone acetate"
+  },
+  {
+    "nlem_number": 236,
+    "name": "Mefenamic acid"
+  },
+  {
+    "nlem_number": 237,
+    "name": "Mefloquine"
+  },
+  {
+    "nlem_number": 238,
+    "name": "Meglumine diatrizoate"
+  },
+  {
+    "nlem_number": 239,
+    "name": "Melphalan"
+  },
+  {
+    "nlem_number": 240,
+    "name": "Meropenem"
+  },
+  {
+    "nlem_number": 241,
+    "name": "Mesna"
+  },
+  {
+    "nlem_number": 242,
+    "name": "Metformin"
+  },
+  {
+    "nlem_number": 243,
+    "name": "Methotrexate"
+  },
+  {
+    "nlem_number": 244,
+    "name": "Methylergometrine"
+  },
+  {
+    "nlem_number": 245,
+    "name": "Methylprednisolone"
+  },
+  {
+    "nlem_number": 246,
+    "name": "Methylrosanilinium chloride (Gentian Violet)"
+  },
+  {
+    "nlem_number": 247,
+    "name": "Methylthioninium chloride (Methylene blue)"
+  },
+  {
+    "nlem_number": 248,
+    "name": "Metoclopramide"
+  },
+  {
+    "nlem_number": 249,
+    "name": "Metoprolol"
+  },
+  {
+    "nlem_number": 250,
+    "name": "Metronidazole"
+  },
+  {
+    "nlem_number": 251,
+    "name": "Midazolam"
+  },
+  {
+    "nlem_number": 252,
+    "name": "Mifepristone"
+  },
+  {
+    "nlem_number": 253,
+    "name": "Miltefosine"
+  },
+  {
+    "nlem_number": 254,
+    "name": "Misoprostol"
+  },
+  {
+    "nlem_number": 255,
+    "name": "Montelukast"
+  },
+  {
+    "nlem_number": 256,
+    "name": "Morphine"
+  },
+  {
+    "nlem_number": 257,
+    "name": "Moxifloxacin"
+  },
+  {
+    "nlem_number": 258,
+    "name": "Mupirocin"
+  },
+  {
+    "nlem_number": 259,
+    "name": "Mycophenolate mofetil"
+  },
+  {
+    "nlem_number": 260,
+    "name": "N-acetylcysteine"
+  },
+  {
+    "nlem_number": 261,
+    "name": "Naloxone"
+  },
+  {
+    "nlem_number": 262,
+    "name": "Natamycin"
+  },
+  {
+    "nlem_number": 263,
+    "name": "Neostigmine"
+  },
+  {
+    "nlem_number": 264,
+    "name": "Nevirapine"
+  },
+  {
+    "nlem_number": 265,
+    "name": "Nicotine replacement therapy (NRT)"
+  },
+  {
+    "nlem_number": 266,
+    "name": "Nifedipine"
+  },
+  {
+    "nlem_number": 267,
+    "name": "Nitrofurantoin"
+  },
+  {
+    "nlem_number": 268,
+    "name": "Nitrous oxide"
+  },
+  {
+    "nlem_number": 269,
+    "name": "Noradrenaline"
+  },
+  {
+    "nlem_number": 270,
+    "name": "Norethisterone"
+  },
+  {
+    "nlem_number": 271,
+    "name": "Nystatin"
+  },
+  {
+    "nlem_number": 272,
+    "name": "Omeprazole"
+  },
+  {
+    "nlem_number": 273,
+    "name": "Ondansetron"
+  },
+  {
+    "nlem_number": 274,
+    "name": "Oral poliomyelitis vaccine"
+  },
+  {
+    "nlem_number": 275,
+    "name": "Oral rehydration salts"
+  },
+  {
+    "nlem_number": 276,
+    "name": "Ormeloxifene (Centchroman)"
+  },
+  {
+    "nlem_number": 277,
+    "name": "Oxaliplatin"
+  },
+  {
+    "nlem_number": 278,
+    "name": "Oxygen"
+  },
+  {
+    "nlem_number": 279,
+    "name": "Oxytocin"
+  },
+  {
+    "nlem_number": 280,
+    "name": "Paclitaxel"
+  },
+  {
+    "nlem_number": 281,
+    "name": "Pantoprazole"
+  },
+  {
+    "nlem_number": 282,
+    "name": "Para- aminosalicylic acid"
+  },
+  {
+    "nlem_number": 283,
+    "name": "Paracetamol"
+  },
+  {
+    "nlem_number": 284,
+    "name": "Paromomycin"
+  },
+  {
+    "nlem_number": 285,
+    "name": "Peritoneal dialysis solution"
+  },
+  {
+    "nlem_number": 286,
+    "name": "Permethrin"
+  },
+  {
+    "nlem_number": 287,
+    "name": "Pheniramine"
+  },
+  {
+    "nlem_number": 288,
+    "name": "Phenobarbitone"
+  },
+  {
+    "nlem_number": 289,
+    "name": "Phenoxymethyl penicillin"
+  },
+  {
+    "nlem_number": 290,
+    "name": "Phenylephrine"
+  },
+  {
+    "nlem_number": 291,
+    "name": "Phenytoin"
+  },
+  {
+    "nlem_number": 292,
+    "name": "Phytomenadione(Vitamin K1)"
+  },
+  {
+    "nlem_number": 293,
+    "name": "Pilocarpine"
+  },
+  {
+    "nlem_number": 294,
+    "name": "Piperacillin (A) + Tazobactam (B)*"
+  },
+  {
+    "nlem_number": 295,
+    "name": "Platelet rich plasma/ Platelet concentrates"
+  },
+  {
+    "nlem_number": 296,
+    "name": "Podophyllin resin"
+  },
+  {
+    "nlem_number": 297,
+    "name": "Potassium chloride"
+  },
+  {
+    "nlem_number": 298,
+    "name": "Potassium permanganate"
+  },
+  {
+    "nlem_number": 299,
+    "name": "Povidone iodine"
+  },
+  {
+    "nlem_number": 300,
+    "name": "Pralidoxime chloride (2-PAM)"
+  },
+  {
+    "nlem_number": 301,
+    "name": "Praziquantel"
+  },
+  {
+    "nlem_number": 302,
+    "name": "Prednisolone"
+  },
+  {
+    "nlem_number": 303,
+    "name": "Primaquine"
+  },
+  {
+    "nlem_number": 304,
+    "name": "Procaine Benzylpenicillin"
+  },
+  {
+    "nlem_number": 305,
+    "name": "Proparacaine"
+  },
+  {
+    "nlem_number": 306,
+    "name": "Propofol"
+  },
+  {
+    "nlem_number": 307,
+    "name": "Propranolol"
+  },
+  {
+    "nlem_number": 308,
+    "name": "Protamine Sulphate"
+  },
+  {
+    "nlem_number": 309,
+    "name": "Pyrazinamide"
+  },
+  {
+    "nlem_number": 310,
+    "name": "Pyridoxine"
+  },
+  {
+    "nlem_number": 311,
+    "name": "Quinine"
+  },
+  {
+    "nlem_number": 312,
+    "name": "Rabies vaccine"
+  },
+  {
+    "nlem_number": 313,
+    "name": "Raltegravir"
+  },
+  {
+    "nlem_number": 314,
+    "name": "Ramipril"
+  },
+  {
+    "nlem_number": 315,
+    "name": "Red blood cells/ Packed RBCs"
+  },
+  {
+    "nlem_number": 316,
+    "name": "Ribavirin"
+  },
+  {
+    "nlem_number": 317,
+    "name": "Riboflavin"
+  },
+  {
+    "nlem_number": 318,
+    "name": "Rifampicin"
+  },
+  {
+    "nlem_number": 319,
+    "name": "Ringer lactate"
+  },
+  {
+    "nlem_number": 320,
+    "name": "Risperidone"
+  },
+  {
+    "nlem_number": 321,
+    "name": "Ritonavir"
+  },
+  {
+    "nlem_number": 322,
+    "name": "Rituximab"
+  },
+  {
+    "nlem_number": 323,
+    "name": "Rotavirus vaccine"
+  },
+  {
+    "nlem_number": 324,
+    "name": "Salbutamol"
+  },
+  {
+    "nlem_number": 325,
+    "name": "Salicylic acid"
+  },
+  {
+    "nlem_number": 326,
+    "name": "Sevoflurane"
+  },
+  {
+    "nlem_number": 327,
+    "name": "Silver sulphadiazine"
+  },
+  {
+    "nlem_number": 328,
+    "name": "Snake Venom Antiserum"
+  },
+  {
+    "nlem_number": 329,
+    "name": "Sodium bicarbonate"
+  },
+  {
+    "nlem_number": 330,
+    "name": "Sodium chloride"
+  },
+  {
+    "nlem_number": 331,
+    "name": "Sodium nitrite"
+  },
+  {
+    "nlem_number": 332,
+    "name": "Sodium nitroprusside"
+  },
+  {
+    "nlem_number": 333,
+    "name": "Sodium thiosulphate"
+  },
+  {
+    "nlem_number": 334,
+    "name": "Sodium Valproate"
+  },
+  {
+    "nlem_number": 335,
+    "name": "Sofosbuvir"
+  },
+  {
+    "nlem_number": 336,
+    "name": "Somatostatin"
+  },
+  {
+    "nlem_number": 337,
+    "name": "Spironolactone"
+  },
+  {
+    "nlem_number": 338,
+    "name": "Streptokinase"
+  },
+  {
+    "nlem_number": 339,
+    "name": "Streptomycin"
+  },
+  {
+    "nlem_number": 340,
+    "name": "Succinylcholine"
+  },
+  {
+    "nlem_number": 341,
+    "name": "Sulfasalazine"
+  },
+  {
+    "nlem_number": 342,
+    "name": "Sumatriptan"
+  },
+  {
+    "nlem_number": 343,
+    "name": "Surfactant"
+  },
+  {
+    "nlem_number": 344,
+    "name": "Tacrolimus"
+  },
+  {
+    "nlem_number": 345,
+    "name": "Tamoxifen"
+  },
+  {
+    "nlem_number": 346,
+    "name": "Telmisartan"
+  },
+  {
+    "nlem_number": 347,
+    "name": "Temozolomide"
+  },
+  {
+    "nlem_number": 348,
+    "name": "Tenecteplase"
+  },
+  {
+    "nlem_number": 349,
+    "name": "Teneligliptin"
+  },
+  {
+    "nlem_number": 350,
+    "name": "Tenofovir (A) + Lamivudine (B)"
+  },
+  {
+    "nlem_number": 351,
+    "name": "Tenofovir (A) + Lamivudine (B) + Dolutegravir (C)"
+  },
+  {
+    "nlem_number": 352,
+    "name": "Tenofovir (A) + Lamivudine (B) + Efavirenz (C)"
+  },
+  {
+    "nlem_number": 353,
+    "name": "Tenofovir Alafenamide Fumarate (TAF)"
+  },
+  {
+    "nlem_number": 354,
+    "name": "Tenofovir Disproxil Fumarate (TDF)"
+  },
+  {
+    "nlem_number": 355,
+    "name": "Terbinafine"
+  },
+  {
+    "nlem_number": 356,
+    "name": "Tetanus toxoid"
+  },
+  {
+    "nlem_number": 357,
+    "name": "Thalidomide"
+  },
+  {
+    "nlem_number": 358,
+    "name": "Thiamine"
+  },
+  {
+    "nlem_number": 359,
+    "name": "Thiopentone"
+  },
+  {
+    "nlem_number": 360,
+    "name": "Timolol"
+  },
+  {
+    "nlem_number": 361,
+    "name": "Tiotropium"
+  },
+  {
+    "nlem_number": 362,
+    "name": "Tramadol"
+  },
+  {
+    "nlem_number": 363,
+    "name": "Tranexamic acid"
+  },
+  {
+    "nlem_number": 364,
+    "name": "Trastuzumab"
+  },
+  {
+    "nlem_number": 365,
+    "name": "Trihexyphenidyl"
+  },
+  {
+    "nlem_number": 366,
+    "name": "Tropicamide"
+  },
+  {
+    "nlem_number": 367,
+    "name": "Tuberculin, Purified Protein derivative"
+  },
+  {
+    "nlem_number": 368,
+    "name": "Valganciclovir"
+  },
+  {
+    "nlem_number": 369,
+    "name": "Vancomycin"
+  },
+  {
+    "nlem_number": 370,
+    "name": "Vecuronium"
+  },
+  {
+    "nlem_number": 371,
+    "name": "Verapamil"
+  },
+  {
+    "nlem_number": 372,
+    "name": "Vinblastine"
+  },
+  {
+    "nlem_number": 373,
+    "name": "Vincristine"
+  },
+  {
+    "nlem_number": 374,
+    "name": "Vitamin A"
+  },
+  {
+    "nlem_number": 375,
+    "name": "Warfarin"
+  },
+  {
+    "nlem_number": 376,
+    "name": "Water for Injection"
+  },
+  {
+    "nlem_number": 377,
+    "name": "Whole blood"
+  },
+  {
+    "nlem_number": 378,
+    "name": "Xylometazoline"
+  },
+  {
+    "nlem_number": 379,
+    "name": "Zidovudine"
+  },
+  {
+    "nlem_number": 380,
+    "name": "Zidovudine (A) + Lamivudine (B)"
+  },
+  {
+    "nlem_number": 381,
+    "name": "Zidovudine (A) + Lamivudine (B) + Nevirapine (C)"
+  },
+  {
+    "nlem_number": 382,
+    "name": "Zinc Sulphate"
+  },
+  {
+    "nlem_number": 383,
+    "name": "Zoledronic acid"
+  },
+  {
+    "nlem_number": 384,
+    "name": "Zolpidem"
+  }
+]

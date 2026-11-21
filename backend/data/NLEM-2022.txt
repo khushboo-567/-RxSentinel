@@ -1,0 +1,5884 @@
+ 
+ 
+ 
+ 
+ 
+Report
+ 
+
+Introduction 
+As per World Health Organization (WHO), Essential Medicines are those that 
+satisfy the priority health care needs of any population. These medicines should 
+have established safety, efficacy, and comparative cost effectiveness. The aim 
+behind formulating essential medicine list (EML) is to ensure that these 
+medicines are available in adequate amounts, in appropriate dosage forms and 
+strengths with assured quality. EML is expected to aid in improving quality and 
+accessibility of health care while ensuring cost effective use of resources. This 
+has obvious importance for resource limited country like India. Further, EML is 
+intended to promote rational use of medicines. 
+Evolution of Essential Medicines List  
+Tanzania was the first country to compose its own country specific EML in 
+1970. In 1975, the World Health Assembly requested WHO to assist member 
+states in identifying essential medicines specific to them and assuring their 
+availability, assuring good quality at reasonable cost. WHO published first 
+model list of essential medicines in 1977 which contained 186 medicines. It was 
+intended to be used as a template by member countries. It stated that essential 
+medicines 
+the health and needs of the p
+efficacy, safety, quality, and total cost. The emphasis was laid on disease burden 
+and treatment guidelines as basis for selecting essential medicines.  
+ 
+In 1985, the list of essential medicines of the WHO was recognized as 
+important, mainly for the public sector and its scope was to guide the 
+procurement, distribution, rational use, and quality assurance of medicines. As 
+the disease diversity and burden grew, the number of medicines in the WHO 
+EML increased over the years, a trend that has also been seen with National List 
+of Essential Medicines (NLEM) of India.  
+
+Requirement for Country Specific EML 
+The essential medicines list prepared by WHO is a prototype list that can be 
+used as a template by individual countries. Since priority health care needs of 
+countries differ, it is logical that each country shall have its own country 
+specific EML. Socio-demographic factors and economy are other factors that 
+are likely to influence composition of EML for any country.  
+Disease burden may vary in different countries 
+The central concept of Essential medicines is to address the 
+lation. For example, HIV, tuberculosis, 
+malaria and diarrheal diseases are priority health care concerns in low- and 
+middle- income countries including India, but it may not be so for evolved 
+economies. On the same line, trypanosomiasis and yellow fever may be a 
+priority health care concern in some countries but not in our country. 
+Variations in Priority Health Care Concerns within a country 
+For our country, which has a large geographical area with huge diversity in 
+climate, food habits, culture etc., there are differences in health care priorities 
+within the states, across different regions. For example, kala-azar is more 
+prevalent in Bihar whereas Japanese encephalitis is more prevalent in Bihar and 
+Assam. Therefore, medicines for priority health care conditions for different 
+regions of the country have been considered for inclusion in NLEM 2022. 
+Indian healthcare needs are also peculiar as they involve not only problems of 
+low-income countries but that of high-income countries also, such as 
+hypertension, diabetes mellitus and other lifestyle diseases.  
+
+ 
+What makes Indian NLEM different 
+Disease Prevalence Patterns in India 
+With the improvement in public health care and the socioeconomic status, India 
+faces the twin epidemic of continuing/ emerging infectious diseases as well as 
+non-communicable, lifestyle diseases. The temporal landscape of India s health 
+care priorities makes an intriguing study. 
+The current disease prevalence scenario is unique with an increase in the 
+burden of non- communicable diseases and resurgence of certain communicable 
+diseases either due to emergence of drug resistance, like in tuberculosis and 
+malaria, or occurrence of certain co-infections like HIV and TB, and HIV and 
+sexually transmitted diseases, or due to evolution of the pathogens as in case of 
+dengue, influenza like H1N1, etc. 
+The essential medicines selection for various therapeutic areas have been 
+considered taking into view the larger perspective of current demographic 
+profile of disease burden as well as likely future trends. 
+Meeting the healthcare needs of a common man in India 
+In fiscal year 2018-19, the value of public health expenditure by states and 
+union territories together amounted to around 1.58 trillion Indian rupees. This 
+Urgent need has 
+now been felt to enhance the budgetary allocation in health sector. Huge 
+funding support has been provided by government to meet the healthcare needs. 
+Rupees that same year1. The past decade has also seen a rise in the public 
+1 *Reference - India - estimated public health expenditure 2017-2020 | Statista [Internet]. Statista. 2021 [cited 9 
+July 2021]. Available from: https://www.statista.com/statistics/684924/india-public-health-expenditure/ 
+
+adoption of insurance schemes. Nevertheless, the health insurance schemes are 
+often underutilized in India. Very-small subset of the Indian population is 
+covered through health insurance, most of it being government employees and 
+organized sectors. The most vulnerable groups like workers of unorganized 
+sectors, migrant workers and agriculture dependent population are left out of the 
+insurance coverage and are dependent on the out of the pocket or public 
+spending for purchase of medicines. Various programmes like the Ayushman 
+Bharat,  
+Jan Aushadhi Yojana, AMRIT Pharmacies and the National Health Mission 
+have been implemented to provide affordable healthcare to the common man of 
+India.  
+ 
+The National Health Policy 2017 emphasized on the vision of health for 
+all and universal health coverage. To fulfill this objective, the Government of 
+India conceived Ayushman Bharat, an 
+Minister. It aims to provide financial protection (Swasthya Suraksha) to 10 
+crore poor and deprived rural families and identified categories of urban 
+s largest healthcare programme and insurance 
+scheme that aims to provide free healthcare access to low income population of 
+the country. 
+ 
+Out-of-pocket expenditure constitutes over 60% of total health 
+expenditure, with a substantial 40% being incurred on medicines. With this 
+background, it is of paramount importance that accessibility and affordability of 
+medicines be enhanced in order to reduce the financial burden on the 
+households. Access to safe, effective, quality, and affordable essential 
+medicines can be achieved with the use of NLEM. It provides the framework 
+for judicious use of medicines as all the drugs listed are based on criteria of 
+efficacy, safety, cost-effectiveness data. The drugs listed in NLEM are 
+considered scheduled drugs under Drugs Price Control Order (DPCO) and their 
+
+prices are regulated by National Pharmaceutical Pricing Authority (NPPA) to 
+ensure affordability. India is a resource limited country, and the allocated 
+budget has to be used judiciously so that maximum number of beneficiaries can 
+be covered. NLEM is an important tool to achieve this goal, not only by 
+rationalizing the therapeutics but also by economizing the resources. The 
+NLEM will also help in optimization of S
+ 
+Balance of affordability and essentiality in NLEM 
+There may be situations where certain medicines or formulations may have 
+some advantage over others in similar class, but the high cost differential may 
+not merit their inclusion in NLEM. For example 
+ the injectable iron 
+preparations used for iron deficiency anemia include iron dextran, iron sucrose, 
+and ferric carboxymaltose. Iron dextran is the cheapest of the three but has 
+substantial safety concerns due to risk for anaphylaxis. Iron sucrose is though 
+relatively bit expensive but is safer. Ferric carboxymaltose has the least safety 
+concern and can deliver the maximum amount of iron. Ferric carboxymaltose is 
+however, very expensive and hence it does not justify inclusion. Considering 
+comparative efficacy, safety and cost, out of the three, iron sucrose has been 
+included in the NLEM. 
+As a corollary, there may also be a situation where a medicine/ 
+formulation are included in NLEM despite it being more expensive as it has 
+significant advantage of safety and/or efficacy. However, considering the 
+socioeconomic conditions, the less expensive, other formulation may also find a 
+place in the list. For example 
+ three formulations of amphotericin B 
+(conventional, relatively expensive lipid formulations as well as the much 
+expensive liposomal) have been included.  
+
+Issues related to Price Control of Medicines and NLEM 2022 
+To make medicines affordable, the government promulgated the National 
+Pharmaceutical Pricing Policy, 2012, to bring all medicines with specified 
+dosage and strength included in NLEM under price control. Accordingly, Drug 
+Price Control Order, 2013 was issued by Department of Pharmaceuticals under 
+Ministry of Chemicals and Fertilizers for fixing the ceiling price of medicines 
+included in NLEM. 
+The issue related to price control sometimes became the main focus of 
+regarding the inclusion of medicines in NLEM was taken considering the main 
+themes of safety, efficacy, and disease burden in the country, their affordability 
+and accessibility.  
+NLEM  a dynamic process that needs a standing committee 
+As the health and science are dynamic, the usefulness of medicines is also 
+dynamic. The list of essential medicines cannot be static but must be ever 
+dynamic. It needs to be updated/ revised periodically. The approval of newer 
+and better medicines may lead to change in treatment practices/ guidelines for 
+various disease conditions. For example, ergot alkaloids (dihydroergotamine) 
+were commonly used for the treatment of acute   attack of migraine. However, 
+with the introduction of safer alternatives of 5-HT1b/d agonists like medicines of 
+this class are now preferred over the existing ones. Among various 5-HT1b/d 
+agonists, sumatriptan has been considered as essential in place of 
+dihydroergotamine. Similarly, availability of rituximab for NHL has changed 
+the treatment regimen for this disease. 
+Further, some medicines may become obsolete whereas some may 
+become the drug of choice. Thus, monitoring and evaluation of benefit-risk, 
+availability, affordability needs to be continuous over time. This philosophy 
+
+formed the basis for constitution of a Standing Committee. This will preserve 
+the relevance of NLEM for the Indian population.  
+During the process of revision of NLEM, there were several practical 
+questions were which need to be answered through simple observational 
+studies. The data generated through such studies will support evidence-based 
+decisions. Some examples of such questions are listed as a separate chapter. The 
+academic institutions can take up these studies 
+Various purposes that can be served by National List of Essential Medicines  
+The NLEM may serve multiple purposes as under: 
+ Promote the rational use of medicines 
+ Guide safe and effective treatment of priority disease conditions of a 
+population and optimize the available health resources of the country.  
+ It can also serve as a guiding document for: 
+ State governments to prepare their list of essential medicines 
+ Developing Standard Treatment Guidelines 
+ Help in preparing hospital formularies 
+ Procurement and supply of medicines in the public sector as well as 
+private sector hospitals 
+ Reimbursement of 
+cost of pharmaceutical products by employers  
+ Reimbursement by insurance companies 
+ Identifying the MUST KNOW
+omain for the teaching and training of 
+health care professionals (medical, dental, pharmacy and nursing). 
+
+Salient features of NLEM 2022 
+The current National List of Essential Medicines (NLEM 2022) contains 386 
+medicines. The NLEM 2015 contained 376 medicines. In 2015, 70 medicines 
+were deleted, and 106 medicines were added. In NLEM 2022, 34 medicines 
+have been added and 26 medicines have been deleted. Thus, the current list 
+contains a total of 384 medicines. Out of these 384 medicines, 342 appear in 
+single therapeutic category, 41 drugs appear in two therapeutic categories, 11 
+appear in three therapeutic categories and 4 drugs appear in four therapeutic 
+categories. Hence, the total list is 440 items long. There are relatively lesser 
+number of deletions and additions in the current list. 
+Table: Addition, deletion and total number of medicines in successive NLEMs 
+Year 
+2011 
+2015 
+2022 
+Number of medicines 
+added 
+47 
+106 
+34 
+Number of medicines 
+deleted 
+43 
+70 
+26 
+Total number of 
+medicines 
+348 
+376 
+384 
+ 
+ 
+ 
+
+ 
+Figure: Number of medicines in successive NLEMs 
+Therapeutic Categories of medicines  
+In NLEM 2015, the medicines were listed in 30 therapeutic categories in. In 
+NLEM 2022, it was decided to merge four categories (Antiepileptic medicines, 
+Antiparkinsonism medicines, Antimigraine and Medicines used in Dementia) 
+into a single therapeutic category 
+D
+ 
+was merged into one category and named as 
+aesthes
+Further, a new section of Medicines for 
+COVID-19 Management has been added. Thus, NLEM 2022 contains 27 
+therapeutic categories as opposed to 30 in NLEM 2015.  
+ 
+Each deletion/ addition of medicines/ formulations was carried out after 
+extensive deliberation among the experts, considering published evidence 
+
+(papers, meta-analysis, national and international guidelines, safety data from 
+published reports, and reports from Pharmacovigilance Programmed of India), 
+seeking inputs from stakeholders and also assessing the availability in the 
+market. This nationwide rigorous consultative process has led to a consensus 
+decision in all modifications.  
+ 
+The medicines in various National Health Programmes have been 
+considered for inclusion in NLEM. Any medicine/ vaccine, as and when 
+recommended under any National Health Programmes will be deemed 
+included in NLEM. 
+ 
+More than 130 suggestions/ inputs, from Pharmaceutical Industries, 
+Associations/ Bodies, non-governmental organizations (NGOs), Ministries 
+were received. After deliberations on each, wherever considered 
+appropriate, the viewpoints have been included. 
+The major deletions and additions in NLEM 2015 list were in the therapeutic 
+category of anti-infective medicines (deletion 16 and additions 33) as compared 
+to 09 deletions and 18 additions in NLEM 2022.
+ 
+Maximum numbers of additions in anti-infective therapeutic category of 
+medicines. In this category 18 medicines have been added and 09 have been 
+deleted. The second maximum numbers of medicine 63 (including duplication) 
+are in anti-cancer agents including Immunosuppressive and Medicines used in 
+Palliative care therapeutic category.    
+
+ Details of changes made in NLEM from 2011 till 2022 are given in the table 
+below:
+Section
+Therapeutic Category 
+Total 
+in 
+NLEM 
+2011 
+Deleted Added 
+Total 
+in 
+NLEM 
+2015 
+Deleted
+Added
+No. of 
+Medici
+nes* 
+1. 
+Medicines used in 
+Anaesthesia 
+23 
+4 
+2 
+21 
+1 
+0 
+20(6) 
+2. 
+Analgesics, 
+antipyretics, non-
+steroidal anti-
+inflammatory 
+medicines, medicines 
+used to treat gout and 
+disease modifying 
+agents used in 
+rheumatoid disorders 
+14 
+0 
+1 
+15 
+1 
+0 
+14(8) 
+3. 
+Antiallergics and 
+medicines used in 
+anaphylaxis 
+9 
+2 
+0 
+7 
+ 1 
+0 
+ 6(3) 
+4. 
+Antidotes and Other 
+Substances used in 
+Management of 
+Poisonings/Envenomati
+on 
+14 
+1 
+1 
+14 
+ 1 
+0 
+ 13(4) 
+5 
+Medicines used in 
+neurological disorders 
+14 
+2 
+5 
+17 
+0 
+0/3 
+20(8) 
+6. 
+Anti-Infective 
+Medicines 
+69 
+16 
+33 
+86 
+09 
+ 18/32
+ 
+ 109 
+(34) 
+7. 
+Anti-cancer agents 
+40 
+6 
+25 
+59 
+ 1 
+ 4/5 
+ 63 
+
+Section
+Therapeutic Category 
+Total 
+in 
+NLEM 
+2011 
+Deleted Added 
+Total 
+in 
+NLEM 
+2015 
+Deleted
+Added
+No. of 
+Medici
+nes* 
+including 
+Immunosuppressives 
+and Medicines used in  
+Palliative Care 
+(16) 
+8. 
+Medicines affecting 
+blood 
+10 
+3 
+6 
+13 
+ 0 
+0 
+ 13 (3) 
+9. 
+Blood products and 
+Plasma substitutes 
+10 
+4 
+2 
+8 
+0 
+0 
+8(0) 
+10. 
+Cardiovascular 
+medicines 
+29 
+5 
+5 
+30 
+ 2 
+2/5 
+ 30(8) 
+11. 
+Dermatological 
+medicines (Topical) 
+16 
+6 
+5 
+15 
+3/2 
+0 
+12 (2) 
+ 12. 
+Diagnostic agents 
+11 
+6 
+2 
+7 
+1/1 
+0/1 
+7(2) 
+13. 
+Dialysis components 
+(Hemodialysis and 
+Peritoneal Dialysis) 
+1 
+0 
+1 
+2 
+0 
+0 
+2(0) 
+14. 
+Antiseptics and 
+Disinfectants 
+12 
+3 
+0 
+9 
+2 
+0 
+7(1) 
+15. 
+Diuretics 
+4 
+0 
+0 
+4 
+0 
+0 
+4(2) 
+16. 
+Ear, nose, throat 
+medicines 
+0 
+0 
+4 
+4 
+0 
+0 
+4(3) 
+17. 
+Gastrointestinal 
+medicines 
+16 
+3 
+3 
+16 
+ 2 
+0 
+14(4) 
+18. 
+Hormones, other 
+endocrine medicines 
+and contraceptives 
+24 
+4 
+3 
+23 
+ 2 
+4/5 
+25(5) 
+19. 
+Immunological 
+13 
+0 
+4 
+17 
+0 
+1/1 
+18(1) 
+
+Section
+Therapeutic Category 
+Total 
+in 
+NLEM 
+2011 
+Deleted Added 
+Total 
+in 
+NLEM 
+2015 
+Deleted
+Added
+No. of 
+Medici
+nes* 
+20. 
+Medicines for Neonatal 
+Care 
+0 
+0 
+3 
+3 
+0 
+0 
+3(0) 
+21. 
+Ophthalmological 
+Medicines 
+17 
+5 
+6 
+17 
+ 2/1 
+1/1 
+16(8) 
+22. 
+Oxytocics and 
+Antioxytocics 
+7 
+1 
+1 
+7 
+0 
+0 
+7(0) 
+23. 
+Medicines in treatment 
+of Psychiatric Disorders 11 
+5 
+7 
+13 
+0 
+3/4 
+17(6) 
+24. 
+Medicines acting on the 
+Respiratory tract 
+6 
+3 
+3 
+6 
+0 
+1/1 
+7(2) 
+25. 
+Solutions correcting 
+Water, Electrolyte 
+disturbances and Acid-
+base disturbances* 
+10 
+0 
+0 
+8 
+0 
+0 
+8(2) 
+26. 
+Vitamins and Mineral 
+10 
+2 
+1 
+9 
+1 
+0 
+8(1) 
+27. 
+Medicines in 
+management of 
+COVID-19 
+- 
+- 
+- 
+- 
+- 
+0/5 
+5(5) 
+ 
+Total Number of 
+Medicines 
+348/390 
+376/
+430 
+ 
+ 
+384** 
+460# 
+(56) 
+*   Total in NLEM 2022 (No of medicines appearing more than once) 
+** Actual Number of medicines, i.e. Medicines appearing at more than one category is   
+counted once only 
+#   Total Number of medicines i.e. the medicines repeating in more than one category have 
+been counted for each category. For example  Hydroxyurea appearing at two places is 
+counted 
+as 
+two. 
+Morphine 
+appearing 
+at 
+3 
+places 
+is 
+counted 
+as 
+three. 
+
+The process of revision of NLEM 
+Ministry of Health & Family Welfare (MoHFW), Government of India, 
+constituted Standing National Committee on Medicines (SNCM) under the 
+chairmanship of Prof. Balram Bhargava, Secretary, Department of Health 
+Research (DHR) and Director General, Indian Council of Medical Research 
+(ICMR), and Prof. Y.K. Gupta, Formerly Head, Department of Pharmacology 
+and Dean, All India Institute of Medical Sciences (AIIMS), New Delhi as its 
+Vice Chairman. 
+ 
+The notification provided the list of experts of different disciplines from 
+across the country with a provision that the chairman may consult other experts 
+as and where required.  
+ 
+The committee deliberated on the criteria of inclusion and exclusion for 
+the current revision of NLEM and decided that the criteria adopted in NLEM 
+2015 will largely be followed since the principle of essentiality remains 
+unchanged. The committee paid special attention to antimicrobial resistance 
+while deliberating on the essentiality of antibiotics. It also noted the availability 
+issues of certain formulations listed in NLEM 2015 and considered this aspect 
+while listing them in the current NLEM. Enlisting of medicines in NLEM was 
+stratified according to the level of health care, i.e. Primary (P), Secondary (S) 
+and Tertiary (T) because the requirements, treatment facilities, training, 
+experience and availability of health care personnel differ at these levels. 
+
+ 
+Criteria for inclusion and deletion 
+The criteria for inclusion of a medicine are listed below:  
+ 
+The medicine should be approved/ licensed in India. 
+ 
+The efficacy and safety profile of the medicine should be based on robust 
+scientific evidence.  
+ 
+The medicine should be useful in disease which is a public health problem 
+in India.  
+ 
+All medicines enlisted in National Health Programmes/ National Disease 
+Control Programmes are as such essential and hence included in the 
+NLEM 2022. 
+ 
+The medicine should be affordable to the community in the Indian context.  
+ 
+The medicine should be readily accessible at P, S, T healthcare levels  
+ 
+When more than one medicine are available from the same therapeutic 
+class, preferably one prototype/ best suited medicine of that class to be 
+included after due deliberation and careful evaluation of their relative 
+safety, efficacy, availability and affordability.  
+ 
+Overall cost of therapy was considered and not just the unit cost of the 
+medicine.  
+ 
+A Fixed Dose Combination (FDC) was generally not included unless the 
+combination had unequivocally proven advantage over individual 
+ingredients administered separately, in terms of increasing efficacy, 
+reducing adverse effects and/or improving compliance. 
+
+ 
+The criteria for deletion of a medicine from the existing NLEM are listed 
+below: 
+ 
+The medicine has been banned in India by the regulatory authority. 
+ 
+There are reports of serious concerns on the safety profile of a medicine. 
+ 
+Another medicine with better efficacy or favourable safety profile or better 
+accessibility and affordability is now available. 
+ 
+The disease burden, for which a medicine is indicated, is no longer a 
+national health concern for India. 
+ 
+In case of antimicrobials, if the resistance pattern has rendered an 
+antimicrobial ineffective in the Indian context.  
+Reference documents to guide the revision process 
+The NLEM 2015 was treated as the base document for drafting NLEM 2022. 
+Any suggestions regarding addition to the list were discussed within the 
+cornerstones of essentiality. Other documents such as WHO EML 2019, Indian 
+Pharmacopoeia, National Formulary of India 2016, Drug compendia including 
+online drug information sources and formularies of other countries (like British 
+National Formulary) were also perused before taking a decision regarding 
+suggested inclusion. Guidelines drawn from major National Health 
+Programmes/ Disease Control Programmes were also referred to. Any additions 
+of medicines in these were also included in NLEM 2022. 
+ 
+To consider the safety issue of the drugs, the available literature, the 
+safety reports from WHO and other countries as well as information from 
+Pharmacovigilance Programme of India (PvPI) were considered. If there was 
+any emerging safety issue which tilted adversely the risk benefit assessment, the 
+medicine was considered for deletion.  
+ 
+
+Involvement of Experts and stakeholders 
+The NLEM revision process involved nation-wide, transparent consultation 
+process. For this, the subject experts were drawn from different medical 
+institutions, including those situated in peri-urban and rural areas.  A country 
+wide representation (including North-East and Jammu Kashmir regions) was 
+ensured. The experts were of different subject domain. Representatives of 
+different national health Programme such as National TB Elimination Program 
+(NTEP), National AIDS Control Programme (NACP), and National Vector 
+Borne Disease Control Programme (NVBDCP); were invited.  
+ 
+To get the inputs and opinions of pharmaceutical industry and NGOs, an 
+advertisement was placed in national newspapers and on the ICMR website. 
+Representatives from pharmaceutical industry and NGOs presented their 
+viewpoints in stakeholder meetings. Inputs from the experts were also received 
+through emails. The committee deliberated on online and offline submissions 
+from stakeholders.  
+Transparent approach in NLEM meetings and deliberations  
+The meetings with experts were earlier planned as National consultative meetings 
+in various parts of the country i.e. Delhi, Kolkata, Mumbai, Chennai and 
+Guwahati. The initial few meetings were held face-to-face in DHR/ ICMR. 
+However, due to the onset of Covid-19 pandemic, from April 2020 the 
+subsequent meetings were conducted through online video conferencing. The 
+meetings were conducted according to the therapeutic categories and the subject 
+experts were invited accordingly. To reiterate the concept and principles of 
+NLEM, a briefing session was organized before the start of each consultation 
+meeting, highlighting the need for NLEM, its philosophy, principles and 
+practices to be kept in mind while deliberating the matter. Key considerations for 
+framing NLEM 2022 were explained to the experts with the help of real-world 
+
+examples.  
+ 
+Four consultative meetings were held with pharmaceutical industry, 
+NGOs, pharmaceutical associations along with subject experts to get their 
+inputs. The dates and venue of these consultation meetings are given below: 
+ 
+25.07.2019 at Department of Health Research, MoHFW, Delhi 
+ 
+04.11.2019 at Department of Health Research, MoHFW, Delhi 
+ 
+17.08.2020 at Indian Council of Medical Research, Delhi  
+ 
+19.02.2022 at Indian Council of Medical Research, Delhi 
+The committee received more than 60 representations from institutions, industry 
+associations, pharmaceutical companies, NGOs, as well as individual experts. 
+All these representations were carefully considered and deliberated upon.  
+ 
+Proceedings of all the meetings were audio recorded after obtaining 
+verbal consent. The recordings have been archived. More than 130 meetings 
+were held subject wise and therapeutic category wise in which 120 meetings 
+were expert group meetings, 4 national 
+ consultation meetings, 8 
+SNCM meetings and 18 drafting group meetings. 
+Evidence Based Additions and Deletions 
+The experts were requested to support their recommendations with suitable 
+evidence. If their opinion was based on their clinical judgment and experience, 
+it was recorded as such. A summary sheet providing evidence-based 
+justification for each addition and deletion of medicines listed in the NLEM was 
+documented.  
+ 
+
+ 
+The process of revision of NLEM 2022 
+Stakeholde
+ 
+Ministry of Health and Family Welfare, Ministry of AYUSH, Department of 
+Consumer Affairs, Department of Pharmaceuticals, NPPA, CDSCO , IPC, NGOs, 
+pharmaceutical  industry, associations and patient groups 
+ 
+Stakeholders were informed through print media and website of ICMR, IPC and 
+CDSCO. Total four stakeholders meetings were held. 
+ 
+Online/offline submissions from stakeholders were received. 
+Drafting the report of NLEM 2022  
+Submission to the Ministry of Health and Family Welfare 
+Constitution of the Standing National Committee on Medicines by Ministry of Health 
+and Family Welfare to review and revise NLEM 2015 
+ 
+Chairman: Prof. Balram Bhargava, Secretary, DHR & DG, ICMR 
+Vice Chairman: Prof. Y.K. Gupta, Formerly HOD, Pharmacology, AIIMS, Delhi 
+Outline of NLEM revision process  
+Review of criteria for inclusion/ deletion of medicines 
+Identification of subject experts from across the country  
+Reorganization of therapeutic categories 
+Consulting various source documents of medicines 
+Source documents of medicines with dosage forms and strengths referred to: 
+NLEM 2011 and 2015 
+WHO EML 2019 and EMLc 2019 
+National Formulary of India 2016 
+National Health Programmes 
+Standard Treatment Workflows, Treatment guidelines of associations and 
+professional bodies 
+Newsletters of Pharmacovigilance Programme of India
+Meetings of SNCM Core Committee to review the recommendations of all subject 
+experts meetings, deliberations on the submissions of NGOs, pharmaceutical 
+associations, patient groups and other stakeholders. 
+Therapeutic category wise meetings of experts  
+Video conferencing/face to face meetings 
+Total meetings more than 130 
+Audio-visual recording and minutes have been archived. 
+
+General Considerations for preparing the NLEM 2022 
+Essentiality 
+Any medicine may be necessary or even critical for specific disease conditions 
+for which it is indicated. However, in the context of national list of essential 
+medicines, a medicine should be essential considering the population at large 
+and should fit into the definition of essentiality of a medicine. Hence, a 
+medicine which is critical for a specific condition may not be listed in the list of 
+essential medicines if the disease condition for which it is indicated has low 
+prevalence or is rare. This not necessarily means that if a particular drug is not 
+included in the list of essential medicines, it is not necessary in therapeutics. 
+Non-inclusion of such drugs in the list of essential medicines does not 
+undermine their importance in therapeutics.  
+Some examples are: 
+ Plerixafor is the medicine which is used for stem cell mobilization prior to 
+stem cell transplant. Since the drug serves a very small group of population, it 
+may not find a place in the national list of essential medicines.  
+ For the prevention of vertical transmission of Toxoplasma gondii infection, 
+spiramycin is the only treatment available. However, toxoplasmosis is 
+relatively less prevalent and hence, spiramycin is not an essential medicine in 
+the Indian context. 
+ For the treatment for diabetes insipidus, desmopressin is required but 
+considering the rarity of the condition it may not find a place in the essential 
+medicines list. 
+For effective healthcare delivery, the NLEM can serve as a reference document 
+for medicines of national priority so that administrative, scientific, 
+pharmaceutical and logistic efforts are appropriately directed towards optimum 
+utilization of the available resources. 
+ 
+
+Efficacy and Safety 
+The most important parameters for considering essentiality of a medicine are 
+efficacy and safety. For a medicine to be considered essential, it should have an 
+unequivocal evidence of efficacy and wider acceptance in medical science. It 
+should also have a safety profile which is acceptable in terms of risk benefit 
+assessment. The safety profile of a medicine may change over time as new 
+adverse effects may be discovered after wider use of the drug. This may change 
+the risk benefit assessment and a drug once preferred may no longer remain so.  
+Considerations of comparative costs of treatment 
+This issue is important when selecting from more than one medicine from the 
+same therapeutic category which do not differ significantly in their efficacy and 
+safety. Sometimes per unit price of a medicine may be more but it may be 
+prescribed at a lesser frequency. Other costs involved in drug administration 
+such as cost of injection, hospitalization if required, etc., may differ between 
+two equi-effective medicines of the same category. Thus, the total price of the 
+treatment schedule including direct and indirect costs should be taken into 
+consideration and not only the unit price of a medicine. 
+Feasibility in the context of advantage in storage  
+An essential medicine should be available in a form in which adequate quality 
+can be assured throughout its shelf-life under recommended storage conditions. 
+However, it may not always be feasible to ensure the recommended storage 
+conditions for a particular medicine. In such conditions, alternate forms of the 
+medicine suited to the available storage conditions should be considered. For 
+example, liquid formulation of antisnake venom is cheaper and equi-efficacious 
+as compared to the lyophilized preparation albeit requiring cold chain, which is 
+sometimes difficult to maintain in its distribution channel. On the other hand, 
+lyophilized polyvalent offers the advantage of longer shelf-life and less 
+
+stringent storage requirements. Therefore, both lyophilized and liquid 
+formulations have been included in the list.  
+Consideration of inclusion of Fixed Dose Combinations (FDCs) 
+In essential medicines list as a principle, single medicines are preferred. An 
+FDC is included only if the combination is rational and has a proven advantage 
+in terms of improved therapeutic efficacy, safety and compliance or in 
+decreasing the emergence of drug resistance. For example, FDCs for the 
+treatment of diseases such as malaria and Human Immunodeficiency Virus 
+(HIV) infection/ Acquired Immunodeficiency Syndrome (AIDS) offer dual 
+advantage of improving therapeutic outcomes and limiting the emergence of 
+antimicrobial resistance. In these therapeutic categories, certain FDCs have 
+been considered as essential and are included in the list. In certain other cases, 
+FDCs are required to achieve optimal therapeutic efficacy, and are thus 
+considered essential. For example, FDCs of levodopa and carbidopa, and 
+amoxicillin and clavulanic acid. 
+FDCs which do not have strong published evidence of their merit in 
+therapeutics have not been included.  
+High Sales of a medicine does not necessarily indicate essentiality 
+The high sales of a drug with reference to Moving Annual Total (MAT) volume 
+and MAT value do not necessarily mean essentiality. The sale of a medicine is 
+likely to be impacted by factors such as market forces, physici
+s preferences, 
+and influence of key opinion leaders etc. especially for countries like India 
+where there is lack of universally acceptable treatment guidelines for many 
+disease conditions. For example, several multivitamin preparations such as 
+Vitamin B complex, Vitamin C with minerals like zinc, etc. are widely 
+consumed and figure very high on the MAT list. Sometimes, such FDCs may 
+not even be rational and need attention of regulator to assess their continued 
+
+marketing. Such formulations do not meet the essentiality criteria and therefore 
+have not been included.  
+Hierarchical Healthcare Structure in India 
+In India, the health care system is categorized as a three-tier system with 
+primary, secondary and tertiary levels having different health care concerns and 
+medicine requirements. While a primary health care level setup may require 
+medicines prescribed in an outpatient setup like basic antibiotics, analgesics and 
+anti-inflammatory drugs; a tertiary level setup might need more parenteral 
+medicines, medicines for critical care settings, for specialized treatments like 
+organ transplantation and for inpatient setup. 
+ 
+At the primary care center, the health care facilities do not carry out 
+certain sophisticated therapeutic interventions (such as dialysis, neonatal 
+intensive care, palliative care, treatment of malignant diseases) and therefore do 
+not have such special facilities and personnel. Therefore, such medicines are not 
+essential for primary care however; they may essentially be required at 
+secondary and tertiary healthcare level. Similarly, use of high-end 
+antimicrobials, medicines for conditions like systemic fungal infections, 
+resistant tuberculosis, resistant malaria, kala-azar, etc., will be required more in 
+secondary and tertiary care. Thus, the essentiality of medicines also depends 
+upon the hierarchy of the health care system, and hence there is need to stratify 
+the recommendation for inclusion of medicines at:  
+(P) = Primary care facility 
+(S) = Secondary care facility and 
+(T) = Tertiary care facility 
+
+ 
+Specific issues addressed in NLEM 2022 
+Dosage form of the medicines   
+Formulation of medicines may be available in different dosage forms as under:  
+ Oral solid dosage forms which include tablet, capsule, sachet, granules, 
+powder, etc.  
+- Tablets which include conventional, enteric coated, film coated, sugar 
+coated tablet, etc. 
+- Capsules include hard gelatin and soft gelatin capsules. (Unless specified, 
+capsules mentioned in the NLEM are considered as hard gelatin 
+capsules). 
+ Oral liquid dosage forms include syrup, suspension, elixir, etc. 
+ Injectable dosage forms include conventional liquid injection or powder for 
+injection, as well as delivery system like depot, liposomal/ lipid complex, 
+etc. 
+ Topical dosage forms include ointment, cream, lotion, drops etc. 
+When the solid oral dosage form of a medicine is available both as tablet and 
+capsule, the more commonly available dosage form (between tablet and 
+capsule), is listed in NLEM. If both the formulations i.e. tablet and capsule are 
+available in almost equal proportions, the formulation as included in Indian 
+Pharmacopoeia, has been listed in NLEM. For example, ibuprofen which is 
+included in IP as tablet, is listed in NLEM as tablet though it is also available as 
+capsule. Similarly, tramadol is mentioned in IP as capsule, but is also available 
+as tablet. In NLEM, it has been listed as capsule only. If more than one solid 
+oral dosage form is mentioned in IP, the more commonly used form is listed in 
+NLEM.  
+
+Oral liquid formulations (syrups, suspensions, solutions, etc.) are listed in 
+the NLEM as oral liquid unless the specific formulations which require 
+identification such as  doxycycline, amoxicillin (A) + clavulanic acid (B) have 
+been included as dry syrups. Similarly, many medicines intended for topical use 
+are available as cream, ointment, lotion, etc. If the formulation is included in the 
+IP, the same dosage form as mentioned in IP is listed in NLEM. For example, 
+fusidic acid and silver sulfadiazine are available as cream and ointment, but 
+only cream is mentioned in IP. Hence, in NLEM they are listed as cream. 
+Where, more than one dosage form is mentioned in IP, the more commonly 
+used form is listed in NLEM. However, in case the medicine is not included in 
+IP, the commonly available form is mentioned in NLEM. 
+For pricing and policy decisions, only the similar dosage forms of a 
+medicine should be grouped together. However, if different technology is 
+involved, 
+which 
+confers 
+significant 
+difference 
+in 
+pharmacokinetics/ 
+pharmacodynamics/ efficacy/ safety over the dosage form mentioned in the list, 
+such technologically different dosage forms should not be grouped together. 
+They should be considered separately for purposes of pricing, procurement, etc.  
+Any dosage form of a medicine other than that included in NLEM but in 
+same strength and route of administration, which does not demonstrate 
+significant difference in terms of pharmacokinetics/ pharmacodynamics/ 
+efficacy /safety over the dosage form mentioned in the list, should be 
+considered as included. To elaborate, if tablet is included, other oral solid 
+dosage form such as capsule is considered as included. However, such different 
+dosage forms should be considered differently for purposes of procurement 
+policy, pricing etc. This principle also applies to all other dosage forms e.g. oral 
+liquid dosage forms, injectables, topical dosage forms etc. 
+ 
+
+ 
+Strengths of a Medicine  
+Formulations of a medicine are usually available in many strengths. The 
+committee deliberated that where more than one strength(s) is/ are available, the 
+strength(s) which is/ are appropriate and meet the need of most, are to be 
+considered for inclusion in the NLEM. Some strengths of a particular 
+formulation, presently available in the market, do not appear to be appropriate 
+or not commonly required, have not been considered for inclusion in NLEM. 
+Where multiple salts of medicines are available 
+The committee decided that in general, medicines should be mentioned in the 
+NLEM in terms of their active moieties, without mentioning the salts. In case, a 
+medicine is available in more than one salt without any significant difference in 
+potency/ pharmacokinetics/ pharmacodynamics/ efficacy-safety profile aspects, 
+it indicates that these salts are therapeutically similar. Therefore, all salts of 
+such medicines with specified dosage form and strength are considered included 
+in NLEM 2022. For example, diclofenac is available as diclofenac sodium or 
+diclofenac potassium and there is no significant difference in the above-
+mentioned aspects, between the two salts. Hence, mention of only diclofenac 
+implies that both its sodium and potassium salts are included and it suffices for 
+the purpose of procurement and other policy decisions.   
+ 
+However, in case, where the different salts of a medicine have significant 
+difference in potency/ pharmacokinetics/ pharmacodynamics/ efficacy-safety 
+profile, the medicine has been mentioned in the list with respect to its specific 
+salt. In case of topical betamethasone, its valerate salt has been specifically 
+mentioned, because it has lower potency and has fewer systemic adverse effects 
+as compared to its dipropionate salt.  
+ 
+
+Isomeric forms wherever applicable 
+Different isomers of a molecule may differ with respect to potency/ 
+pharmacodynamics/ safety-efficacy profile. For example, S-amlodipine is an 
+optical isomer of amlodipine. These two forms have been considered as separate 
+entities and approved as two different medicines. Therefore, inclusion of 
+amlodipine in NLEM does not imply that S-amlodipine is also included in 
+NLEM. 
+Prodrugs/ Analogues / Derivatives of medicines wherever applicable   
+Prodrugs/ analogues/ derivatives of one active moiety are available as different 
+medicines. They may differ with respect to potency/ pharmacokinetics/ 
+pharmacodynamics/ safety-efficacy profile. For example, valganciclovir which 
+is a prodrug of ganciclovir should be considered differently from ganciclovir for 
+the purpose of pricing, policy, etc. Similarly, oxcarbazepine is a derivative of 
+carbamazepine and both oxcarbazepine and carbamazepine have been 
+considered and licensed as different medicines. Inclusion of carbamazepine in 
+NLEM does not imply that oxcarbazepine is also included. Thus, wherever, 
+such different forms exist, which have been considered as different entities and 
+licensed as different medicines, inclusion of one form of such medicines in 
+NLEM will not automatically imply inclusion of other forms. 
+Biological Products  
+Vaccines, sera and immunoglobulins are complex biological products, which 
+may be manufactured from various sources, by using different processes and 
+technologies. In such cases, irrespective of variation in source, composition, or 
+strengths, all the products of the same vaccine/ sera/ immunoglobulin, as 
+approved by licensing authority are considered as included in NLEM. However, 
+considering the source, process, technology and other relevant aspects, different 
+products of a biologic should be considered differently by the user.  
+
+Medicines under patent protection 
+Most of the medicines that are listed in the NLEM are off-patent. The generic 
+version of the drugs which after patent expiration become cheaper because of 
+market competition. In addition, market availability of such medicines is 
+improved given the multitude of manufacturers.  
+Whether a drug which is under patent protection can be included in NLEM, 
+the issue was deliberated at length in the stakeholder meeting where the 
+representatives of industry, academia, Department of Pharmaceuticals (DoP), 
+NPPA, ICMR, Directorate General of Health Services (DGHS) were present. It 
+was appreciated that new drug development is a complex, lengthy, expensive 
+and risky process and the innovator company invests significant amount of 
+capital, time and expert human resource for the development of a new molecule. 
+The committee deliberated the issue whether a new patented drug to be 
+considered essential or not. This needs to be determined in individual cases with 
+consideration of several aspects like essentiality criteria for inclusion /exclusion, 
+need of such drug in Indian scenario, urgency, special situations like public 
+health emergencies, etc. The committee was of the opinion that, even when a 
+drug is patented, if it meets the requirements of essentiality from public health 
+perspective, t
+issue has been considered in the past on the same lines and sofosbuvir which is 
+a patented drug was listed in NLEM in 2015, considering that the drug met all 
+the criteria of essentiality in view of its favourable safety, efficacy profile and 
+unmet therapeutic needs for hepatitis C patients in the country. This principle is 
+in line with WHO principles2. Based on this principle, the patented medicines 
+like bedaquiline, delamanid, dolutegravir, etc. have been considered essential 
+and included in the NLEM 2022. 
+ 
+2 https://www.who.int/healthsystems/topics/health-law/chapter15.pdf 
+
+NLEM and the need to encourage innovations 
+Considering the huge disease burden in India, research and development is of 
+paramount importance for bringing new medicines for the patients. Discovery 
+and development of new drug molecules is a complex, knowledge intensive 
+activity requiring involvement of expertise from various fields, considerable 
+time and resources. However, Indian pharmaceutical industry being strong in 
+manufacture of generic medicines and Novel Drug Delivery Systems (NDDS) 
+should be encouraged for innovations including incremental innovations in 
+therapeutics and medicine.  
+ 
+The committee deliberated in detail about the issue of inclusion of 
+improved formulations of a medicine developed through radical/ incremental 
+innovation involving technology. The committee considered that such 
+formulations including novel drug delivery systems like lipid/ liposomal 
+formulations, modified release formulations of a medicine, which are developed 
+to overcome certain disadvantages associated with the use of conventional 
+formulations, will be considered included only if specified in the list against the 
+medicine.  
+ 
+An innovation could be an incremental innovation leading to some ease 
+of administration improving compliance or better packaging for stability; or it 
+could provide a significant therapeutic advantage in drug delivery system, 
+significant reduction in the cost of therapy, significant reduction in adverse 
+effects. Whereas minor incremental innovation may not merit separate class of 
+drug in NLEM, but the significant advantage should entitle them to be 
+considered as a separate class. The differential pricing policy will promote 
+innovation and help the pharmaceutical sector of India to remain contemporary 
+ 
+ 
+
+Market availability of the formulations across the country  
+The availability of medicines listed in National List of Essential Medicines at all 
+times and all places needs to be ensured. From the different feedbacks of NLEM 
+2015, it was noted that some strengths/ formulations of medicines have very 
+little availability in the market. This information was also received from NPPA. 
+An intense exercise was conducted to further confirm the availability of these 
+medicines and their formulations across the country. The information regarding 
+availability was also gathered from doctors of primary, secondary and tertiary 
+care hospitals across the country. The medicines which were poorly available or 
+unavailable were deliberated by experts for their essentiality.  
+ 
+Based on deliberation, many formulations which were present in 2015 
+and are now not available in the market or have very poor availability, and their 
+alternative dosage form and strength are available have been deleted. For 
+example  sodium thiosulphate injection 100 mg/mL, morphine tablet 20 mg 
+etc.  
+National List of Essential Medicines 2022 and Anti-microbial Resistance 
+Management of infectious diseases is heading from a pre-antibiotic era to a 
+post-antimicrobial era due to the threat of antimicrobial resistance. Tuberculosis 
+has gone from drug sensitive to isoniazid  resistant to multidrug resistant 
+(MDR) to extensively resistant (XDR). Other bacterial infections have 
+progressed from being penicillin sensitive to penicillin resistant to even 
+carbapenem resistant. 
+ 
+Most of the old antimicrobials have increasingly become ineffective e.g. 
+tetracycline and nalidixic acid are effective in only 57% and 50% cases of 
+Shigella respectively. Similarly, Pseudomonas has become resistant to amikacin 
+
+and ciprofloxacin in 20% cases (4)3,4. Even relatively newer drugs like 
+piperacillin  tazobactam, cefepime and meropenem are not effective in 28.6%, 
+21.8% and 8.5% cases, respectively (5)3,5. It is also considered that the anti-
+microbial resistance is becoming a silent pandemic which if not addressed 
+effectively today, will be catastrophic tomorrow.  
+ 
+Several antimicrobial agents such as tetracycline, chloramphenicol, 
+streptomycin, penicillin was first line of treatment at one point of time. These 
+once very useful antimicrobial agents gradually became resistant and almost 
+ineffective in most of the conditions in which they were once drugs of choice. 
+Development of antibiotic resistance is dynamic and at times a swift process. 
+For example, tetracycline resistance to Vibrio cholera increased from 1-76% 
+between 2004 to 2007 before decreasing to 50% in 2009 6. Even after 
+widespread development of resistance, some microorganisms may still remain 
+susceptible and hence, this antibiotic may retain its effectiveness in certain 
+conditions. For example, tetracycline is still effective in rickettsial infections, as 
+is chloramphenicol in conjunctival infections. However, their clinical utility is 
+limited and therefore, these antimicrobials were deleted from NLEM 2011 
+(tetracycline, clarithromycin, ketoconazole, mebendazole, norfloxacin) and 
+NLEM 2015 (sulphadiazine, ofloxacin, nelfinavir).   
+ 
+An expert group from different disciplines i.e. medicine, pediatrics, 
+neonatology, pulmonology, critical care, microbiology, community health 
+physicians from different parts of the country and health programme officials 
+met on several occasions and deliberated the issue of growing anti-microbial 
+3 Kakkar M, Walia K, Vong S, Chatterjee P, Sharma A. Antibiotic resistance and its containment in India BMJ 
+2017; 358 :j2687 doi:10.1136/bmj.j2687. 
+4 Bhattacharya, K., Kanungo, S., Sur, D., Lal Sarkar, B., Manna, B., Lopez, A. L., Bhattacharya, M., Nandy, S., 
+& Kumar Niyogi, S. (2011). Tetracycline-resistant Vibrio cholerae O1, Kolkata, India. Emerging infectious 
+diseases, 17(3), 568 569. https://doi.org/10.3201/eid1703.101176.  
+5 Vazquez-Guillamet MC, Vazquez R, Micek ST, Kollef MH. Predicting Resistance to Piperacillin-Tazobactam, 
+Cefepime and Meropenem in Septic Patients With Bloodstream Infection Due to Gram-Negative Bacteria. Clin 
+Infect Dis. 2017 Oct 30;65(10):1607-1614. doi: 10.1093/cid/cix612. PMID: 29020294.  
+6 Antiobiotics. (2021). Retrieved 6 May 2021, from https://www.nhsinform.scot/tests-and-treatments/medicines-
+and-medical-aids/types-of-medicine/antibiotics
+
+resistance in India. The inputs from other stakeholders were also considered. 
+The issue was discussed in the context of the AWaRe (Access, Watch and 
+Reserve) classification of antimicrobial agents in WHO EML  2021.  
+A. ACCESS  
+commonly encountered susceptible pathogens which also showing lower 
+resistance potential than antibiotics in the other groups. Selected access 
+group antibiotics are recommended as essential first or second choice 
+empiric treatment options for infectious syndromes as reviewed by the 
+Expert Committee of EML of WHO and are listed as individual medicines 
+on the Model Lists to improve access and promote appropriate use. They are 
+essential antibiotics that should be widely available, affordable and quality 
+ 
+From the 20 antibiotics listed in the Access Category of WHO EML  
+2021, the following 16 antimicrobial agents are present in the NLEM 2021: 
+ Amikacin 
+ Cloxacillin 
+ Amoxicillin 
+ Doxycycline 
+ Amoxicillin + clavulanic acid 
+ Gentamicin 
+ Ampicillin 
+ Metronidazole 
+ Benzathine benzylpenicillin 
+ Nitrofurantoin 
+ Benzylpenicillin 
+ Phenoxymethylpenicillin 
+ Cefazolin 
+ Procaine benzylpenicillin 
+ Clindamycin 
+ 
+ Sulfamethoxazole + trimethoprim 
+
+ 
+B. WATCH 
+ a
+includes most of the highest priority agents among the Critically Important 
+Antimicrobials for Human Medicine and/or antibiotics that are at relatively 
+high risk of selection of bacterial resistance. These medicines should be 
+prioritized as key targets of stewardship programmes and monitoring. 
+Selected Watch group antibiotics are recommended as essential first or 
+second choice empiric treatment options for a limited number of specific 
+infectious syndromes and are listed as individual medicines on the Model 
+of WHO. 
+From the 11 antibiotics listed in the Watch Category of WHO EML  
+2021, the following 11antimicrobial agents are present in the NLEM 2022: 
+ Azithromycin 
+ Cefixime 
+ Cefotaxime 
+ Ceftriaxone 
+ Cefuroxime 
+ Ciprofloxacin 
+ Clarithromycin 
+ Meropenem 
+ Piperacillin + Tazobactam 
+ Vancomycin 
+ Ceftazidime 
+ 
+C. RESERVE  a
+confirmed or suspected infections due to multi-drug-resistant organisms. 
+Reserve group antibiotics are listed as individual medicines on the Model 
+
+Lists when they have a favourable risk-benefit profile and proven activity 
+WHO 
+Priority 
+Pathogens 
+List, 
+notably 
+carbapenem 
+resistant 
+Enterobacteriaceae. These antibiotics should be accessible, but their use 
+should be tailored to highly specific patients and settings, when all 
+alternatives have failed or are not suitable. These medicines could be 
+protected and prioritized as key targets of national and international 
+stewardship programmes involving monitoring and utilization reporting, to 
+ 
+ 
+From the 7 antibiotics listed in the Reserve Category of WHO EML 2021 the 
+following  1antimicrobial agents are listed in the NLEM 2022: 
+ Linezolid 
+ 
+The antimicrobial agents which are useful in majority of the situations/ 
+conditions to combat the common infections have been listed in NLEM. The 
+antimicrobial agents which, in recent years, are showing development of 
+resistance but may still be useful in many situations have been retained in 
+NLEM. 
+ 
+It was argued in the meetings that, many antimicrobial agents have shown 
+pattern of high resistance. Some antimicrobial agents have shown resistance, 
+albeit in limited studies, which may not be truly representative of the country 
+due to huge variability in the demography, and also may not represent the 
+difference / variability in resistance pattern in rural, semi urban and urban 
+populations. There may also be differences in the level of healthcare delivery in 
+the primary, secondary and tertiary setups.  
+ 
+The committee also noted that certain microorganisms have been reported 
+to rapidly develop resistance against specific antimicrobials e.g. Pseudomonas 
+resistance in 42% of cases against piperacillin  tazobactam and in 50% of cases 
+
+against meropenem7. This observation is based on a few studies and the data 
+may be skewed towards the urban tertiary care setups. The committee decided 
+that despite increasing incidence of resistance, some of these drugs are still life-
+saving and thus essential in the treatment of serious bacterial infections, for 
+example, penicillin G and V in sexually transmitted infections8.  
+ 
+It was argued by some experts that antimicrobials for which some studies 
+show high resistance should be deleted from the NLEM. This will reduce the 
+access to these antibiotics thus reducing their overuse and might help in 
+preserving their effectiveness and perhaps reversing their resistance pattern. 
+However, majority of the experts opined that making such antimicrobial agents 
+less available by removing them from the NLEM may in fact deprive the 
+patients having serious bacterial infections of the beneficial effects of these 
+drugs. Therefore, the committee opined that a strong antimicrobial stewardship 
+programme and continuous education to the prescribers /doctors would be a 
+better and effective strategy rather than restricting their availability. With this 
+background, the drugs like piperacillin  tazobactam have been retained in 
+NLEM 2022.  
+ 
+In the Indian context, although antimicrobials are not classified as 
+Access, Watch and Reserve in NLEM 2022, but the philosophy similar to WHO 
+AWaRe antimicrobial classification was kept in mind. The antimicrobial agents 
+which have less possibility for development of resistance and are commonly 
+needed should also be judiciously prescribed. These drugs can be considered 
+akin to ACCESS category in WHO EML  2021.  
+ 
+The other group of drugs which have high potential for development of 
+resistance should also be prescribed cautiously. Continuous education regarding 
+appropriate antibiotic prescribing and use in a correct manner (dose, frequency, 
+7 Kakkar M, Walia K, Vong S, Chatterjee P, Sharma A. Antibiotic resistance and its containment in India BMJ 
+2017; 358 :j2687 doi:10.1136/bmj.j2687. 
+8 Antibiotics. (2021). Retrieved 6 May 2021, from https://www.nhsinform.scot/tests-and-treatments/medicines-
+and-medical-aids/types-of-medicine/antibiotics 
+
+duration) must be emphasized in undergraduate and post graduate curriculum, 
+as well as in routine clinical practice. The resistance pattern of these 
+antimicrobial agents should be carefully monitored and their use should be 
+appropriately tailored. These drugs can be considered akin to WATCH category 
+in WHO EML 2021.  
+ 
+Special emphasis is being made on the philosophy of classification of 
+WHO reserving antibiotics like linezolid in specific conditions where their use 
+is strongly justified and should be given only by the concerned specialist. Their 
+prescription should also be governed through appropriate, strong oversight 
+programme of hospitals. Their availability should also be strongly regulated. 
+These can be considered akin to the RESERVE class of drugs in WHO 
+category.  
+ 
+The antimicrobial resistance is a dynamic process and depends on several 
+factors namely, genetic mutation in bacteria, overuse/ misuse (dose, frequency, 
+duration, etc), inadequate evidence for use in prophylaxis, use in viral 
+conditions like, common cold, flu and most upper respiratory tract infections9,10.  
+ 
+In current times of COVID-19, misuse and overuse of antimicrobial 
+agents is being witnessed, with little/no evidence of benefit. Making 
+antimicrobial agents unavailable in the market, perhaps, is not an appropriate 
+strategy. Rather, continuous sensitization of prescribers, strict prescription audit 
+and antimicrobial stewardship programmes will go a long way in discouraging 
+irrational antimicrobial prescribing and prevent antimicrobial resistance. 
+Thus, to preserve the therapeutic effectiveness of existing antimicrobial 
+agents, a multi-pronged approach comprising of education, audits, surveillance 
+and regulatory oversight is essential.  
+9 Shiley, K. T., Lautenbach, E., & Lee, I. (2010). The use of antimicrobial agents after diagnosis of viral 
+respiratory tract infections in hospitalized adults: antibiotics or anxiolytics?. Infection control and hospital 
+epidemiology, 31(11), 1177 1183. https://doi.org/10.1086/656596. 
+10 Antibiotics. (2021). Retrieved 6 May 2021, from https://www.nhsinform.scot/tests-and-treatments/medicines-
+and-medical-aids/types-of-medicine/antibiotics
+
+Fixed Dose Combination (FDC) of Antibiotics  
+The committee also specifically wanted to highlight the increasing and 
+continued need of educating the healthcare professionals/ doctors against the 
+use of FDCs of antibiotics, unless there is convincing evidence of therapeutic 
+superiority over individual drugs. Although, many antibiotic FDCs with 
+multiple antibiotics, analgesics, vitamins, minerals, etc have been banned by 
+regulator in India, still many combinations with unestablished rationality are 
+available in the market and physicians/doctors tend to prescribe many of these. 
+Though, the committee wishes to publish a list of such irrational FDCs, it is 
+restricting itself because preparation of such a list will require, separate 
+extensive exercise. 
+Essentiality of 42 anticancer drugs which were subjected to Trade 
+Margin Rationalization (TMR) by NPPA 
+Background of the notification by NPPA, DoP, Govt. of India 
+Considering the representations and several other issues, the NPPA issued the 
+notification on 27 February, 2019 to put a cap on trade margins of 42 anti-
+cancer medicines.  
+The relevant para 9 of the notification is reproduced below: 
+High trade margin in sale of drugs leading to 
+high out of pocket expenses on healthcare, the Government hereby, seeks to 
+Trade Margin Rationalisation 
+-
+sched
+of Concept by capping prices of select Anti-Cancer drugs, identified by the 
+MoHFW 
+ 
+To further quote relevant para 12, para 13, para 14 and para 15- 
+
+the category of Anti-neoplastic/immunosuppressive, Hormones & Antihormones 
+and medicines used for palliative care. Pricing of these medicines are 
+controlled through Drug Pricing Control Order (DPCO) 2013 as amended from 
+ 
+(MoHFW) after examining in detail, deliberating and considering all available 
+information/data/viewpoints and all relevant options for ensuring affordability 
+of essential drugs to the patients, in case of Anti-cancer Medicines, had 
+recommended 42 Anti-Cancer medicines for price control on pilot basis 
+And accordingly, NPPA had put a cap on trade margin of 30% and directed 
+vide notification, manufacturers to fix their retail price based on price at first 
+point of sale of product (hereinafter referred as Price to Stockist), as formulated 
+in Table A, of the non-scheduled formulations containing any of the 42 drugs 
+vide notification on 27th Feb 2019. The list of the 42 drugs is as below: 
+Table: List of anticancer drugs under TMR by NPPA 
+ 
+Sl. No.  
+Name of the Drug 
+Sl. No 
+Name 
+of 
+the 
+Drug 
+1. 
+Azacitidine   
+ 
+22. 
+Nilotinib 
+2. 
+Bendamustine 
+Hydrochloride 
+23. 
+Plerixafor 
+3. 
+Bortezomib 
+24. 
+Carfilzomib 
+4. 
+Crizotinib 
+25. 
+Cladribine 
+5. 
+Cytarabine 
+26. 
+Triptorelin 
+
+6. 
+Dasatinib 
+27. 
+Pomalidomide 
+7 
+Decitabine 
+28. 
+Osimertinib 
+8. 
+Doxorubicin 
+HCI 
+Pegylated Liposomal 
+Injection 
+29. 
+Pegasperagase 
+9. 
+Enzalutamide 
+30. 
+Regorafenib 
+10. 
+Epirubicin 
+31. 
+Ribociclib 
+11. 
+Eribulin mesylate 
+32. 
+Clofarabine 
+12. 
+Erlotinib HC 
+33. 
+Sunitinib 
+13. 
+Estramustine 
+phosphate 
+34. 
+Olaparib 
+14. 
+Everolimus 
+35. 
+Paclitaxel (Protein-
+bound particles) 
+15. 
+Exemestane 
+36. 
+Olaratumab 
+16. 
+Fulvestrant 
+37. 
+Cabazitaxel 
+17. 
+Irinotecan HCI Trihydrate 
+38. 
+Bevacizumab 
+18. 
+Lapatanib 
+39. 
+Lenalidomide 
+19. 
+Leuprolide acetate depot 
+for inj 
+40. 
+Pegfilgrastim 
+20. 
+Lomustine 
+41. 
+Mitomycin 
+21. 
+Mitoxantrone 
+42. 
+Pemetrexed 
+SNCM examined all the 42 drugs under Trade Margin Rationalization (TMR) to 
+assess if they meet the criteria of essentiality. In a series of meetings, with 
+
+oncology and related experts from across the country and stakeholders, SNCM 
+deliberated on the abovementioned list of anticancer drugs. The committee 
+agreed on the following criteria to be considered while discussing inclusion of 
+these anticancer drugs in NLEM  
+ Unequivocal proof of benefit versus previous comparator. 
+ Higher priority to drugs that have the potential to cure a fraction of patients 
+versus those that have been proven to only prolong lives in metastatic 
+settings. 
+ Marginal advantage in limited number of patients. 
+Further, committee also considered that medicines which are established to have 
+cure rate of >90% for certain cancer even though the incidence of such cancer is 
+low, should be included in the NLEM.  
+After consultations and detailed deliberations, the following anticancer 
+drugs were recommended for inclusion in NLEM 2022. 
+  Bendamustine hydrochloride 
+ Irinotecan HCl Trihydrate 
+ Lenalidomide 
+Assessment of availability and essentiality of specific formulations in 
+NLEM 2015 
+The last NLEM was published in 2015 which had 376 medicines and their 
+formulations. The medicines listed in NLEM are referred to as scheduled drugs 
+under Drug Price Control Order (DPCO), 2013 and their prices are fixed by the 
+National Pharmaceutical Pricing Authority (NPPA) using a defined 
+methodology. The NPPA could not fix the price for some formulations of 
+NLEM 2015 as their market data could not be found. This list was shared by 
+
+NPPA with SNCM for assessment of their essentiality and availability. The 
+SNCM decided to review each of these formulations considering the following: 
+ Availability   
+ In the market 
+ Through hospital supplies 
+ Through National Health Programmes (GOI) 
+ Essentiality as per eligibility criteria of the NLEM 
+The following methodology was adopted: 
+The list was shared with subject experts from different specialities, public health 
+professionals and medical professionals across different parts of the country. A 
+group of experts and officials examined the inputs received and deliberated on 
+the formulations based on the available evidence. In case, a particular dosage 
+form or strength of a drug had limited /no availability, its essentiality was 
+deliberated in detail and decision was taken to retain/replace/delete the drug 
+from the NLEM.  
+
+ 
+The group consisted of the following: 
+ Prof. Y.K. Gupta, Vice- Chairman, SNCM 
+ Prof. Santanu Tripathi, Professor & Head, Department of Clinical & 
+Experimental Pharmacology, School of Tropical Medicine, Kolkata 
+ Prof. Lalit Gupta, Professor, Dept. of Pharmacology, LHMC, Delhi  
+ Col. (Dr.) Prafull Mohan, Professor, Dept. of Pharmacology, AFMC, 
+Pune 
+ Dr. Biswa Mohan Padhy, Associate Professor, Dept. of Pharmacology, 
+AIIMS, Bhubaneswar 
+ Dr. Pooja Gupta, Associate Professor, Department of Pharmacology, 
+AIIMS, Delhi           
+ Dr. Ashish Kakkar, Assistant Professor, Dept. of Pharmacology, 
+PGIMER, Chandigarh 
+ 
+SNCM Secretariat  
+ Dr. Monika Pahuja, Scientist  D, Division of BMS, ICMR, Delhi 
+ Amal Verma, Govind Singh Technical Assistant 
+ 
+National Pharmaceutical Pricing Authority (NPPA) 
+ Mr. N.I. Choudhary, Advisor 
+ Mr. Prasenjeet Das, Deputy Director 
+ 
+CDSCO 
+ Mr. A.K. Pradhan, Joint Drug Controller (I) 
+ 
+IPC, Ghaziabad 
+ Dr. Jai Prakash, Senior Principal Scientific Officer 
+ 
+
+Programme officers of National Public Health Programmes 
+Availability of the formulations was enquired from the following sources: 
+ National disease control programmes 
+ Jan Aushadhi stores and pharmacies of various hospitals 
+ Rate contract, AIIMS, Bhubaneshwar 
+ DGAFMS rate contract 
+ Online drug information sources 
+ Speciality experts from different institutions 
+The group decided to deliberate and recommend the formulations for 
+retention/deletion based on the following criteria: 
+a. Specific formulations to be retained in NLEM 2022 on the basis of 
+essentiality.  
+b. Specific formulations to be deleted because of non-availability/limited 
+availability and non-essentiality in the present context. 
+c. Specific formulations to be retained because they are listed in various 
+national health programmes and their procurement is done through the 
+programme although these may not be available in the open market.  
+d. Special formulations like 
+ blood products and other biologicals to be 
+retained as these are supplied through designated supply chain and may not 
+be available in the open market. 
+
+ 
+ 
+It was noted that in some situations there was change in the prescription 
+practices. Such changes may be because of non-availability of certain 
+formulations and/or availability of alternate formulations with claimed ease of 
+administration, better patient compliance and may be influence of sales 
+promotion.  
+ 
+In addition, the group also noted that sometimes, to circumvent the 
+NLEM and subsequent price capping, there may be possibility that alternate 
+formulations may be manufactured and marketed which over a period of time 
+may change the prescribing habit of the practitioners. It was felt that, in order to 
+discourage such practices that dilute the importance and applicability of NLEM 
+in letter and spirit, continuous sensitization of prescribers and treating 
+physicians is required. The Group after due deliberation and consideration of 
+above-mentioned criteria made recommendations as detailed in the table below, 
+for retention/deletion/replacement of the formulations. 
+ 
+It is envisaged that these recommendations will give a message to the 
+stakeholders including the manufacturers as well as the prescribing physicians 
+and policy makers, regulators to make the best use of NLEM. The Group was 
+also of the opinion that such exercise should be undertaken periodically to 
+assess the trend in prescription practices, marketing strategy vis-à-vis the 
+availability of the formulations. 
+
+ 
+Assessment of specific formulations listed in NLEM 2015 referred by 
+NPPA for availability and essentiality 
+S. No 
+Details 
+Total No. 
+Annexure 
+no. 
+a. 
+Specific formulations to be retained in NLEM 
+2022 on the basis of essentiality. 
+18 
+2.1 
+b. 
+Specific formulations to be retained because they are 
+listed in various national health programs and their 
+procurement is done through the program although 
+these may not be available in the open market. 
+12 
+2.2 
+c. 
+Special formulations like  blood products and other 
+biologicals to be retained as these are supplied through 
+designated supply chain and may not be available in 
+the open market 
+9 
+2.3 
+d. 
+Specific formulations to be deleted because of non-
+availability/limited availability and non-essentiality in 
+the present context. 
+46 
+2.4 
+Total 
+       85 
+ 
+
+ 
+Issue of essentiality of Desferrioxamine referred by NPPA 
+The NPPA also referred the case of desferrioxamine powder for injection 500 
+mg. This is listed in NLEM 2015 under the heading of chelating agent. NPPA 
+informed that it is imported and marketed by only one company and as per the 
+information there is negligible sale in last two years. The committee deliberated 
+on its essentiality and noted the following: 
+ Desferrioxamine is mainly indicated as iron chelator in thalassemia. 
+ The numbers of cases of thalassemia in India are 1 lakh and it is an 
+important disease. 
+ Desferrioxamine is an affordable and time-tested injectable drug. In 
+contrast, the newer oral preparations (Deferiprone and Deferasirox) are 
+relatively expensive. 
+ There are some patients who show less response to oral chelator and thus, 
+injectable chelator is required. 
+Drugs listed in the Prevention and Control of Hemoglobinopathies in India  
+Thalassemias, Sickle Cell Disease and Other Variant Haemoglobins  2016 , 
+are Injectable  Desferrioxamine and oral preparations of Deferiprone and 
+Deferasirox. In WHO EML 2019 list, deferoxamine injection 500 mg which is 
+same as desferrioxamine powder for injection 500mg is the only preparation 
+that is included for this indication. 
+The committee noted that injectable desferrioxamine is also indicated in 
+iron overload because of sickle cell anaemia and iron toxicity by iron overload. 
+ 
+After considering the above aspects, the committee opined that for 
+thalassemia programme all 3 drugs are important but for NLEM purpose, only 
+injectable desferrioxamine merits inclusion. 
+ 
+
+ 
+Important changes in NLEM 2022 
+Addition of new sections/sub sections  
+In consultation with the programme in-charge of National AIDS Control 
+Programme (NACP) the following two sub sections have been added. 
+Medicines for treating opportunistic infections in People Living with HIV 
+(PLHIV) 
+HIV infection leads to AIDS and opportunistic infections are the major cause of 
+morbidity and mortality in such patients, which considerably affect the health 
+and quality of life of such infected people. The common opportunistic infections 
+are tuberculosis, oral candidiasis and diarrhoea etc. The total number of PLHIV 
+in India is estimated around 21.40 lakhs in 2017. Children (<15 years) account 
+for 0.61 lakh while females (15+ years) accounts for 8.79 lakh PLHIV in 
+India11. Considering this, a separate sub section  6.7.5 has been added in the 
+NLEM 2022 for opportunistic infections in PLHIV. 
+Additional medicines for syndromic management of sexually transmitted 
+infections  
+Sexually transmitted infections are commonly associated with HIV infection. 
+After the consultation with the programme officers, a subsection  6.7.6 of 
+additional medicines for syndromic management of sexually transmitted 
+infections has been added.  
+Addition of new section for management of Covid-19 pandemic  
+January 2020 witnessed the starting of COVID 19 pandemic in India. The 
+symptomatology of the illness caused by this new virus was evolving, the 
+etiopathogenesis was poorly understood and since no available antiviral drug 
+11 Chapter - 24 National AIDS Control Organization (NACO) [Internet]. Main.mohfw.gov.in. [cited 9 August 
+2022]. Available from: https://main.mohfw.gov.in/sites/default/files/24%20Chapter%20496AN2018-19.pdf 
+
+was able to successfully contain the virus, no specific guidelines were available. 
+Being a novel pathogen, vaccine was also not available. Soon COVID 19 
+pandemic turned into a serious public health emergency globally.  Initial 
+response was focused on containing the spread by community interventions. 
+Meanwhile, scientific community initiated a massive effort to find out an 
+effective answer for this catastrophic problem.  
+The research for developing drugs for combating the COVID-19 pandemic 
+could be categorized into following broad areas: 
+1. Repurposing of drugs: Use of established drugs or drugs under 
+development for other indications for the prevention/treatment of COVID-
+19 infection. This category contained some established drugs albeit for 
+different indications such as hydroxychloroquine (HCQS), ivermectin, 
+azithromycin, doxycycline to name a few. These drugs were tried both for 
+prevention as well as for treatment of COVID 19. Some other drugs 
+approved for other indications (such as baricitinib) were also tried in 
+COVID 19. Extensive multicentric clinical trials (such as SOLIDARITY  
+(remdesivir, hydroxychloroquine, lopinavir/ritonavir and interferon) were 
+undertaken. Some trials are still continuing, and data continues to emerge. 
+Of these, HCQS was recommended in India as a prophylactic agent (subject 
+to certain conditions). Baricitinib (Janus kinase inhibitor, approved for RA), 
+itolizumab (anti CD 6 Mab, approved for acute psoriasis) Pegylated 
+Interferon alfa-2b Injection (anti-cancer drug) were given approval in India 
+for restricted use under emergency situation in COVID 19. Examples of 
+some other drugs for which several clinical trials have been conducted and 
+are still going on alone or in combination are nitazoxanide, colchicine, etc. 
+Some drugs have also been tried as off label. 
+ 
+
+2. Development of new chemical entity (NCE) for COVID 19 treatment 
+based on the etiopathology: several new chemical entities were also 
+investigated and for some, clinical trials are still ongoing. Favipiravir, 
+remdesivir, 2-Deoxy-D-Glucose, casirivimab and imdevimab Injection 
+(combination therapy) and bamlanivimab and etesevimab injection 
+(combination therapy), have received approval for restricted use under 
+emergency situation in India.  
+ 
+The conditional approval/emergency use approval with respect to above drugs 
+and some other drugs (not mentioned in para 1 and 2 above) were guided on the 
+basis of potential benefit exceeding the potential risk (risk benefit ratio) on the 
+basis of the available in vitro, non-clinical and clinical trial data. The data of all 
+these medicines is still not conclusive and complete in the regulatory 
+perspective. Thus, specific precautions and emphasis on post marketing 
+surveillance (PMS) studies have been advised.  
+ 
+The Pharmacovigilance Program of India has developed a specific 
+Adverse Drug Reaction (ADR) reporting form for COVID-19 drugs. The 
+Ministry of Health and Family Welfare has also constituted a national 
+pharmacovigilance committee under the chairmanship of Prof. Y.K. Gupta for 
+monitoring of ADRs of drugs used in COVID-19. The collection, collation, and 
+causality assessment of the ADRs collected from different centers is ongoing. 
+The safety and efficacy data regarding these interventions are still emerging and 
+their exact status in treating COVID-19 will become clear with completion of 
+trials, analysis of data and meta-analysis.  
+ 
+Therefore, the committee was of the opinion that in absence of 
+unequivocal evidence of efficacy and safety, the medicines mentioned above do 
+ended for inclusion 
+in the NLEM 2022.  
+ 
+
+3. Management of pathophysiological phenomenon associated with 
+COVID-19 
+infection 
+(such 
+as 
+cytokine 
+storm, 
+coagulopathy, 
+inflammatory response etc.). In this category some drugs such as steroids, 
+Low Molecular Weight Heparin (LMWH) and tocilizumab are being 
+extensively used. Among them there is strong evidence regarding the use of 
+steroids and LMWHs in improving clinical outcomes. Along with medical 
+oxygen and antipyretics, these therapeutic interventions have a clear role in 
+COVID-19 management. These four medicines are already included in 
+NLEM 2022 in other therapeutic categories. Considering the above aspects, 
+the committee recommended that these interventions meet the criteria of 
+essentiality of COVID-19 management and accordingly such medicines 
+have been included in a separate section of COVID-19 category in the list. 
+ Other drugs from para 1 and 2 shall be added to this category once more 
+convincing data is available. Extensive research and development activities 
+are ongoing all over the world for finding reliable/evidence-based medicines 
+for COVID 19. As and when such convincing data for specific medicines is 
+available, they will be considered for inclusion based on the criteria of 
+essentiality. 
+ 
+4. Use of some drugs without unequivocal evidence  Some medicines have 
+been used in COVID-19 patients with the expectation/ inconclusive 
+evidence to offer some advantage such as, antiviral, anti-inflammatory and 
+immune boosting. These medicines are already in use for other indications; 
+examples are zinc, vitamin cholecalciferol, etc. The committee did not find 
+evidence for them to be included in NLEM. 
+ 
+5. Development of COVID-19 vaccine  It has been another massive global 
+effort to develop COVID-19 vaccines to fight the COVID-19 pandemic. As 
+on date five COVID-19 vaccines have been approved in India for restricted 
+
+use under emergency situation (COVAXIN, Covishield, Sputnik V, 
+MODERNA and Johnson & Johnson). All available COVID-19 vaccines 
+have established their protective effect and also, favorable risk-benefit ratio. 
+However, factors such as duration of protection, protection against various 
+mutants, requirement of boosters, use in special population and longterm 
+sequelae of vaccination are yet to be established with these vaccines.  
+Considering these aspects, the committee was of the opinion that with 
+availability of further long-term efficacy and safety data, these vaccines may 
+be considered for inclusion in future.  
+Some medicines have however been considered essential for supportive 
+management of COVID and accordingly, a separate section containing the list 
+of such medicines has been added in the NLEM 2022.  
+ 
+On the basis of definitive evidence for benefits the following drugs have 
+been listed in the COVID-19 category in NLEM 2022: Paracetamol, 
+Methylprednisolone, Dexamethasone, Enoxaparin and Oxygen. All these drugs 
+are also listed in other indications. 
+ 
+The committee also recommended that to encounter public health 
+emergencies in future for such pandemic, government research bodies (such as 
+ICMR) articulate suitable, flexible recommendations on the basis of emerging 
+data. This way, medical response to emergencies is likely to be more responsive 
+and quicker. 
+
+ 
+Consideration of immunotherapeutic agents for cancer 
+Immune checkpoint inhibitors represent an important development in cancer 
+immunotherapy. Anti-CTLA-4 monoclonal anti-body ipilimumab has been 
+found to be useful in advanced melanoma. Anti-PD1 monoclonal antibodies, 
+nivolumab and pembrolizumab, are other immune checkpoint inhibitors that 
+have demonstrated higher efficacy than conventional anti-cancer drugs in 
+clinical trials for a variety of advanced solid tumors including melanoma, non-
+small cell lung carcinoma and renal carcinoma. These studies have indicated 
+that the enhancement of anti-cancer immunity by controlling the immune 
+suppressive environment within the cancer tissues is important for the 
+development of cancer immunotherapy. 
+ 
+The committee deliberated in detail the immunotherapeutic agents for the 
+treatment of various malignancies. It was noted that immunotherapy is useful as 
+a therapeutic tool mainly in renal cell cancer, head and neck cancer, bladder 
+cancer and lung cancer. The immunotherapeutic agents are used only in very 
+limited cases where the other anti-cancer agents have failed. However, the cost 
+of immunotherapy is exorbitant and overall therapeutic response is less 
+predictable. Several clinical trials are still ongoing to demonstrate their efficacy 
+in different stages of cancer patients.  
+ 
+Targeted oncology therapies are suitable for a specified and small 
+subgroup of cancer patients.  In these patients, presence of specific genetic 
+markers is often required for predicting their response to the treatment. This was 
+considered an additional challenge in the use of certain targeted oncology 
+therapy in India. 
+ 
+Considering the above aspects, the experts including oncologists were 
+unanimously of the opinion that, as on date immunotherapeutic agents for 
+
+cancer do not meet the criteria of their usefulness for majority of cases of cancer 
+patients, risk benefit ratio, cost- effectiveness, established therapeutic efficacy, 
+availability in India and hence such immunotherapeutic agents are not included 
+in NLEM at present. 
+Graphical representation of addition and deletion of medicines in each 
+therapeutic category 
+ 
+
+ 
+ 
+
+
+Changes in writing the names of the medicines 
+Some changes in writing the names of the medicines have been done to bring 
+better clarity. Such changes will now better reflect specific salts, isomers, 
+formulation and specific property of the pharmaceutical/biological products. 
+Such changes made in NLEM 2022 are listed below: 
+Table: Changes in writing the names of the medicines 
+S.No 
+In NLEM 2015 
+In NLEM 2022 
+1 
+Penicillamine 
+D  Penicillamine 
+2 
+Amphotericin B  
+a) Amphotericin B (conventional)  
+b) Lipid/ Liposomal Amphotericin B 
+Amphotericin B 
+a) Amphotericin B (conventional) 
+b) Lipid Amphotericin B 
+c) Liposomal Amphotericin B 
+3 
+Protamine  
+Protamine Sulphate 
+4 
+Platelet rich plasma 
+Platelet rich plasma / Platelet 
+concentrates 
+5 
+Red blood cells 
+Red blood cells / Packed RBCs 
+6 
+Betamethasone  
+Betamethasone valerate 
+7 
+Gadobenate  
+Gadobenate dimeglumine 
+8 
+Intraperitoneal dialysis solution 
+Peritoneal dialysis solution 
+9 
+5-aminosalicylic acid 
+5-aminosalicylic acid (Mesalazine/ 
+Mesalamine) 
+10 
+Clomiphene  
+Clomiphene citrate 
+
+ 
+Modified release dosage forms are drug delivery systems (DDS) that, by virtue 
+of their formulation and product design, provide drug release in a modified form 
+which is different from that of the conventional/ immediate release dosage 
+forms. The oral modified release (MR) dosage forms are developed by altering 
+the rate/kinetics and site of drug release and absorption to confer advantages 
+like improved patient compliance, optimized efficacy and/or reduced adverse 
+events. This may be achieved through specialized formulation design or 
+innovative manufacturing methods. The various types of delivery technologies 
+could be as extended, delayed, controlled, prolonged, multiphasic release 
+system, etc.  
+The modified release dosage forms may sometimes offer following advantages 
+over conventional formulations e.g. improved patient compliance- by reducing 
+the frequency of drug administration, the reduction in the total cost of therapy as 
+lesser number of pills may be required. The MR forms may also offer better 
+bioavailability. Another advantage that modified release dosage forms may 
+offer is to minimize the fluctuations in drug plasma concentrations and 
+facilitating continuous levels above minimum effective concentrations. This 
+may also avoid certain adverse drug reactions.  
+In NLEM 2015, various modified release solid oral dosage forms were listed as 
+sustained release, controlled release, delayed release, extended release, 
+prolonged release, etc. However, the drug delivery systems are evolving rapidly, 
+and the pharmaceutical industry is increasingly focusing on novel drug delivery 
+systems. Many of these are often introduced with incremental innovation. To 
+broadly reflect all such modified release dosage forms, in NLEM 2022, the term 
+Modified Release has been used to represent controlled release, sustained 
+release, prolonged release, extended release etc. with respect to tablets and 
+capsules as the case may be. 
+
+ 
+Medicines where modified release formulations have been mentioned are 
+Carbamazepine, Levetiracetam, Phenytoin, Sodium Valproate, Levodopa + 
+Carbidopa, Morphine, Diltiazem, Isosorbide  5  Mononitrate, Metoprolol, 
+Metformin, etc. 
+Modifications in Names of Therapeutic Categories (Sections and Sub-
+sections)  
+In NLEM 2022, names of some therapeutic categories (Sections and Sub-
+sections) have been modified. This has been done to bring better clarity 
+regarding the medicines listed therein. The changes in names of therapeutic 
+categories are listed below: 
+Table: Changes in names of Therapeutic categories 
+Therapeutic Categories 
+in NLEM 2015 
+Therapeutic Categories 
+ in NLEM 2022 
+Section 1  
+Anaesthetic Agents 
+Section 1  
+Medicines used in Anaesthesia 
+Section 2  
+Analgesics, antipyretics, non-steroidal anti-
+inflammatory medicines, medicines used to 
+treat gout and disease modifying agents 
+used in rheumatoid disorders 
+Section 2  
+Analgesics, Antipyretics, Non-Steroidal 
+Anti-Inflammatory Drugs (NSAIDs), 
+Medicines used to treat Gout and Disease 
+Modifying Agents used in Rheumatoid 
+Disorders 
+Section 4 
+Antidotes and other substances used in 
+poisoning 
+Section 4 
+Antidotes and Other Substances used in 
+Management of Poisonings/ Envenomation 
+Section 7 
+Antineoplastic/ immunosuppressives and 
+medicines used in palliative care 
+Section 7  
+Anti-cancer agents including 
+Immunosuppressives and Medicines used in 
+Palliative Care 
+
+Section 6.5.1  
+Antiamoebic and antigiardiasis medicines 
+Section 6.9.1  
+Medicines used for amoebiasis and other 
+parasitic infections 
+Section 12.5 
+Antithrombotic medicine (Cardiovascular/ 
+Cerebrovascular) 
+Section 10.5  
+Antiplatelet and antithrombotic medicines 
+Section 14.2 
+Anti-infective medicines 
+Section 11.2 
+Antibacterial medicines  
+Section 14.4   
+Medicines affecting skin differentiation and 
+proliferation 
+Section 11.4 
+Keratolytic agents 
+Section 16 
+Dialysis solutions 
+Section 13 
+Dialysis components (haemodialysis and 
+peritoneal dialysis) 
+Section 17 
+Disinfectants and antiseptics 
+Section 14 
+Antiseptics and disinfectants 
+Section 27 
+Psychotherapeutic medicines 
+Section 23 
+Medicines used in treatment of psychiatric 
+disorders 
+ 
+
+ 
+Merging of Therapeutic Categories (Sections and sub-sections) 
+In NLEM 2022, some therapeutic categories which were listed as individual 
+sections have been merged. The medicines belonging to one disease have been 
+listed as sub section. For example  In NLEM 2015, there were different sections 
+for antiepileptic drugs, Antimigraine drugs, Antiparkinsonism drugs and drugs 
+for Dementia. In NLEM 2022, these four sections have been merged as Section 5 
+ i.e. Medicines used in neurological disorders.  
+Table: Merging of Therapeutic Categories (Sections and sub-sections) 
+In NLEM 2015 
+In NLEM 2022 
+Section  5,7,9,13 
+Section 5   
+Medicines in used neurological disorders 
+Section 5  
+Anticonvulsants / Antiepileptics 
+Section 5.1  
+Anticonvulsants / Antiepileptics 
+Section 7  
+Antimigraine Medicines 
+Section 5.2  
+Antimigraine Medicines 
+Section 9  
+Antiparkinsonism Medicines 
+Section 5.3  
+Antiparkinsonism Medicines 
+Section 13  
+Medicines used in Dementia 
+Section 5.4 
+Medicines used in Dementia 
+Section 23  
+Muscle Relaxants and cholinesterase 
+inhibitors 
+Section 1 
+Medicines used in Anaesthesia  
+Section 1.1  
+General anaesthetics and oxygen 
+Section 1.2  
+Local anaesthetics 
+Section 1.3 
+Perioperative medications  
+Section 1.4  
+Muscle relaxants and cholinesterase 
+inhibitors 
+Section 25.6 
+Ophthalmic surgical aids  
+Section 21.6 
+Miscellaneous  
+ 
+
+ 
+Splitting of Therapeutic Categories (Sections and sub-sections) 
+In NLEM 2015, the section 6 describes anti-infective medicines. The two 
+important therapeutic category drugs i.e. antileprosy and anti-tubercular drugs 
+were mentioned as two sub sections, (6.2.3 and 6.2.4) respectively of a sub 
+section i.e. antibacterial (Section 6.2). 
+In NLEM 2022, the rationalization of therapeutic categories has been done and 
+antileprosy has been made a sub section as 6.2 and anti-tubercular has been 
+made sub section 6.3. Similarly, antiretroviral drugs are now listed as separate 
+sub-section (6.7) which was earlier placed as 6.4.3 in NLEM 2015.  
+Table: Splitting of Therapeutic Categories (Sections and sub-sections) 
+In NLEM 2015 
+In NLEM 2022 
+Section 6  
+Anti- Infective medicines 
+Section 6   
+Anti- Infective medicines 
+ 
+6.1 Anthelminthics 
+6.2 Antibacterials 
+6.2.1 Beta-lactam medicines  
+6.2.2 Other antibacterials  
+6.2.3 Antileprosy medicines  
+6.2.4 Antituberculosis medicines  
+6.3 Antifungal medicines 
+6.4 Antiviral medicines  
+6.5 Antiprotozoal Medicines  
+6.1-Anthelminthics 
+6.2-Antibacterials 
+6.3-Antileprosy medicines 
+6.4-Antituberculosis medicines 
+6.5-Antifungal medicines 
+6.6-Antiviral medicines 
+6.7-Medicines used in the 
+management of HIV 
+6.8- Medicines used in Hepatitis B 
+and Hepatitis C  
+6.9-Antiprotozoal Medicines 
+6.10-Antimalarial medicines 
+
+Change in therapeutic categories of medicines 
+In NLEM 2015, certain drugs were listed in therapeutic categories which did 
+not accurately reflect their indication/ therapeutic use. In NLEM 2022, these 
+medicines have now been placed under therapeutic categories which are better 
+indicative of their use.  
+These changes in therapeutic categories are listed below:  
+Table: Change in therapeutic categories of medicines 
+Drug 
+In NLEM 2015 
+In NLEM 2022 
+Mesna 
+Section 8.1 
+Antineoplastic Medicines 
+Section 8.4 
+Palliative Care  
+Human Chorionic 
+Gonadotropin 
+Section 21.1.2 
+Adrenal Hormones and 
+Substitutes  
+Section 18.5.2 
+Ovulation Inducers  
+ 
+Levonorgestrel 
+Section 21.3.2 
+Estrogens 
+Section 18.2.2 
+Hormonal Contraceptives  
+Clopidogrel 
+Section 12.1.2  
+Medicines used in angina 
+Section 10.5.2  
+Antiplatelet and Antithrombotic 
+Medicines 
+ 
+
+ 
+Changes in Level of Healthcare for drugs  
+In NLEM, the medicines have been categorized as P  Primary, S  Secondary, 
+T  Tertiary. Over the years, some drugs which were only used in tertiary care 
+setups are now being commonly used in secondary care setups also.  
+The list of such changes in level of healthcare for drugs is given in Annexure 
+3.1. 
+Changes in Dosage form(s) of Medicines  
+Over the years, new dosage forms have been introduced into the market which 
+have shown advantage in terms of safety, efficacy, bioavailability and ease of 
+administration, etc. Where such dosage forms found merit, have been added.  
+The list of such changes in dosage form(s) of medicines is given in Annexure 3.2. 
+Changes in Strength(s) of Medicines  
+For some medicines, it was noted that some strengths listed in NLEM 2015 
+have limited availability. Their availability was checked from multiple drug 
+information 
+sources 
+and 
+obtained 
+feedback 
+from 
+physicians, 
+pharmacists/chemist shops across the country. Such strengths with limited 
+availability were deleted from the list considering that alternate essential 
+strengths are included.  
+The list of such changes in strength(s) of Medicines is given in Annexure 3.3. 
+
+ 
+Medicines listed in more than one therapeutic category 
+There are 56 drugs which are listed in more than one therapeutic category 
+because they are indicated in more than one conditions. In these indications, 
+dosage form and strength may be same or different. Some representative 
+examples are given below:  
+ Aspirin is used as analgesic in 325 mg strength whereas 75 mg is used as 
+anti-platelet.  
+ Lignocaine 2% injection is used as antiarrhythmic agent and 1% injection as 
+topical anaesthetic agent. 
+ Diazepam is used as 2 mg tablet in palliative care and as 5 mg/mL injection 
+is used as anticonvulsant. 
+Out of 386 medicines in NLEM 2022, 342 appear in single therapeutic category, 
+41 drugs appear in two therapeutic categories (Annexure 4.1), 11 appear in three 
+therapeutic categories (Annexure 4.2) and 4 drugs appear in four therapeutic 
+categories (Annexure 4.3). 
+SNCM s vision for revision of NLEM: The way forward 
+Therapeutics and pharmaceutical landscape have changed rapidly with the 
+advent of newer technologies and incremental innovations, globally as well as 
+in India. Rapid advances in point of care diagnostics, molecular biology 
+platforms, monoclonal antibodies, biosimilars, nanomedicine, radioprotective 
+agents, special drug delivery systems, wearable devices, etc have driven the 
+therapeutics arena significantly. While drug therapy has become safer, 
+predictable and more personalized, there has been a sustained increase in cost 
+and in affordability/accessibility, as a consequence. Furthermore, real world 
+
+data about their effectiveness and long-term safety continues to emerge, which 
+shall determine their exact place in therapeutics some years down the line. 
+Till that happens, continuous and critical analysis of such technologies is 
+warranted in the form of standardized and validated HTA protocols for ensuring 
+their accessibility in Indian context so as to harness their prowess for larger 
+public good. There is a need t
+on and fast track their development. It is equally important to identify and weed 
+Either way, 
+continuous HTA remains important and it is recommended that this be taken up 
+on priority as part of SNCM activity. Indian healthcare ecosystem is cost 
+sensitive due to minimal insurance coverage and lesser public spending on 
+healthcare. Though the cost of medicines in India are much cheaper than the 
+western world, still the expenditure incurred by an average individual is 
+unbearable as he has to shell out about 80% of the medicine cost as out of 
+pocket expenses.   
+One of the cornerstones of SNCM is to identify drugs/medicines of public 
+importance so as to improve their accessibility through suitable executive 
+interventions. Such identification, needless to say is a dynamic process, based 
+on regular accrual of country specific data and is subject to continuous 
+refinement. Such refinement cannot take place in silo and has to factor in 
+simultaneous advancements in other related fields. Analysis of associated 
+factors that affect cost (such as cost of therapy taken in-toto, cost of ADRs, cost 
+of diagnostic tests, loss of wages, hospital admission costs, cost of travel etc) 
+have to be taken in cognizance and incorporated into pharmacoeconomic 
+decision making process. The NLEM is essentially linked to rational use of 
+medicines which is influenced by multiple factors. Therefore, the committee 
+deliberated on the following related issues: 
+
+NLEM for rational therapeutics  
+The NLEM should not remain the only dear/fear for pharmaceutical industry 
+but should become an important tool for improving rational therapeutics in 
+Indian healthcare system so that the limited resources of the health care sector 
+can be optimized and majority of the population gets benefited.  
+Need for Capacity Building for Pharmacoeconomics as a discipline in India 
+The committee recommends that the discipline of pharmacoeconomics must be 
+formally encouraged/practiced/included in the UG and PG curriculum of 
+medical, dental and nursing courses for optimum financial and therapeutic 
+benefits. The important purpose of NLEM is to ensure adequate and regular 
+access to the essential medicines.  
+The concept of essential medicines is one of the pharmacoeconomic tools 
+to economize/ optimize the purchase/ procurement of medicines. The 
+pharmacoeconomics particularly focuses on cost and benefits of drug therapy. 
+Medicines account for a significant proportion of total healthcare cost and 
+prescription can be considered as important therapeutic intervention in practice 
+of medicine. It is therefore important that each prescribing doctor is empowered 
+with 
+right 
+knowledge 
+to 
+practice 
+effectively 
+the 
+principles 
+of 
+pharmacoeconomics which will help promote rational prescribing.  
+The committee, therefore, recommends that the basic training in 
+pharmacoeconomic principles should be mandatory in MBBS and post graduate 
+curriculum.  Advanced pharmacoeconomic courses should be made available 
+for those involved in committees like hospital formulary committee, drug and 
+therapeutic committee, making of essential medicines list and preparing 
+standard treatment guidelines, medical superintendents, directors, etc. This will 
+also curtail irrational use of medicines. By applying the pharmacoeconomic 
+principles, the substantial government exchequer can also be saved. 
+
+Strengthening translational value of Pharmacovigilance Programme of 
+India (PvPI) and NLEM 
+Periodic dissemination of signals and alerts generated by IPC through PvPI to 
+the practicing clinicians will significantly improve the therapeutic outcomes. 
+Any new treatment which is adopted in country needs to be specially monitored. 
+ 
+The 
+committee, 
+therefore, 
+recommends 
+that 
+Pharmacovigilance 
+Programme of India needs to be strengthened by inculcating the practice of 
+Adverse Drug Reaction (ADR) reporting during early clinical exposure of 
+medical, dental, nursing and paraclinical students. 
+NLEM India to become global guidance document for developing world 
+NLEM 2022 has been drafted after detailed countrywide deliberations and is 
+based on robust scientific evidence, accessibility considerations and healthcare 
+needs of the country. This approach can be adopted by other countries. This is 
+especially pertinent to geographically proximate nations as they share similar 
+health issues. Therefore, the committee recommends that necessary measures 
+should be taken to disseminate the NLEM 2022to other countries especially to 
+the geographically proximate nations. 
+Discouraging irrational formulations of medicines  
+In order to appear different, many pharmaceutical houses make formulations of 
+different strengths, dosage forms, and fixed dose combinations of medicines 
+claiming some advantage. However, many of such formulations are without 
+robust scientific evidences. Incidentally, such medicines are also prescribed. 
+These often create confusion, unnecessary economic burden and sometimes 
+more adverse reactions because of multiple drugs in FDC. The committee 
+recommends that such formulations of medicines should be discouraged by the 
+physicians, regulators, pharmaceutical industry and policy makers. 
+
+Similarly, many formulations which are almost similar in active principle 
+but have combinations of not relevant medicines. There are several me too 
+drugs with marginally or sometimes significantly higher costs. There are several 
+strengths of a medicine/formulation, however, for these medicines, only few 
+strengths may serve the purpose of majority. Innumerable fixed dose 
+combinations of medicines particularly of vitamins and minerals are available in 
+the market. Addition of probiotics to other drugs is necessity only in limited 
+cases whereas these are used in many formulations without any scientific 
+justifications. Similar is the case with several antioxidants which are available 
+in different combinations with different medications. The education of concept 
+of essential medicines to post graduate medical students, nursing students, 
+pharmacy students would discourage such formulations. Sometimes their use 
+can be confusing and do not offer any advantage to the patients. The experts 
+engaged with the regulators while approving such formulations can also act as 
+gatekeeper of not flooding me too formulations in the market. 
+Need for impact assessment of NLEM 
+NLEM is in existence in India since 1996. After 2015, its visibility and 
+popularity increased primarily because of its implication on pricing of essential 
+medicines in India. Though the basic philosophy of NLEM is to ensure 
+accessibility, availability of quality medicines even in resource limited settings, 
+sometimes, its influence on pricing becomes more prominent feature. It is 
+important that there should be mechanism to carry out impact assessment of 
+NLEM on rational use of medicines, improvement in their accessibility and 
+affordability to the society as well as impact on optimization of healthcare 
+budget of the country. 
+ 
+ 
+
+Issue of FDC of multiple drugs iron, vitamin and calcium preparations 
+In some cases, FDC of two drugs, particularly in cases of iron, calcium were 
+included in NLEM 2015. For example- 
+a) Oral Liquid  Ferrous Salt (20 mg elemental iron) + Folic Acid (100 mcg) 
+b) Tablet  Ferrous Salt (45 mg elemental iron) + Folic Acid (400 mcg).   
+However, NPPA could not fix the ceiling price in some of these formulations as 
+these formulations are not available in the market. These formulations are listed 
+in national programme  National Iron + Initiative and supplied by the 
+programme.  
+ 
+The reason for non-availability of these formulations in the market may 
+be due to shifting of the market to other FDCs containing iron and folic acid 
+along with other multiminerals and multivitamins. Several similar examples are 
+with vitamin, minerals and calcium. These are examples where essentiality of 
+the drugs is taken over by the marketing strategies and become the pen of 
+physicians.  
+The concerned department/organization should ensure that 
+the 
+formulations which have little scientific rationale should be discouraged during 
+licensing by the regulator and practice by the physicians. 
+NLEM and self-reliant India (
+) for Active Pharmaceutical 
+Ingredients (APIs)/ Key Starting Materials (KSMs) 
+India today has emerged as pharmacy of the world with its pharmaceutical 
+industry ranking third largest in terms of medicines produced by volume and 
+accounts for 20% of global generic medicines. However, the Indian 
+pharmaceutical industry has over the years become significantly dependent on 
+import of basic raw materials that are used to produce the finished dosage 
+
+formulations. The import dependence of APIs, KSMs and intermediates for 
+many medicines which are in NLEM create a vulnerable situation for Indian 
+healthcare system. This could be on account of multiple factors: a) 
+Unpredictable fluctuations of import cost affecting the affordability; b) 
+Uncertainty about the import in the time of conflicts/emergencies; c) Extra 
+expenditure to ascertain and verify the quality of imported material; d) High 
+dependency on the limited number of importers. The challenges for ensuring 
+availability and affordability of API for several pharmaceutical products which 
+are listed in NLEM were realized during recent COVID-19 times.  
+Several deliberations were held in Ministry of Commerce, Ministry of 
+Health and Family Welfare, Indian Council of Medical Research and CDSCO to 
+address the issue of availability and affordability of APIs/KSMs for medicines 
+listed in the NLEM, particularly those which are critical. Pharmaceutical 
+manufacturing associations, NPPA and Department of Pharmaceuticals jointly 
+identified specific APIs / KSMs for which the import dependency was very high 
+(even up to 100%). Out of these, the SNCM further identified some APIs as 
+critical and essential. It is important that the manufacturing of these APIs in 
+India be taken up on top priority so as to become self-reliant (
+) 
+for formulations of essential medicines. Other strategies for competitive import 
+from multiple sources be explored and kept in readiness. The Department of 
+Pharmaceuticals has launched a scheme named as Production Linked Incentive 
+scheme for APIs/KSMs to promote production of APIs in India. This will go a 
+long way to ensure the availability of key medicines in the country at all times. 
+ 
+
+ 
+Conclusion 
+While the extended mandate of the Standing National Committee on Medicines 
+(SNCM) to revise NLEM 2015. i.e. including medical devices, medical 
+disposables, medical consumables and other products used for Health and 
+Hygiene used for general public in NLEM, is being deliberated, the SNCM has 
+finalized the recommendations of essential medicines and NLEM 2022 has been 
+prepared and placed in this report.   
+An important dimension deliberated by SNCM is anti-infective agents in 
+the light of antimicrobial resistance and the classification of antimicrobial agents 
+as AWaRe (Access, Watch and Reserve) in WHO EML 2022. It is 
+recommended that continuous sensitization of prescribers, strict prescription 
+audit, anti-microbial stewardship programmes and adherence to NLEM 2022 
+will go a long way in promoting rational antimicrobial prescribing and prevent 
+antimicrobial resistance. 
+The COVID-19 pandemic has been a challenge globally as well as for 
+India. The SNCM deliberated on essentiality of medicines for COVID-19 and 
+opined that the data of new medications are still not conclusive and complete in 
+regulatory perspective. Therefore, in absence of unequivocal evidence of 
+efficacy and safety, the new COVID-19 medicines have not been included as of 
+now. However, the supportive management has been added in a separate section.  
+The medicines and their formulations (dosage form and strength) which 
+had limited availability and not commonly used by the physicians have been 
+deleted after considering their essentiality. Innovation for improving 
+therapeutics and vaccines for Indian patients must be encouraged. The 
+ecosystem needs to be developed so that inclusion of innovative products in 
+NLEM gives a boost rather than the apprehension of commercial sustainability. 
+
+Innovations, changes in disease burden, revision in treatment guidelines, 
+changing pharmacoeconomics and pharmacovigilance dimensions make the 
+NLEM revision process dynamic. Continuous feedback and suggestions from all 
+stakeholders to the Standing National Committee on Medicines is crucial in 
+keeping the NLEM up-to-date.  
+It is reiterated that addressing all the issues is difficult but the basic 
+principles of essentiality, i.e. efficacy, safety, cost of treatment, need to address 
+public health problems and common diseases prevalent in India were adhered to. 
+Thus, the NLEM remains a Best Fit list. More application of important tools like 
+Health Technology Assessment, pharmacovigilance, pharmacoeconomics and 
+disease epidemiology will be useful for addressing the several challenges faced 
+during the process of revision of NLEM. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Annexures 
+
+Annexure 1  Order of Ministry of Health and Family Welfare for 
+constitution of SNCM for revision of NLEM 
+         
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Annexure 2  Assessment of specific formulations listed in NLEM 2015   
+referred by NPPA for availability and essentiality 
+Annexure 2.1 
+A. Specific formulations to be retained in NLEM 2022 on the basis of 
+essentiality 
+ 
+S.No. 
+Drug Name Strength 
+Recommendations of Experts 
+1. 
+Acetylsalicylic acid  
+Effervescent/ 
+Dispersible/ Enteric 
+coated  
+Tablet 300 mg to 500 
+mg 
+The committee noted that commonly marketed 
+preparations are Disprin and Disprin Plus available 
+as 325 mg and 500 mg. Therefore, expert 
+committee 
+recommended 
+that 
+Effervescent/ 
+Dispersible/ Enteric coated  Tablet 300 mg to 500 
+mg be retained in NLEM 2022.  
+2. 
+Acetylsalicylic acid 
+Tablet 300 mg to 500 
+mg (351 mg to 500mg) 
+Different formulations of acetylsalicylic acid are 
+available as effervescent / plain/ effervescent/ 
+dispersible/ enteric coated. Therefore, expert 
+committee recommended that Tablet 300 mg to 
+500 mg to be retained in NLEM 2022.  
+3. 
+Activated charcoal 
+Powder (as licensed) 
+The committee noted that it is less commonly sold 
+in market. But the drug is essential as a universal 
+antidote for poisoning cases. Therefore, expert 
+committee recommended that Activated charcoal  
+Powder (As licensed) to be retained in NLEM 
+2022.  
+4. 
+Calcium carbonate  
+The committee noted that calcium carbonate is 
+available in the market and is commonly used by 
+
+Tablet 250 mg 
+clinicians. 
+Therefore, 
+expert 
+committee 
+recommended that Calcium carbonate Tablet 250 
+mg to be retained in NLEM 2022.  
+5. 
+Calcium folinate 
+Injection 3 mg/ml 
+The committee noted that calcium folinate is 
+available in the market and is commonly used by 
+clinicians. 
+Therefore, 
+expert 
+committee 
+recommended that calcium folinate injection 
+3mg/mL be retained in NLEM 2022.  
+6. 
+Cloxacillin  
+Oral Liquid 125 mg/5 
+ml 
+The committee noted that Cloxacillin Oral liquid is 
+available in the market and is commonly used by 
+clinicians. 
+Therefore, 
+expert 
+committee 
+recommended that Oral Liquid 125 mg/5 ml be 
+retained in NLEM 2022.  
+7. 
+Doxycycline  
+Dry syrup 50 mg/5 ml 
+The committee noted that  
+ Doxycycline 
+is 
+in 
+National 
+Malaria 
+Elimination Programme. 
+ Earlier there was concern for toxicity, but 
+recent reports show no toxicity.   
+Therefore, expert committee recommended that 
+Dry syrup 50 mg/5mL be retained in NLEM 2022.  
+8. 
+Hydroxocobalamin 
+Injection 1 mg/ml 
+Vitamin B12 (cobalamin) is used in cases of 
+deficiency which is at times supported by low 
+blood levels also. The deficiency could be due to 
+factors like pernicious anaemia, megaloblastic 
+anaemia, inflammatory bowel disease, short bowel 
+syndrome, inherited disorders like methylmalonic 
+aciduria, strict vegetarian diet especially in elderly, 
+
+and worm infestation. It is common in India and 
+hence 
+warrants 
+inclusion 
+of 
+vitamin 
+B12, 
+particularly parenteral preparation in the NLEM. 
+Parenteral preparation is needed when the 
+deficiency is severe and blood levels are very low, 
+leading to either anaemia or its specific secondary 
+effects such as peripheral or central neurological 
+symptoms. 
+Vitamin B12 supplementation is available in 3 
+different forms: hydroxo-; cyano- and methyl- 
+cobalamin. Hydroxo- is parenteral only and cyano- 
+and methyl- are both oral and parenteral. Hydroxo- 
+and cyano- are storage forms in the blood and 
+methyl- is the intracellular active form as cyano- is 
+converted to hydroxo- which is then converted to 
+methyl- 
+(https://en.wikipedia.org/wiki/Hydroxocobalamin). 
+Hydroxo-cobalamin, in addition is useful for 
+treatment 
+of 
+cyanide 
+poisoning 
+as 
+well 
+(https://www.ncbi.nlm.nih.gov/books/NBK557632) 
+All three forms are available and used, based on 
+regional preferences, market forces and personal 
+choices. Hydroxocobalamin is more commonly used 
+in Europe and cyanocobalamin is more commonly 
+used in USA 
+(https://www.ncbi.nlm.nih.gov/books/NBK557632). 
+As per British National Formulary, for maintenance 
+therapy, hydroxocobalamin requires once in three 
+months dosing as compared to once a month for 
+cyano- 
+(https://www.bmj.com/content/349/bmj.g5389). It 
+directs that when vitamin B12 injection is prescribed 
+
+or demanded hydroxocobalamin injection shall be 
+dispensed or supplied (https://bnf
+cyanocobalamin). Hydroxocobalamin is included in 
+the WHO EML also.   
+Thus, the above information supports the inclusion 
+of hydroxocobalamin 1 mg/ml injection in the 
+NLEM. 
+ 
+Therefore, 
+expert 
+committee 
+recommended that Injection 1mg/mL to be retained 
+in NLEM 2022.  
+9. 
+Iohexol  
+Injection 140 to 350 
+mg iodine/ml 
+The information from AIIMS Bhubaneshwar 
+ 
+procured through rate contract (GE Healthcare). 
+Other hospitals also may be procuring through rate 
+contract. The availability of this product was 
+checked and it was found that the whole spectrum 
+from 140  350 mg iodine/ml is available.  
+Therefore, expert committee recommended that 
+Injection 140 mg to 350 mg iodine /mL be retained 
+in NLEM 2022.  
+10. 
+Medroxyprogesterone 
+acetate  
+Tablet 5 mg 
+Subject 
+experts 
+opined 
+that 
+Tablet 
+medroxyprogesterone acetate 10 mg is commonly 
+used, but some patients are started on 5 mg and the 
+dose is increased depending on the tolerability and 
+clinical response. Therefore, expert committee 
+recommended that both 5 mg and 10 mg be 
+retained in NLEM 2022.  
+11. 
+Methylthioninium 
+chloride (Methylene 
+blue) Injection 10 
+The committee noted that Injection 10 mg/ml is an 
+essential drug for management of cases leading to 
+drug induced methemoglobinemia. Therefore, the 
+
+mg/ml 
+committee recommended that it should continue as 
+essential in NLEM 2022. 
+12. 
+Nystatin  
+Pessary 100,000 IU 
+Nystatin was approved by the FDA in 1971 and is 
+currently widely used in the treatment of 
+superficial candida infections of the skin, mucous 
+membranes and gastrointestinal tract, including 
+oropharyngeal candidiasis. 
+https://www.ncbi.nlm.nih.gov/books/NBK548581/  
+Nystatin is available in multiple forms such as 
+tablets, troches, powder for suspension, creams and 
+ointments and varying concentrations which are 
+usually measured in units. 
+The committee deliberated regarding different 
+formulations of nystatin. The following were 
+noted: 
+ The 
+nystatin 
+formulation 
+has 
+limited 
+availability. 
+ Purportedly more efficacious with better safety 
+profile antifungals are commonly used now a 
+days. For example  
+ Fluconazole for GI candidiasis. 
+ Clotrimazole for vulvovaginal candidiasis 
+Both agents are listed in NLEM 2022 
+The committee appreciated that the chances of 
+resistance with nystatin is low. It is also the most 
+economical antifungal agent as compared to newer 
+
+antifungal agents. This drug is locally effective and 
+not absorbed systemically. The formulations are 
+also listed in WHO EML 2019. The committee 
+therefore recommends that Pessary 100000 IU and 
+Oral Liquid 100000 IU/mL should be retained and 
+Tablet 500000 IU be deleted in NLEM 2022, even 
+though there are other anti-fungal agents in the list. 
+The committee recommended that there should be 
+a reassessment after one year for efficacy, safety 
+and resistance. The use pattern, resistance, efficacy 
+should be kept in watch.  
+13. 
+Nystatin  
+Oral Liquid 100, 000 
+IU/ml 
+Nystatin was approved by the FDA in 1971 and is 
+currently widely used in the treatment of 
+superficial candida infections of the skin, mucous 
+membranes and gastrointestinal tract, including 
+oropharyngeal candidiasis 
+https://www.ncbi.nlm.nih.gov/books/NBK548581/  
+Nystatin is available in multiple forms such as 
+tablets, troches, powder for suspension, creams and 
+ointments and varying concentrations which are 
+usually measured in units. 
+The committee deliberated regarding different 
+formulations of nystatin. The following were 
+noted: 
+ The availability of nystatin formulation has 
+limited availability. 
+ More efficacious with better safety profile 
+antifungals are commonly used now a days. 
+
+Commonly used examples are   
+ Fluconazole for GI candidiasis 
+ Clotrimazole for vulvovaginal candidiasis 
+Both of these agents are listed in NLEM 2022 
+The committee appreciated that the chances of 
+resistance with nystatin is low. It is also the most 
+economical antifungal agent as compared to newer 
+antifungal agents. This drug is locally effective and 
+not absorbed systemically. The formulations are 
+also listed in WHO EML 2019. The committee 
+therefore recommends that Pessary 100000 IU and 
+Oral Liquid 100000 IU/mL should be retained and 
+Tablet 500000 IU be deleted in NLEM 2022. Even 
+though there are other anti-fungal agents in the list. 
+The committee recommended that there should be 
+a reassessment after one year for efficacy, safety 
+and resistance. The use pattern, resistance, efficacy 
+should be kept in watch.  
+14. 
+Podophyllin resin  
+Solution 10% to 25% 
+ 
+The 
+committee 
+deliberated 
+and 
+noted 
+that 
+Podophyllum resin (Podophyllin) is commonly 
+used for warts. Though different strengths from 10 
+to 25% are available, commonly used and available 
+strength in India is 20%. Therefore, the committee 
+recommended Podophyllin resin 20% should be 
+retained. 
+15. 
+Povidone iodine  
+Drops 5% 
+The committee noted that it is available as 5% 
+drops and has limited availability. In clinical 
+practice, Povidone-iodine (PVI) solutions have 
+
+been widely used for several decades with 
+adequate tolerability and safety. It is a universally 
+accepted antiseptic agent used in ophthalmic 
+surgery with strong evidence for its efficacy. 
+https://www.nature.com/articles/s41433-021-
+01447-8  
+Therefore, the committee recommended that it 
+should continue as essential in NLEM 2022. 
+16. 
+Pyridoxine  
+Tablet 50 mg 
+Several formulations are available and commonly 
+used. Thus, the committee recommended to retain 
+it in NLEM 2022.  
+17. 
+Sodium chloride  
+Injection 3% 
+Both 3% and 5% hypertonic saline (HS) are 
+currently FDA-approved for use in hyponatremia 
+and increased intracranial pressure (ICP).  
+https://www.sort.nhs.uk/Media/Guidelines/Hyperto
+nicsaline3sodiumchlorideguideline.pdf  
+The 
+committee 
+deliberated 
+and 
+noted 
+the 
+following: 
+1. 3% hypertonic saline is commonly used in 
+management of hyponatremia, raised ICP, 
+cerebral oedema. 
+2. It is also available in the market, few of the 
+manufacturers are listed above. 
+3. USFDA 
+also 
+recommends 
+use 
+of 
+3% 
+hypertonic saline (HS) in hyponatremia and 
+increased intracranial pressure (ICP). 
+Therefore, the committee recommended retention of 
+
+3% sodium chloride. 
+18. 
+Vitamin A   
+Oral liquid 100000 
+IU/ml 
+The capsules of 50000 IU can meet dose titration 
+needs for most of the indications. The expert 
+committee thus recommended deletion of Capsule 1 
+Lac IU and retention of oral liquid 100000 IU/mL. 
+
+Annexure  2.2 
+B. Specific formulations recommended to be retained  
+The formulations which were referred by NPPA for limited/non-availability in 
+the market were assessed by the expert group. The nationwide feedback was 
+also collected on the availability. It was noted that these formulations are poorly 
+available or not available in the market. However, these formulations are 
+directly procured and provided by the respective programmes. Thus, after 
+deliberation the committee, on the basis of essentiality, recommended retention 
+of these formulations in NLEM 2022.   
+The formulations of medicines and name of the National Health Programme is 
+given in the following table: 
+S.No. 
+Drug Name and Strength 
+Name of the National Health Programme 
+in which the drug is mentioned 
+1. 
+Abacavir  
+Tablet 60 mg 
+National AIDS Control Programme  
+2. 
+Cycloserine  
+Capsule 125 mg 
+National TB Elimination Programme  
+3. 
+Dapsone  
+Tablet 50 mg 
+National Leprosy Elimination Programme 
+4. 
+Ethionamide  
+Tablet 125 mg 
+National TB Elimination Programme  
+
+ 
+5. 
+Ferrous salt (A) + Folic acid (B)  
+Oral liquid 20 mg elemental iron 
+(A) + 100 mcg 
+National Iron + Initiative  
+The committee also noted that several 
+preparations of Oral liquid 20 mg elemental 
+iron (A) + 100 mcg (B) as FDC are 
+available in the market with additional 
+constituents such as zinc, vitamin B12. 
+These FDCs are commonly sold. Therefore, 
+the experts recommended retention of this 
+formulation in NLEM 2022. 
+6. 
+Ferrous salts  
+Tablet equivalent to 60 mg of 
+elemental iron 
+National Iron + Initiative   
+7. 
+Lamivudine (A) + Zidovudine 
+(B)  
+Tablet 30 mg (A) + 60 mg (B) 
+National AIDS Control Programme  
+8. 
+Miltefosine  
+Capsule 50 mg 
+National Vector Borne Disease Control 
+Programme (NVBDCP) 
+9. 
+Nevirapine  
+Dispersible Tablet 50 mg 
+National AIDS Control Programme 
+10. 
+Paromomycin  
+Injection 375 mg/ml 
+National programme for Kala Azar 
+(NVBDCP) 
+11. 
+Zidovudine  
+Oral liquid 50 mg/5 ml 
+National AIDS Control Programme  
+12. 
+Zidovudine (A) + Lamivudine 
+(B) + Nevirapine (C)  
+Tablet 60 mg (A) + 30 mg (B) + 
+50 mg (C) 
+National AIDS Control Programme  
+
+Annexure  2.3 
+C. Special formulations like  blood products and other biologicals to be 
+retained as these are supplied through designated supply chain and may 
+not be available in open market 
+S.No. 
+Drug Name 
+Recommendations of experts 
+1. 
+Condom  
+As per the standards prescribed in 
+Schedule R of Drugs and 
+Cosmetics Rules, 1945 
+NPPA informed that ceiling price has been 
+fixed based on NLEM 2011. Presently this 
+is under litigation as informed by regulator. 
+The data for Condom is available on the 
+online source. 
+2. 
+Cryoprecipitate  
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use and thus are not 
+expected to be available in the general/open 
+market. 
+3. 
+Fresh frozen plasma  
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+4. 
+Inactivated polio Vaccine 
+As licensed 
+Inactivated Polio Vaccine is not yet 
+included 
+in 
+Universal 
+Immunization 
+Programme of India and thus it is not 
+enlisted in NLEM. 
+5. 
+Intraperitoneal dialysis solution  
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+
+6. 
+Platelet rich plasma  
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+7. 
+Red blood cell 
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+8. 
+Tuberculin, Purified Protein 
+derivative 
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+This Tuberculin, Purified Protein Derivative 
+might be procured by the laboratories. 
+9. 
+Whole blood 
+As licensed 
+There are certain  biological products which 
+are special in nature in terms of their 
+availability and use. These are not expected 
+to be available in the general/open market. 
+
+ 
+Annexure  2.4 
+D. Specific formulations deleted because of non-availability/limited 
+availability and / or non-essentiality in the present context 
+S.No. 
+Drug Name and 
+Strength 
+Recommendations of Experts 
+1. 
+Atropine  
+Injection 1 mg/ml 
+Injection 0.6 mg/ml is commonly used.  Experts from 
+different parts of the country could not confirm the 
+availability of Injection 1 mg/ml in their hospitals.  
+Therefore, expert committee recommended that the 
+strength of 1mg/ml strength is being deleted in NLEM 
+2022.  
+The high dose of atropine will be required in 
+Organophosphorus poisoning cases where Injection 
+0.6mg/ml (although high volume) can also serve the 
+purpose. 
+2. 
+Barium sulphate  
+Oral liquid 100% w/v 
+Barium Sulphate Oral Liquid 250 % w/v and 100% 
+w/v are very less used. Although different strengths 
+are available. Thus, availability in the market is not 
+there. 
+Most commonly used strength is oral liquid 95 % w/v 
+as confirmed by most of the radiologists who 
+responded. This strength (95%w/v) meets requirement 
+of majority of the cases. 
+Hence, the strengths of 100% w/v and 250% w/v are 
+deleted from NLEM 2022 and are replaced with one 
+strength i.e. oral liquid 95% w/v. 
+
+3. 
+Barium sulphate  
+Oral liquid 250% w/v 
+Barium Sulphate Oral Liquid 250 % w/v and 100% 
+w/v are very less used. Although different strengths 
+are available. Thus, availability in the market is not 
+there 
+Most commonly used strength is oral liquid 95 % w/v 
+as confirmed by most of the radiologists who 
+responded. This strength (95%w/v) meets requirement 
+of majority of the cases. 
+Hence, the strengths of 100% w/v and 250% w/v are 
+deleted from NLEM and are replaced with one 
+strength i.e. oral liquid 95% w/v. 
+4. 
+Bleaching powder 
+Containing not less than 
+30% w/w of available 
+The experts noted that as it is not used by clinicians 
+and the fact that this can better fit into category of 
+hygiene 
+and 
+healthcare 
+products. 
+This 
+is 
+recommended for deletion in NLEM 2022. 
+5. 
+Carbamazepine 
+Oral Liquid 200 mg/5ml 
+Experts from different parts of the country could not 
+confirm availability of 200mg/5ml. Oral Liquid 
+100mg/5ml is freely available and is commonly used. 
+The 
+subject 
+expert 
+group 
+recommended 
+that 
+200mg/5ml to be deleted from NLEM 2015.  
+Therefore, the committee recommended deletion of 
+200mg/5ml as the purpose will be solved with 
+100mg/5ml. 
+6. 
+Chlorpheniramine 
+ Oral liquid 2 mg/5 ml 
+The committee noted the following regarding the oral 
+liquid 2mg/5mL formulation of chlorpheniramine: 
+1. 
+Not in WHO EML 2019 
+2. 
+Not available in market 
+
+3. 
+Alternative oral liquid antihistaminic is 
+Cetirizine 
+ Oral Liquid 5mg/5mL is present in 
+NLEM. 
+4. 
+The literature review also suggests the 
+superiority of cetirizine over other second generation. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7043
+022/  
+In view of the above, expert committee recommended 
+chlorpheniramine oral liquid 2mg/5mL for deletion. 
+7.  
+Coal tar Solution 5% 
+Coal Tar solution has limited availability in the 
+market as a single agent. Coal Tar is rather used 
+commonly in the form of an FDC with Salicylic Acid 
+ Coal Tar Solution 1% coal tar + 3% Salicylic Acid 
+is commonly used formulation. 
+The expert recommended that coal tar solution is 
+replaced by Coal tar (A) + Salicylic Acid (B) solution 
+ Solution 1% (A) + 3% (B) in NLEM, 2022. 
+8. 
+Cyclophosphamide 
+Tablet 200 mg 
+Feedback from subject experts concluded that tablet 
+200 mg is not used where high dose is used, it is given 
+as injectable for which 500 mg ampoule is already 
+present in NLEM.  
+Therefore, the expert committee were of the opinion 
+that higher doses are used only for injection and not as 
+oral dose/tablet. And also, WHO EML 2019 enlisted 
+Tablet 25 mg and 50 mg only. Thus, it is 
+recommended to delete Tablet 200 mg in NLEM 
+2022. 
+
+9. 
+Cyclosporine  
+Capsule10 mg 
+Experts from different parts of the country could not 
+confirm the availability of Cyclosporine Capsule 10 
+mg. This strength (capsule 10 mg) is not commonly 
+used. The starting dose is 10 mg but, the liquid 
+preparation can serve the purpose which is also in 
+NLEM, therefore, capsule 10 mg is recommended to 
+be deleted.  
+10. 
+Dapsone  
+Tablet 25 mg 
+The anti  Leprosy drug Dapsone tablet 25 mg is not 
+listed in the National Leprosy Eradication Programme 
+(NLEP).  The committee noted that in the National 
+Leprosy Eradication Programme (NLEP) 50 mg and 
+100 mg dose is recommended for children and adults 
+respectively. Once a day tablet of 50 and 100 mg 
+(daily dose). In any situation where 25 mg is to be 
+given of tablet 50 mg can serve the purpose. 
+The experts from different parts of the country 
+informed that 25 mg is not commonly available. 
+Therefore, the committee recommended its deletion in 
+NLEM 2022. 
+11. 
+Efavirenz  
+Tablet 50 mg 
+The anti-HIV drug Efavirenz tablet 50 mg is not listed 
+in the National AIDS Control Programme (NACP). 
+Other formulations Tablet 200 mg for children and 
+Tablet 600 mg for adults are listed in the (NACP). 
+Therefore, the expert committee recommended 
+deletion of Tablet 50 mg in NLEM 2022. 
+12. 
+Erythromycin 
+ Ointment 0.5% 
+The expert group confirmed the non-availability of 
+this formulation. They further noted that erythromycin 
+is not superior to existing ophthalmic antibiotics. 
+Therefore, the committee recommended for its 
+
+deletion in NLEM, 2022. 
+13. 
+Ethinylestradiol (A) + 
+Norethisterone  
+Tablet 0.035 mg (A) + 1 
+mg (B) 
+Experts informed that FDC of Ethinylestradiol (A) + 
+Norethisterone (B) is not commonly prescribed.  The 
+NLEM 2015 already has alternative combination of 
+hormonal contraceptives which is commonly used.  
+The FDC is: 
+Ethinylestradiol (A) + Levonorgestrel (B)   
+Tablet 0.03 mg (A) + 0.15 mg (B)  
+The expert committee thus recommended its deletion 
+from NLEM 2022. 
+14. 
+Etoposide  
+Capsule 100 mg 
+Capsule 100 mg is less commonly used, wherever 100 
+mg dose is required, two Capsules of 50 mg can serve 
+the 
+purpose. 
+Thus, 
+the 
+expert 
+committee 
+recommended that 100 mg be deleted from NLEM, 
+2022. For higher dose, Injection 200mg/ml is 
+available. 
+15. 
+Ferrous salt (A) + Folic 
+acid (B) 
+ Tablet 45mg elemental 
+iron (A) + 400 mcg (B) 
+ 
+The formulation of Ferrous Salt and Folic acid are 
+available with various combinations of vitamins. The 
+reason may be, due to promotion and shifting of 
+market to other FDCs containing iron and folic acid 
+along with multimineral and multivitamins.  
+The 
+preparations 
+available 
+have 
+additional 
+constituents like zinc, Vitamin B12.  
+The committee recommended addition of 
+a. Iron dextran 50 mg/ml in 2 ml ampoules 
+b. Iron sorbitol citrate complex 50 mg/ml in 2 ml 
+
+ampoules  
+This will also align with the Iron + Initiatives it is 
+indicated for the treatment of anaemia. 
+Therefore it is recommended for S,T levels of 
+healthcare. 
+16. 
+Ferrous salts 
+Oral liquid equivalent to 
+25 mg of elemental 
+iron/ml 
+The experts noted that this formulation is  
+1. Is listed in Iron + initiative 
+2. Is formulation is not available in market 
+3. It is not listed in WHO EML 2019 
+However, the committee noted that this formulation is 
+available in FDC with folic acid, Vit B12, as 
+Tonoferon and recommended its deletion in NLEM 
+2022. 
+17. 
+Fluorescein  
+Eye drop 1% 
+The expert committee noted the following: 
+1. Cost of the strip per patient compared to drops is 
+higher. However, the drops have limitation that it 
+has to be used in multiple patients once the vial is 
+opened. So, the drops are useful in hospitals with 
+high patient load. 
+2. There is issue of drug wastage in drops as once the 
+vial is opened, it is to be used for multiple patients 
+in one sitting. 
+3. Drops have Economic advantage over strips 
+4. There is ease of use in case of strips. 
+5. Cost of the strips is higher than the drops which is 
+the only limitation of strips. 
+6. Most of the clinicians shifted from drops to strips 
+and market availability could not be confirmed.  
+Therefore, the expert committee recommended 
+
+deletion of eye drops 1% and addition of strips in 
+NLEM 2022. 
+18. 
+Framycetin  
+Cream 0.5% 
+The expert group noted that Framycetin Cream 0.5% 
+is not used and is not available. Instead, Framycetin 
+Cream 1% is available and commonly used. 
+Therefore, the experts recommended to delete 0.5% 
+and replace it with Framycetin Cream 0.5% with 1% 
+in NLEM, 2022.  
+19. 
+Isoniazid  
+Tablet 50 mg 
+The committee perused NTEP and noted that 50 mg 
+tablet is not mentioned whereas oral liquid 50mg/5ml 
+is mentioned. Therefore, the committee recommended 
+the deletion of tablet 50 mg. (Oral Liquid 50mg/5ml 
+has been added). 
+20. 
+Isoniazid  
+Oral Liquid 100mg/5ml 
+ 
+The committee noted the following: 
+1. Other 
+formulations 
+of 
+100mg/5ml 
+are 
+in 
+combination with other ingredients. 
+2. The more commonly available formulation is 50 
+mg/5ml. 
+3. 50 mg/5ml is also commonly used as per subject 
+ 
+4. 50mg/5ml is also listed in WHO EML 2019. 
+5. 50mg/5ml is also listed in Guidelines for 
+programmatic management of drug resistant TB in 
+India 
+2022. 
+(https://tbcindia.gov.in/showfile.php?lid=3590) 
+Therefore, the committee recommended the deletion 
+of 100mg/5ml and inclusion of 50mg/5ml strength. 
+21. 
+Lignocaine  
+Eye drop 4% 
+The subject experts informed that at present 
+Lignocaine 4% drops are not available and are not 
+being used in current practice. They have been 
+
+replaced by Proparacaine 0.5% eye drops which are 
+easily available. One bottle of Proparacaine costs 
+approx. Rs 50 and is manufactured by a large number 
+of companies in India. As lignocaine drops 4% is no 
+more essential, it can be dropped from the list. 
+Considering the above, the expert committee 
+recommended to delete Lignocaine eye drops 4 % and 
+addition of Proparacaine eye drops 0.5% in NLEM 
+2022. 
+22. 
+Lopinavir (A) + 
+Ritonavir (B)  
+Oral liquid 400 mg (A) + 
+100 mg (B)/ 5ml 
+As per the inputs received from NACP, the 
+formulation Lopinavir + Ritonavir  Oral liquid 400 
+mg (A) + 100 mg (B)/ 5mL is not part of the 
+programme. 
+Therefore, 
+the 
+expert 
+committee 
+recommended deletion of this formulation in NLEM, 
+2022.  
+23. 
+Mefenamic acid  
+Capsule 250 mg 
+ 
+The committee noted that there is more frequent 
+availability of tablet formulation. Therefore, expert 
+committee recommended replacement of Ccapsule 
+250 mg by Tablet 250 mg. 
+24. 
+Mefenamic acid  
+Capsule 500 mg 
+The committee noted that usually the daily dose is 
+500mg to start with followed by maintenance dose of 
+250mg oral. The commonly available and used form 
+is tablet but capsules are also available. Therefore, 
+expert committee recommended deletion of Capsule 
+500 mg in NLEM 2022.  
+25. 
+Methyl prednisolone  
+Tablet 32 mg 
+ 
+The committee noted the following: 
+1. 32 mg methylprednisolone has limited availability  
+2. Cost difference 
+3. Not commonly used 
+
+4. Equivalent 
+efficacy 
+can 
+be 
+achieved 
+with 
+equipotent doses of prednisolone which is much 
+cheaper. (http://rc.rcjournal.com/content/63/6/655) 
+5. This deletion of all oral formulations of 
+methylprednisolone also aligns with WHO EML 
+2019. 
+Therefore, the expert committee recommended 
+deletion of Tablet 32 mg in NLEM 2022. 
+26. 
+Midazolam  
+Oral liquid 2 mg/ml 
+The expert committee noted that the oral liquid 2 
+mg/mL formulation of midazolam is not used while 
+nasal spray is used.   Midazolam nasal spray is 
+acceptable and is a good alternative to oral midazolam 
+as premedication in the pediatric population. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6545
+947/  
+Therefore, the committee recommended addition of 
+midazolam nasal sprays 0.5 mg and 1.25 mg and 
+deletion of oral liquid 2mg/mL. 
+27. 
+Midazolam  
+Tablet 15 mg 
+The committee noted that 15 mg tablet is rarely used 
+instead nasal spray is preferred. The cost effectiveness 
+of nasal spray to be assessed after 1 year for the 
+purpose of inclusion in NLEM. 
+Though this is less commonly available, committee 
+recommended the deletion of tablet 15 mg in NLEM 
+2022.  
+28. 
+Miltefosine  
+Capsule 10 mg 
+The currently recommended dose for miltefosine as 
+monotherapy for either CL or VL is 2.5 mg/kg/day for 
+a total of 28 days. However, due to regular 
+unavailability of the 10 mg capsule in clinical 
+
+practice, other dosages are being administered. 
+National programme for elimination of Elimination of 
+Leishmania recommends 100 mg/day miltefosine for 
+patients with a body wei
+1.7 4 mg/kg/day) and 50 mg/day for body weights 
+<25 kg (corresponding to 2 5.5 mg/kg/day). 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3393
+397/  
+The miltefosine dose is 2.5 mg/kg. For better titration, 
+10 mg/kg is useful. However, 10 mg capsules are not 
+available. 
+Therefore, 
+the 
+national 
+programme 
+recommends that patient with less than 25 kg be given 
+one capsule of 50 mg and patient with more than 25 
+kg be given a capsule of 100 mg. 
+The above-mentioned reference also indicates similar 
+dosing strategy i.e. less than 45 kg  50mg twice daily 
+ 50 mg thrice daily. 
+Considering the above, the committee recommended 
+deletion of 10 mg capsule. 
+29. 
+Morphine  
+Tablet 20 mg 
+The committee noted that the availability of 20 mg is 
+not reliable and also not commonly used. Most of the 
+needs are fulfilled by 10 mg and SR 30 mg. 
+Therefore, the committee recommended deletion of 
+morphine tablet 20 mg from the NLEM, 2022.  
+30. 
+Moxifloxacin  
+Tablet 200 mg 
+Although the dose 200 mg is listed in Programmatic 
+management of Drug Resistant Tuberculosis in India 
+ 2022. Considering the non-availability of 200 mg 
+tablet and the fact that half tablet of 400 mg serves the 
+purpose, the 200mg tablet is recommended for 
+
+deletion. 
+The committee recommended that all 400 mg tablet 
+should be manufactured as scored tablet to align with 
+programmatic recommendations.  
+31. 
+Nicotinamide 
+ Tablet 50 mg 
+ 
+Nicotinamide 50 mg had been included in the NLEM 
+for the management of nutritional deficiency of 
+Vitamin B3  pellagra.  
+Until the late 1950s, pellagra was considered as an 
+endemic disease in India. Research reports revealed 
+that people who consumed millet jowar (sorghum) as 
+their staple diet were more prone to pellagra. The high 
+leucine content in millet decreases the absorption of 
+nicotinic acid. But scientists did not resort to nicotinic 
+acid supplementation. Instead, they advised these 
+populations not to rely solely on jowar but to vary 
+their diets by including other cereals and millets. 
+Meanwhile, when the Green Revolution arrived in the 
+late 1960s, the price of rice and wheat supplied 
+through ration shops fell to low and readily affordable 
+levels. People switched to eating rice, and soon 
+thereafter pellagra perished. Over the past two 
+decades, only a few pellagra cases have been reported. 
+By the year 2011, Pellagra had almost disappeared 
+due to public distribution system.    
+(https://www.cdriadvlkn.org/article.asp?issn=2542-
+551X;year=2019;volume=3;issue=2;spage=126;epage
+=129;aulast=Brahmaiah) 
+(https://www.ijmr.org.in/article.asp?issn=0971-
+5916;year=2013;volume=138;issue=3;spage=392;epa
+ge=397;aulast=Gopalan) 
+
+It is pertinent to note that in 2007, the WHO EMLc 
+(children) Subcommittee noted that most of the listed 
+indications for nicotinamide, including nicotinamide 
+deficiency, are now rare in children and therefore 
+decided not to include nicotinamide in the EMLc.  
+The online survey of available formulations in the 
+Indian market also revealed limited availability of this 
+dosage strength. Therefore, in view of its limited 
+utility, it was opined by the expert group that the 
+formulation no longer meets the criteria for inclusion 
+in the NLEM and it was decided to delete it from the 
+revised list. 
+The committee noted the following: 
+1. The tablet of 50 mg nicotinamide is not available. 
+However, nicotinamide in varying amount is 
+available in different multivitamin formulations. 
+2. Nicotinamide is drug of choice as replacement 
+therapy in pellagra. Pellagra is no more a public 
+health concern in India. 
+Considering the above, the committee recommended 
+deletion of nicotinamide 50 mg in NLEM 2022. 
+32. 
+Nystatin  
+Tablet 500,000 IU 
+Nystatin was approved by the FDA in 1971 and is 
+currently widely used in the treatment of superficial 
+candida infections of the skin, mucous membranes 
+and gastrointestinal tract, including oropharyngeal 
+candidiasis. 
+Nystatin is available in multiple forms such as tablets, 
+troches, powder for suspension, creams and ointments 
+
+and varying concentrations which are usually 
+measured in units. 
+The 
+committee 
+deliberated 
+regarding 
+different 
+formulations of nystatin. The following were noted: 
+1. The availability of nystatin formulation has 
+limited availability. 
+2. More efficacious with better safety profile 
+antifungals are commonly used now a days. 
+Commonly used examples are   
+Fluconazole for GI candidiasis 
+Clotrimazole for vulvovaginal candidiasis 
+ 
+Both of these agents are listed in NLEM 2022 
+The committee appreciated that the chances of 
+resistance with nystatin is low. It is also the most 
+economical antifungal agent as compared to newer 
+antifungal agents. This drug is locally effective and 
+not absorbed systemically. The formulations are also 
+listed in WHO EML 2019.  
+The committee therefore recommended Pessary 
+100000 IU and Oral Liquid 100000 IU/mL should be 
+retained and Tablet 500000 IU be deleted in NLEM 
+2022. Even though there are other anti-fungal agents 
+in the list. 
+The committee also recommended that there should 
+be reassessment after 1 year for efficacy, safety and 
+resistance. The use pattern, resistance, efficacy should 
+
+be kept in watch.  
+33. 
+Oxaliplatin  
+Injection 5 mg/ml 
+ 
+The experts noted the following: 
+1. This drug is useful and commonly used in 
+advanced colorectal cancer as Folfox regimen. 
+2. 5mg/mL concentrate for solution for infusion  
+10 mL and 20 mL vials are commonly used. 
+3. These formulations are manufactured by many 
+reputed pharmaceutical companies. 
+Considering the above, the expert committee 
+recommended oxaliplatin to be retained in NLEM 
+2022 as follows: 
+Injection 50 mg/10 mL in 10- mL vial 
+Injection 100 mg/20 mL in 20- mL vial  
+34. 
+Para-aminosalicylic acid 
+Tablet 500 mg 
+ 
+The committee noted that Para-aminosalicylic acid 
+(PAS) is listed in Guidelines for Programmatic 
+management of Drug resistant TB in India  2022 
+(pg-239) and mentioned as 4g sachet granules and 
+PAS sodium salt  (equivalent to 4 g PAS acid) sachet 
+and 60% w/w (9.2 g; equivalent to 4 g PAS acid) 
+sachet are mentioned.  
+Immediate release PAS tablets produce substantial GI 
+intolerance. 
+(https://pubmed.ncbi.nlm.nih.gov/8159600/ ) 
+The committee therefore recommended that Tablet 
+500 mg be deleted and only granules be kept. 
+35. 
+Paracetamol  
+Paracetamol Oral liquid formulations are available in 
+different dosage forms such as suspension/syrup/ 
+
+Suspension 156.25 mg/5 
+ml 
+ 
+solution, and in different strengths.  
+The committee noted that multiple dosage forms such 
+as suspension/solution/syrup in multiple strengths of 
+paracetamol are available in the market/. The 
+commonly used strengths are following: 
+Oral liquid 120mg/5mL 
+Oral Liquid 125 mg/5mL 
+Oral Liquid 250 mg/5mL 
+The 120 mg/5mL and 125 mg/5mL are also listed in 
+WHO 
+EML 
+2019. 
+The 
+committee 
+therefore 
+recommended 
+that 
+above 
+mentioned 
+three 
+formulations for inclusion in NLEM 2022. 
+36. 
+Pentamidine  
+Powder for Injection 200 
+mg 
+Pentamidine  Powder for Injection 200 mg is no 
+longer used for Kala-azar under NVBDCP. Therefore, 
+the committee recommended its deletion in NLEM 
+2022. 
+37. 
+Povidone iodine   
+Drops 0.6 % 
+ 
+The experts noted that Povidone iodine 0.6% w/v (6% 
+w/w) has limited availability and not commonly used. 
+Whereas more commonly used strength is 0.5% w/v 
+(5% w/w). The committee therefore recommended   
+Povidone iodine 0.6% w/v for deletion in NLEM 
+2022. 
+38. 
+Povidone iodine  
+Drops 0.6 % 
+The experts noted that Povidone iodine 0.6% w/v (6% 
+w/w) has limited availability and not commonly used. 
+Whereas more commonly used strength is 0.5% w/v 
+(5% w/w). The committee therefore recommended   
+Povidone iodine 0.6% w/v for deletion in NLEM 
+2022. 
+
+39. 
+Prednisolone  
+Drops 0.1% 
+ 
+Experts from different parts of the country could not 
+confirm the availability of prednisolone drops and the 
+expert committee deliberated and got the feedback 
+from subject experts also that prednisolone drops are 
+used but in 1 % strength. Drops of 0.1% are not used. 
+Therefore, the committee recommended deletion of 
+drops 0.1% in NLEM, 2022. 
+40. 
+Riboflavin  
+Tablet 5 mg 
+Riboflavin supplements come in 25 mg, 50 mg, and 
+100 mg tablets. According to the National Institute of 
+Health, the recommended daily nutrient intake of 
+riboflavin is 1.3 mg for men, 1.1 mg for women, 1.3 
+mg for male adolescents (age 14 to 18), and 1.0 mg 
+for 
+female 
+adolescents 
+(age 
+14 
+to 
+18). 
+Recommendations are that pregnant women take 1.4 
+mg, and breastfeeding women take 1.6 mg. Its dose 
+for infants of age 0 to 6 months old is 0.3 mg, 7 to 12 
+months is 0.4 mg, 1 to 3 years old is 0.5 mg, 4 to 8 
+years old is 0.6 mg, and 9 to 13 years is 0.9 mg. 
+https://www.ncbi.nlm.nih.gov/books/NBK470460/  
+A few Indian studies show biochemical evidence of 
+riboflavin deficiency in >70% of children from low-
+income groups,6 largely attributed to the inadequacy 
+of riboflavin in the diet 
+Bamji 
+MS, 
+Lakshmi 
+AV. 
+Less 
+recognised 
+micronutrient deficiencies in India. NFI Bull 1998; 
+19: 5 8. 
+The committee noted that riboflavin is required to be 
+retained in NLEM, as riboflavin deficiency continues 
+to be a problem in India (Swaminathan, S., Edward, 
+
+B. & Kurpad, A. Micronutrient deficiency and 
+cognitive and physical performance in Indian 
+children. Eur J Clin Nutr 67, 467 474 (2013). 
+https://doi.org/10.1038/ejcn.2013.14). However, the 
+availability of 5 mg is limited and this strength is also 
+less commonly used while 10 mg is widely available 
+and commonly prescribed. National Health Mission 
+also listed riboflavin tablet 10 mg in its guideline  
+Guideline for District Hospitals (Revised 2012). 
+Therefore, the committee recommended deletion of 
+Tablet 5 mg and addition of Tablet 10 mg. 
+41. 
+Sodium chloride  
+Injection 0.45% 
+The committee noted the following: 
+1. 0.45% sodium chloride (half normal saline) has 
+limited utility in cases of hypernatremia.  
+2. This strength is not commonly available in the 
+market and if required, it is locally made by 
+diluting 0.9% solution. 
+3. 0.45 % is not listed in WHO EML 2019. 
+The committee therefore recommended deletion of 
+0.45% strength in NLEM 2022. 
+42. 
+Sodium thiosulphate 
+Injection 100 mg/ml 
+ 
+The expert committee noted the following: 
+1. 
+Injection 100mg/ml is not commonly used and 
+has 
+limited 
+availability. 
+The 
+strength 
+of 
+250mg/ml is commonly used.  
+2. 
+This has indication in cyanide poisoning and 
+cisplatin extravasation and nephrotoxicity. 
+ 
+According to some experts, the drug is very less used, 
+
+its usefulness needs to be studied. The status to be 
+reviewed after 1 year. And also, the discussion with 
+WHO to be done. 
+Therefore, the committee recommended deletion of 
+100 mg/mL and addition of 250 mg/mL. 
+43. 
+Stavudine (A) + 
+Lamivudine (B) 
+Dispersible Tablet 6 mg 
+(A) + 30 mg (B) 
+Stavudine has been reported to be hepatotoxic 
+therefore all formulations containing stavudine are 
+recommended for deletion in NLEM, 2022. 
+44. 
+Sumatriptan  
+Injection 6 mg/ 0.5 ml 
+Triptans are often considered the best choice for first-
+line therapy. The most rapidly effective treatment in 
+the class is 6 mg subcutaneous (SC) sumatriptan, 
+which reaches peak plasma concentration (tmax) in 12 
+min, has an onset of action of 10 min, and relieves 
+migraine pain in 82% of patients at 2 h post dose. 
+Despite its excellent efficacy profile, fewer than 10% 
+of migraineurs who might benefit from SC 
+sumatriptan use it to treat their condition [18]. This 
+may be because most (59%) SC sumatriptan-treated 
+patients have injection site reactions, and many (42%) 
+experience triptan sensations (e.g., tingling, warm/hot, 
+tightness/pressure) that appear to be dose-related [19]. 
+Concerns about drug-related adverse events have 
+caused two thirds of migraine patients to delay or 
+avoid treating an attack 
+https://thejournalofheadacheandpain.biomedcentral.co
+m/articles/10.1186/s10194-018-0881-z  
+The expert committee consulted subject experts who 
+informed that injectable sumatriptan is rarely used. 
+Therefore, the committee recommended the deletion 
+
+of injection 6 mg/ 0.5 ml in NLEM 2022. 
+45. 
+Vitamin A  
+Capsule 100000 IU 
+ 
+The committee noted that capsules of 50000 IU can 
+meet dose titration needs for most of the indications. 
+Therefore, the expert recommended deletion of 
+Capsule 1 Lac IU. 
+46. 
+Vitamin A 
+ Capsule 5000 IU 
+The committee noted that capsules of 50000 IU can 
+meet dose titration needs for most of the indications. 
+Therefore, the expert recommended deletion of 
+Capsule 5000 IU. 
+
+  Annexure 3  Changes in NLEM 2022 from NLEM 2015 
+  Annexure 3.1: Changes in Level of Healthcare for drugs 
+ 
+Medicine 
+In NLEM 2015 
+In NLEM 2022 
+Level of 
+Health 
+care 
+Dosage form(s) and 
+strength(s) 
+Level 
+of 
+Health 
+care 
+Dosage form(s) and 
+strength(s) 
+Section 1.1- General Anaesthetics and Oxygen 
+Sevoflurane 
+T 
+Inhalation 
+S,T 
+Liquid for inhalation 
+Section 2.4-Disease Modifying Agents used in Rheumatoid Disorders 
+Hydroxychloroq
+uine 
+S,T 
+Tablet 200 mg 
+Tablet 400 mg 
+P,S,T 
+Tablet 200 mg 
+Tablet 400 mg 
+Methotrexate 
+S,T 
+Tablet 5 mg 
+Tablet 7.5 mg 
+Tablet 10 mg  
+Injection 25 mg/ mL 
+P,S,T 
+Tablet 2.5 mg 
+Tablet 5 mg 
+Tablet 10 mg  
+ 
+
+Section 5.1-Anticonvulsants/ Antiepileptics 
+Sodium 
+Valproate 
+P,S,T 
+Tablet 200 mg 
+Tablet 300  mg  
+CR Tablet 300 mg  
+Tablet 500  mg  
+CR Tablet 500 mg 
+Oral liquid 200 
+mg/5ml 
+P,S,T 
+Tablet 200 mg 
+Tablet 300 mg  
+Tablet 500 mg 
+Modified Release  
+Tablet 300 mg  
+Tablet 500 mg 
+Oral liquid 200 mg/5mL 
+(p) 
+T 
+Injection 100 mg/mL 
+S,T 
+Injection 100 mg/mL 
+Section 6.2.1  Beta-lactam medicines 
+Vancomycin 
+T  
+Powder for Injection 
+250 mg 
+Powder for Injection 
+500 mg  
+Powder for Injection 
+1000 mg 
+S,T  
+Capsule 125 mg 
+Capsule 250 mg 
+Powder for Injection 250 
+mg 
+Powder for Injection 500 
+mg  
+Powder for Injection 1000 
+mg 
+Section 6.4-Antituberculosis medicines 
+Cycloserine 
+ P,S,T 
+Capsule 125 mg 
+Capsule 250 mg 
+S,T 
+Capsule 125 mg 
+Capsule 250 mg 
+
+Ethionamide 
+P,S,T 
+Tablet 125 mg 
+Tablet 250 mg 
+S,T 
+Tablet 125 mg 
+Tablet 250 mg 
+Kanamycin 
+P,S,T 
+Powder for Injection 
+500 mg 
+Powder for Injection 
+750 mg  
+Powder for Injection 
+1000 mg 
+S,T 
+Powder for Injection 500 
+mg 
+Powder for Injection 750 
+mg  
+Powder for Injection 1000 
+mg 
+Para-  
+aminosalicylic 
+acid 
+P,S,T 
+Tablet 500 mg 
+Granules (As licensed) 
+S,T 
+Granules (As licensed)  
+Section 6.5-Antifungal medicines 
+Nystatin 
+P,S,T 
+ 
+Tablet 500,000 IU 
+Pessary 100,000 IU 
+Oral Liquid 1 Lac 
+IU/mL  
+S,T 
+ 
+Pessary 1 Lac IU 
+Oral Liquid 1 Lac IU/mL 
+(p) 
+Section 6.7.2 Non-nucleoside reverse transcriptase inhibitors 
+Nevirapine 
+S,T 
+Tablet 200 mg 
+Dispersible Tablet 50 
+mg  
+Oral liquid 50 mg/5 
+mL  
+P,S,T 
+Tablet 200 mg 
+Dispersible Tablet 50 mg 
+(p) 
+Oral liquid 50 mg/5 mL (p) 
+
+Section 7.1  Antineoplastic medicines 
+Methotrexate 
+T 
+Tablet 2.5 mg 
+Tablet   5 mg  
+Tablet 10 mg 
+Injection 50 mg/mL 
+S,T 
+Tablet 2.5 mg 
+Tablet   5 mg  
+Tablet 10 mg 
+Injection 50 mg/mL 
+Allopurinol 
+T 
+Tablet 100 mg 
+S,T 
+Tablet 100 mg 
+Amitriptyline 
+T 
+Tablet 10 mg 
+Tablet 25 mg 
+S,T 
+Tablet 10 mg 
+Tablet 25 mg 
+Dexamethasone 
+T 
+Tablet 0.5 mg 
+Injection 4 mg/mL 
+ 
+S,T 
+Tablet 0.5 mg 
+Tablet 4 mg 
+Injection 4 mg/mL 
+Diazepam 
+T 
+Tablet 2 mg 
+Tablet 5 mg 
+Injection 5 mg/mL 
+S,T 
+Tablet 2 mg 
+Tablet 5 mg 
+Injection 5 mg/mL 
+Fluoxetine 
+T 
+Capsule 20 mg 
+S,T 
+Capsule 20 mg 
+Haloperidol 
+T 
+Tablet 1.5 mg 
+Tablet 5 mg 
+Injection 5 mg/mL 
+S,T 
+Tablet 1.5 mg 
+Tablet 5 mg 
+Injection 5 mg/mL 
+Lactulose 
+T 
+Oral liquid 10 g/15 mL S,T 
+Oral liquid 10 g/15 mL  
+Loperamide 
+T 
+Tablet 2 mg 
+S,T 
+Tablet 2 mg 
+
+Metoclopramide 
+T 
+Tablet 10 mg 
+Oral liquid 5 mg/5 mL 
+(p) 
+Injection 5 mg/mL 
+ 
+ 
+S,T 
+ 
+ 
+Tablet 10 mg 
+Oral liquid 5 mg/5 mL (p) 
+Injection 5 mg/mL 
+Midazolam 
+T 
+Injection 1 mg/mL 
+S,T 
+Injection 1 mg/mL 
+Morphine 
+T 
+Tablet 10 mg 
+Tablet 20 mg  
+SR Tablet 30 mg 
+S,T 
+Tablet 10 mg 
+Modified Release 
+Tablet 30 mg 
+Section 8.1-Antianaemia medicines 
+Hydroxyurea 
+P,S,T 
+Capsule 500 mg 
+S,T 
+Capsule 500 mg 
+ 
+Section 8.2-Medicines affecting coagulation 
+Enoxaparin 
+T 
+Injection 40 mg/0.4 
+mL  
+Injection 60 mg/0.6 
+mL  
+S,T 
+Injection 40 mg/0.4 mL  
+Injection 60 mg/0.6 mL  
+Section 10.1-Medicines used in angina 
+Diltiazem   
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+SR Tablet 90 mg 
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+Modified Release 
+Tablet 180 mg 
+T  
+Injection 5 mg/mL 
+S, T  
+Injection 5 mg/mL 
+
+Metoprolol 
+P,S,T  
+ 
+Tablet 25 mg 
+Tablet 50 mg  
+SR Tablet 25 mg  
+SR Tablet 50 mg 
+P,S,T 
+Tablet 25 mg 
+Tablet 50 mg 
+Tablet 100 mg 
+Modified Release  
+Tablet 100 mg  
+S, T 
+Injection 1 mg/mL 
+Section 10.3-Antihypertensive medicines 
+Labetalol 
+ 
+P,S,T 
+ 
+Injection 5 mg/ml 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+S,T 
+Injection 5 mg/mL  
+Sodium 
+nitroprusside 
+ T 
+Injection 10 mg/mL  
+ S, T 
+Injection 10 mg/mL  
+Section 18.5-Ovulation Inducers 
+Human 
+chorionic 
+gonadotropin 
+T 
+Injection 1000 IU 
+Injection 5000 IU 
+S,T 
+Injection 2000 IU 
+Injection 5000 IU 
+Injection 10000 IU 
+Section 22.1-Oxytocics and abortifacient 
+Mifepristone 
+T 
+Tablet 200 mg 
+P,S,T 
+Tablet 200 mg 
+Misoprostol 
+T 
+Tablet 100 mcg 
+Tablet 200 mcg 
+P,S,T 
+Tablet 100 mcg 
+Tablet 200 mcg 
+
+Oxytocin 
+S,T 
+Injection 5 IU/mL 
+Injection 10 IU/mL 
+P,S,T 
+Injection 5 IU/mL 
+Injection 10 IU/mL 
+Section 23.1-Medicines used in psychotic disorders 
+Fluphenazine 
+S,T 
+Depot Injection 25 
+mg/mL 
+P,S,T 
+Injection 25 mg/mL 
+Section 25-Solutions correcting Water, Electrolyte disturbances and Acid-base 
+disturbances 
+Potassium 
+chloride 
+P,S,T 
+ 
+Oral liquid 500 mg/5 
+mL  
+Injection 150 mg/mL 
+P,S,T 
+Oral liquid 500 mg/5 mL  
+S,T 
+Injection 150 mg/mL 
+ 
+ 
+
+ 
+Annexure 3.2: Modification(s) in Dosage form(s) of Medicines in NLEM 
+2022 
+Medicine 
+In NLEM 2015 
+In NLEM 2022 
+Level of 
+Health 
+care 
+Dosage form(s) 
+Level 
+of 
+Health 
+care 
+Dosage form(s) 
+Section 1.1- General Anaesthetics and Oxygen 
+Halothane 
+S,T 
+Inhalation 
+S,T 
+Liquid for inhalation 
+Isoflurane 
+S,T 
+Inhalation 
+S,T 
+Liquid for inhalation 
+Nitrous oxide 
+P,S,T 
+Inhalation 
+P,S,T 
+As licensed for medical 
+purpose 
+Oxygen 
+P,S,T 
+Inhalation 
+(Medicinal gas) 
+P,S,T 
+As licensed for medical 
+purpose 
+Sevoflurane 
+T 
+Inhalation 
+S, T 
+Liquid for inhalation 
+2.1-Non-opioid analgesics, antipyretics and nonsteroidal anti-inflammatory medicines 
+Mefenamic acid 
+P,S,T 
+Capsule 250 mg 
+Capsule 500 mg 
+Oral liquid 100 
+mg/5 ml 
+P,S,T 
+Tablet 250 mg 
+Oral liquid 100 mg/5 mL 
+(p) 
+
+Section 2.4-Disease modifying agents used in rheumatoid disorders 
+Section 4.2  Specific  
+D  Penicillamine 
+P,S,T 
+Capsule 250 mg 
+P,S,T 
+Capsule 150 mg (p) 
+Capsule 250 mg 
+Snake venom 
+antiserum 
+a) 
+Soluble/ 
+liquid 
+polyvalent 
+b) 
+Lyophilize
+d polyvalent 
+P,S,T 
+a) Injection 
+b) Powder for 
+Injection 
+ 
+P,S,T 
+a) Soluble/ liquid 
+polyvalent  Injection  
+b) Lyophilized polyvalent 
+ Powder for Injection 
+Section 5.1-Anticonvulsants/ Antiepileptics 
+Carbamazepine 
+P,S,T 
+Tablet 100 mg 
+Tablet 200  mg  
+CR Tablet 200 mg  
+Tablet 400 mg 
+CR Tablet 400 mg 
+Oral liquid 100 
+mg/5 ml  
+Oral liquid 200 
+mg/5 ml 
+P,S,T 
+Tablet 100 mg 
+Tablet 200 mg 
+Tablet 400 mg 
+Modified Release 
+Tablet 200 mg 
+Tablet 400 mg 
+Oral liquid 100 mg/5 mL 
+(p) 
+
+Levetiracetam 
+S,T 
+Tablet 250 mg 
+Tablet 500 mg 
+Tablet 750  mg  
+ER Tablet 750 mg 
+Oral liquid 100 
+mg/ml Injection 100 
+mg/ml 
+S,T 
+Tablet 250 mg 
+Tablet 500 mg 
+Tablet 750 mg   
+Modified Release 
+Tablet 750 mg 
+ 
+Oral liquid 100 mg/mL (p) 
+Injection 100 mg/mL 
+Phenytoin 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+Tablet 300  mg  
+ER Tablet 300 mg 
+Oral liquid 30 mg/5 
+ml  
+Oral liquid 125 
+mg/5 ml Injection 
+25 mg/ml 
+Injection 50 mg/ml 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+Tablet 300 mg   
+Modified Release 
+Tablet 300 mg 
+Oral liquid 30 mg/5 mL 
+(p) 
+Oral liquid 125 mg/5 mL 
+(p) 
+Injection 25 mg/mL 
+Injection 50 mg/mL 
+
+Sodium Valproate 
+ 
+ 
+ 
+ 
+P,S,T 
+Tablet 200 mg 
+Tablet 300 mg  
+CR Tablet 300 mg  
+Tablet 500 mg  
+CR Tablet 500 mg 
+Oral liquid 200 
+mg/5ml 
+P,S,T 
+Tablet 200 mg 
+Tablet 300 mg  
+Tablet 500 mg 
+Modified Release  
+Tablet 300 mg  
+Tablet 500 mg 
+ 
+Oral liquid 200 mg/5mL 
+(p) 
+T 
+Injection 100 
+mg/mL 
+S,T 
+Injection 100 mg/mL 
+Section 5.3- Antiparkinsonism medicines 
+Levodopa 
+(A) 
++ 
+Carbidopa (B) 
+ 
+ 
+ 
+P,S,T 
+Tablet 100 mg (A) 
++ 10 mg (B)  
+Tablet 100 mg (A) 
++ 25 mg (B) CR 
+Tablet 100 mg (A) 
++ 25 mg (B) 
+CR Tablet 200 mg 
+(A) + 50 (B) mg 
+Tablet 250 mg (A) 
++ 25 mg (B) 
+P,S,T 
+Tablet 100 mg (A) + 10 
+mg (B) Tablet 100 mg (A) 
++ 25 mg (B)  
+Tablet 250 mg (A) + 25 
+mg (B) 
+Modified Release 
+Tablet 100 mg (A) + 25 
+mg (B) 
+Tablet 200 mg (A) + 50 
+mg (B) 
+Section 6.1.1 - Intestinal anthelminthics 
+
+Albendazole 
+P,S,T 
+Tablet 400 mg 
+Oral liquid 200 
+mg/5 mL  
+P,S,T 
+Tablet 400 mg 
+Chewable Tablet 400 mg 
+Oral liquid 200 mg/5 mL 
+(p) 
+Section 6.5-Antifungal medicines 
+Amphotericin B 
+a)Amphotericin B 
+(conventional) 
+b) Lipid/Liposomal  
+Amphotericin B 
+ 
+S,T 
+Powder for 
+Injection 50 mg 
+S,T 
+a) Amphotericin B 
+(conventional) - 
+Injection 50 mg/vial 
+b) Lipid Amphotericin B - 
+Injection 50 mg/vial 
+c) Liposomal 
+Amphotericin B - 
+Injection 50 mg/vial 
+Section 6.10 - Antileishmaniasis medicines 
+Amphotericin B 
+a) Amphotericin B 
+(conventional) 
+b) Lipid/Liposomal 
+Amphotericin B 
+S,T 
+Powder for 
+Injection 50 mg 
+ 
+S,T 
+a) Amphotericin B 
+(conventional) -  
+b) Lipid Amphotericin 
+B - Injection 50 mg 
+c) Liposomal 
+Amphotericin B - 
+Injection 50 mg 
+
+Cytosine 
+arabinoside 
+T 
+Injection 100 mg/ 
+mL 
+Powder for 
+Injection 500 mg 
+Powder for 
+Injection 1000 mg 
+T 
+Injection 100 mg/Vial  
+Injection 500 mg/Vial 
+Injection 1000 mg/vial 
+Section 7.3-Immunosuppressive medicines 
+7.4-Medicines used in palliative care 
+Morphine 
+T 
+Tablet 10 mg 
+Tablet 20 mg  
+SR Tablet 30 mg 
+S,T 
+Tablet 10 mg 
+Modified Release 
+Tablet 30 mg 
+Section 10.1-Medicines used in angina 
+Diltiazem   
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+SR Tablet 90 mg 
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+Modified Release 
+Tablet 180 mg 
+T  
+Injection 5 mg/mL 
+S, T  
+Injection 5 mg/mL 
+Isosorbide-5- 
+mononitrate 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg  
+SR Tablet 30 mg  
+SR Tablet 60 mg 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg  
+Modified Release  
+Tablet 60 mg 
+
+Metoprolol 
+P,S,T  
+ 
+Tablet 25 mg 
+Tablet 50 mg  
+SR Tablet 25 mg  
+SR Tablet 50 mg 
+P,S,T 
+Tablet 25 mg 
+Tablet 50 mg 
+Tablet 100 mg 
+Modified Release  
+Tablet 100 mg  
+S, T 
+Injection 1 mg/mL 
+Section 10.3-Antihypertensive medicines 
+Section 10.5- Antiplatelet and Antithrombotic Medicines 
+Acetylsalicylic acid 
+P,S,T 
+Tablet 75 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 75 mg
+Tablet 100 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 100 
+mg 
+Tablet 150 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 150 
+mg 
+P,S,T 
+Conventional/Effervescent
+/ Dispersible/ Enteric 
+coated Tablets 150 mg  
+Conventional/Effervescent
+/ Dispersible/ Enteric 
+coated Tablets 325 mg 
+Enteric coated Tablet   75 
+mg 
+Enteric coated Tablet 100 
+mg 
+
+Section 11.6-Miscellaneous 
+Glycerin (as 
+mentioned in IP) 
+P,S,T 
+Oral Liquid 
+P,S,T 
+As Licensed 
+Section 12.1-Ophthalmic Medicines 
+Fluorescein 
+S,T 
+Eye drop 1 % 
+S,T 
+Ophthalmic strips 
+Section 14.2  Disinfectants 
+Glutaraldehyde 
+S,T 
+Solution 2 % 
+S,T 
+As Licensed 
+Section 18.1 - Adrenal Hormones and synthetic substitutes 
+Hydrocortisone 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Injection 100 
+mg/mL 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+Powder for Injection 100 
+mg 
+Section 18.2.3 - Barrier methods 
+Condom 
+P,S,T 
+As per the standards 
+prescribed in 
+Schedule R of Drugs 
+and Cosmetics 
+rules,1945 
+P,S,T 
+As Licensed  as per the 
+standards of Drugs Rules, 
+1945  
+
+Section 18.4.1 - Insulins and other antidiabetic agents 
+Metformin 
+P,S,T 
+Tablet 500mg 
+Tablet 750mg 
+Tablet 1000 mg 
+(Immediate and 
+controlled release) 
+P,S,T 
+Tablet 500mg 
+Tablet 1000 mg 
+Modified release 
+Tablet 1000 mg 
+Section 19.1-Diagnostic agents 
+Tuberculin, 
+Purified Protein 
+derivative 
+P,S,T 
+ 
+P,S,T 
+As Licensed 
+Section 19.2-Sera and immunoglobulins (Liquid/ Lyophilized) 
+Anti-rabies 
+immunoglobulin 
+P,S,T 
+ 
+P,S,T 
+As Licensed 
+Anti-tetanus 
+immunoglobulin 
+P,S,T 
+ 
+P,S,T 
+As Licensed 
+Anti-D 
+immunoglobulin 
+S,T 
+ 
+S,T 
+As Licensed 
+Diphtheria antitoxin P,S,T 
+ 
+P,S,T 
+As Licensed 
+Hepatitis B 
+immunoglobulin 
+S,T 
+ 
+S,T 
+As Licensed 
+
+Human normal 
+immunoglobulin 
+T 
+ 
+T 
+As Licensed 
+Snake Venom 
+Antiserum 
+a) Soluble/ liquid 
+polyvalent 
+b) Lyophilized 
+polyvalent 
+P,S,T 
+ 
+P,S,T 
+a) Soluble/ liquid 
+polyvalent - As Licensed 
+b) Lyophilized polyvalent 
+- As Licensed 
+Section 19.3.1 - For universal immunization 
+BCG vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+DPT+ Hib+ Hep B 
+vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+DPT vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+Hepatitis B vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+Japanese 
+encephalitis vaccine 
+P,S/,T 
+ 
+P,S/,T 
+As licensed 
+Measles vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+Oral poliomyelitis 
+vaccine 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+Tetanus toxoid 
+P,S,T 
+ 
+P,S,T 
+As licensed 
+
+Section 23.1-Medicines used in psychotic disorders 
+Fluphenazine 
+S,T 
+Depot Injection 25 
+mg/mL 
+P,S,T 
+Injection 25 mg/mL 
+Section 23.2.1 - Medicines used in Bipolar disorders 
+Sodium valproate 
+P,S,T 
+Tablet 200 mg 
+Tablet 500 mg  
+ 
+P,S,T 
+Tablet 200 mg 
+Tablet 300 mg  
+Tablet 500 mg  
+Modified Release 
+Tablet 300 mg  
+Tablet 500 mg 
+Section 24.1 - Antiasthmatic Medicines 
+Hydrocortisone 
+P,S,T 
+Injection 100 mg 
+Injection 200 mg 
+P,S,T 
+Powder for Injection 100 
+mg 
+Powder for Injection 200 
+mg 
+Section 26-Vitamins and Minerals 
+Cholecalciferol 
+P,S,T 
+Tablet 1000 IU 
+Tablet 60000 IU 
+Oral liquid 400 
+IU/mL 
+P,S,T 
+Solid oral dosage form 
+1000 IU 
+Solid oral dosage form 
+60000 IU 
+Oral liquid 400 IU/mL 
+
+Vitamin A 
+P,S,T 
+Capsule 5000 IU 
+Capsule 50000 IU 
+Capsule 100000 IU 
+Oral liquid 100000 
+IU/ml Injection 
+50000 IU/ml 
+P,S,T 
+Capsule/Tablet 50000 IU 
+(including Chewable 
+tablet)  
+Oral liquid 100000 IU/mL 
+Injection 50000 IU/mL 
+ 
+
+ 
+Annexure 3.3: Modification(s) in strength(s) of Medicines in NLEM 2022 
+Medicine 
+In NLEM 2015 
+In NLEM 2022 
+Level of 
+Health 
+care 
+Strength(s) 
+Level of 
+Health 
+care 
+Strength(s) 
+2.1-Non-opioid analgesics, antipyretics and nonsteroidal anti-inflammatory 
+medicines 
+Mefenamic acid 
+P,S,T 
+Capsule 250 mg 
+Capsule 500 mg 
+Oral liquid 100 mg/5 
+ml 
+P,S,T 
+Tablet 250 mg 
+Oral liquid 100 mg/5 mL 
+(p) 
+Paracetamol 
+P,S,T 
+Tablet 500 mg 
+Tablet 650 mg 
+All licensed oral 
+liquid dosage forms 
+and strengths 
+Injection 150 mg/ml 
+Suppository 80 mg 
+Suppository 170 mg 
+P,S,T 
+Tablet 500 mg 
+Tablet 650 mg 
+Oral liquid 120 mg/5mL 
+Oral Liquid 125mg/5ml (p)
+Oral Liquid 250 mg/5mL 
+Injection 150 mg/mL 
+Suppository 80 mg 
+Suppository 170 mg 
+Section 2.4-Disease Modifying Agents used in Rheumatoid Disorders 
+Azathioprine 
+S, T 
+Tablet 50 mg 
+S,T 
+Tablet 25 mg (p) 
+Tablet 50 mg 
+Methotrexate 
+S,T 
+Tablet 5 mg 
+Tablet 7.5 mg 
+Tablet 10 mg  
+Injection 25 mg/mL 
+P,S,T 
+Tablet 2.5 mg 
+Tablet 5 mg 
+Tablet 10 mg  
+ 
+
+Chlorpheniramine 
+P,S,T 
+Tablet 4 mg 
+Oral liquid 2 mg/5 mL 
+ 
+P,S,T 
+Tablet 4 mg 
+Dexamethasone 
+P,S,T 
+Tablet 0.5 mg 
+Injection 4 mg/mL 
+P,S,T 
+Tablet 0.5 mg 
+Tablet 2 mg 
+Tablet 4 mg 
+Oral liquid 0.5 mg/5 mL 
+(p) 
+Injection 4 mg/mL 
+Hydrocortisone 
+P,S,T 
+ 
+Powder for Injection 
+100 mg 
+ 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Powder for Injection 100 
+mg 
+Powder for Injection 200 
+mg 
+Section 4.2  Specific  
+Atropine 
+P,S,T 
+Injection 1 mg/mL  
+P,S,T 
+Injection 0.6 mg/mL  
+D  Penicillamine 
+P,S,T 
+Capsule 250 mg 
+P,S,T 
+Capsule 150 mg (p) 
+Capsule 250 mg 
+Sodium 
+thiosulphate 
+S,T 
+Injection 100 mg/mL 
+S,T 
+Injection 250 mg/mL 
+Section 5.1-Anticonvulsants/ Antiepileptics 
+
+Carbamazepine 
+P,S,T 
+Tablet 100 mg 
+Tablet 200  mg  
+CR Tablet 200 mg  
+Tablet 400 mg 
+CR Tablet 400 mg 
+Oral liquid 100 mg/5 
+ml  
+Oral liquid 200 mg/5 
+ml 
+P,S,T 
+Tablet 100 mg 
+Tablet 200 mg 
+Tablet 400 mg 
+Modified Release 
+Tablet 200 mg 
+Tablet 400 mg 
+Oral liquid 100 mg/5 mL 
+(p) 
+Lorazepam 
+P,S,T 
+Tablet 1 mg 
+Tablet 2 mg 
+Injection 2 mg/mL 
+ 
+P,S,T 
+Tablet 1 mg 
+Tablet 2 mg 
+Injection 2 mg/mL 
+Injection 4 mg/mL 
+Section 5.2- Antimigraine medicines 
+Paracetamol 
+P,S,T 
+Tablet 500 mg 
+Tablet 650 mg 
+P,S,T 
+Tablet 500 mg 
+Tablet 650 mg 
+Oral liquid 120mg/5mL 
+(p) 
+Oral Liquid 125 mg/5mL 
+(p) 
+Oral Liquid 250 mg/5mL 
+(p) 
+Sumatriptan 
+P,S,T 
+Tablet 25 mg Tablet 
+50 mg Injection 6 mg/ 
+0.5 ml 
+P,S,T 
+Tablet 25 mg 
+Tablet 50 mg 
+Propranolol 
+P,S,T 
+Tablet 10 mg 
+Tablet 40 mg 
+Tablet 80 mg 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg 
+Tablet 40 mg 
+Section 5.3- Antiparkinsonism medicines 
+
+Section 6.1.1 - Intestinal anthelminthics 
+Albendazole 
+P,S,T 
+Tablet 400 mg 
+Oral liquid 200 mg/5 
+mL  
+P,S,T 
+Tablet 400 mg 
+Chewable Tablet 400 mg 
+Oral liquid 200 mg/5 mL 
+(p) 
+Section 6.2.1 Beta-lactam antibacterials 
+Amoxicillin 
+P,S,T 
+Capsule 250 mg 
+Capsule 500 mg 
+Oral liquid 250 mg/5 
+mL  
+P,S,T 
+Capsule 250 mg 
+Capsule 500 mg 
+Oral liquid 125 mg/5 mL 
+(p) 
+Oral liquid 250 mg/5 mL 
+(p) 
+Powder for Injection 
+250mg 
+Powder for Injection 500 
+mg  
+Powder for injection 1000 
+mg 
+Benzathine 
+Benzylpenicillin 
+P,S,T 
+Powder for injection 6 
+lac units 
+Powder for injection 
+12 lac units 
+P,S,T 
+Powder for injection 6 lac 
+units 
+Powder for injection 12 lac 
+units 
+Powder for injection 24 lac 
+units 
+Benzyl penicillin 
+P,S,T 
+Powder for injection 
+10 lac units 
+ 
+P,S,T 
+Powder for injection 5 lac 
+units 
+Powder for injection 10 lac 
+units 
+Section 6.2.2  Other antibacterials 
+
+Doxycycline 
+P,S,T 
+Capsule 100 mg 
+Dry Syrup 50mg/5 mL P,S,T 
+Capsule 100 mg 
+Dry Syrup 50mg/5 mL (p) 
+Power for Injection 100 
+mg 
+Vancomycin 
+T 
+Powder for Injection 
+250 mg 
+Powder for Injection 
+500 mg  
+Powder for Injection 
+1000 mg 
+S,T 
+Capsule 125 mg 
+Capsule 250 mg 
+Powder for Injection 250 
+mg 
+Powder for Injection 500 
+mg  
+Powder for Injection 1000 
+mg 
+Section 6.3-Antileprosy medicines 
+Dapsone 
+P,S,T 
+Tablet 25 mg 
+Tablet 50 mg 
+Tablet 100 mg 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+Section 6.4 - Antituberculosis medicines  
+Capreomycin 
+P,S,T 
+ 
+Powder for Injection 
+1000 mg 
+P,S,T 
+Powder for Injection   500 
+mg  
+Powder for Injection   750 
+mg 
+Powder for Injection 1000 
+mg 
+Isoniazid 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+Tablet 300 mg 
+Oral liquid 100 mg/5 
+mL 
+P,S,T 
+Tablet 100 mg 
+Tablet 300 mg 
+Oral Liquid 50 mg/5 mL 
+(p) 
+Moxifloxacin 
+P,S,T 
+Tablet 200 mg 
+Tablet 400 mg 
+P,S,T 
+Tablet 400 mg 
+
+Section 6.5-Antifungal medicines 
+Fluconazole 
+ 
+P,S,T 
+Tablet 100 mg 
+Tablet 150 mg 
+Tablet 200 mg 
+Tablet 400 mg 
+Oral liquid 50 mg/5 
+mL  
+ 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+Tablet 150 mg 
+Tablet 200 mg 
+Tablet 400 mg 
+Oral liquid 50 mg/5 mL (p)
+S,T 
+Injection 200 mg/100 
+mL 
+S,T 
+Injection 200 mg /100 mL 
+Nystatin 
+P,S,T 
+Tablet 5,00,000 Lac 
+IU 
+Pessary 1,00,000 IU 
+Oral Liquid 1,00,000 
+IU/mL 
+S,T 
+Pessary 1 Lac IU 
+Oral Liquid 1 Lac IU/mL 
+(p) 
+Section 6.6.1 Antiherpes medicines 
+Acyclovir 
+P,S,T 
+Tablet 200 mg 
+Tablet 400 mg 
+Powder for Injection 
+250 mg  
+Powder for Injection 
+500 mg Oral liquid 
+400 mg/5 mL 
+P,S,T 
+Tablet 200 mg 
+Tablet 400 mg 
+Tablet 800 mg 
+Powder for Injection 250 
+mg  
+Powder for Injection 500 
+mg Oral liquid 400 mg/5 
+mL (p) 
+Section 6.7.2  Non -nucleoside reverse transcriptase inhibitors 
+Efavirenz 
+S,T 
+Tablet 50 mg 
+Tablet 200 mg 
+Tablet 600 mg 
+S,T 
+Tablet 200 mg (p) 
+Tablet 600 mg 
+
+Section 6.7.4 - Protease inhibitors 
+Lopinavir (A) + 
+Ritonavir (B) 
+S,T 
+Tablet 100 mg (A) + 25 
+mg (B) Tablet 200 mg 
+(A) + 50 mg (B) Oral 
+liquid 400 mg (A) + 100 
+mg (B)/ 5ml 
+S,T 
+Tablet 100 mg (A) + 25 
+mg (B)  
+Tablet 200 mg (A) + 50 
+mg (B) 
+Oral Liquid 80 mg (A) + 
+20 mg (B) /mL (p) 
+Capsule/ Sachet 
+(containing 
+Pellets/Granules) 40 mg 
+(A) +10 mg (B) (p) 
+Section 6.8 -Medicines for Hepatitis B and Hepatitis C 
+Entecavir 
+S,T 
+ 
+Tablet 0.5 mg 
+Tablet 1 mg 
+S,T 
+Tablet 0.5 mg 
+Tablet 1 mg 
+Syrup 0.05 mg/mL (p) 
+Section 6.10 - Antileishmaniasis medicines 
+Miltefosine 
+P,S,T 
+Capsule 10 mg 
+Capsule 50 mg 
+P,S,T 
+Capsule 50 mg   
+Section 6.10 - Antimalarial medicines 
+Artemether (A) + 
+Lumefantrine (B) 
+P,S,T 
+Tablet 20 mg (A) + 
+120 mg (B) Tablet 40 
+mg (A) + 240 mg (B) 
+Tablet 80 mg (A) + 
+480 mg (B)  
+Oral liquid 80 mg (A) 
++ 480 mg (B)/5 mL 
+P,S,T 
+Tablet 20 mg (A) + 120 
+mg (B)  
+Tablet 40 mg (A) + 240 
+mg (B)  
+Tablet 80 mg (A) + 480 
+mg (B)  
+Section 7.1-Antineoplastic medicines 
+Cyclophosphamide 
+T 
+Tablet 50 mg 
+Tablet 200 mg 
+Powder for Injection 
+500 mg 
+T 
+Tablet 50 mg 
+Powder for Injection 500 
+mg 
+
+Etoposide 
+T 
+Capsule   50 mg 
+Capsule 100 mg 
+Injection 20 mg/mL 
+T 
+Capsule   50 mg 
+Injection 20 mg/mL 
+Cyclosporine 
+T 
+Capsule10 mg  
+Capsule 25 mg 
+Capsule 50 mg 
+Capsule 100 mg 
+Oral liquid 100 
+mg/mL 
+Injection 50 mg/mL 
+T 
+Capsule 25 mg 
+Capsule 50 mg 
+Capsule 100 mg 
+Oral liquid 100 mg/mL (p) 
+Injection 50 mg/mL 
+Oxaliplatin 
+T 
+Injection 5 mg/mL  
+T 
+Injection 5mg/mL in 10 
+mL and 20 mL vial 
+Section 7.3-Immunosuppressive medicines 
+Cyclosporine 
+T 
+Capsule   10 mg  
+Capsule   25 mg 
+Capsule   50 mg 
+Capsule 100 mg 
+Oral liquid 100 
+mg/mL  
+Injection 50 mg/mL 
+T 
+Capsule   25 mg 
+Capsule   50 mg 
+Capsule 100 mg 
+Oral liquid 100 mg/mL (p) 
+Injection 50 mg/mL 
+7.4-Medicines used in Palliative Care 
+Dexamethasone 
+T 
+Tablet 0.5 mg 
+Injection 4 mg/mL 
+S,T 
+Tablet 0.5 mg 
+Tablet 4 mg 
+Injection 4 mg/mL 
+Morphine 
+T 
+Tablet 10 mg 
+Tablet 20 mg  
+SR Tablet 30 mg 
+S,T 
+Tablet 10 mg 
+Modified Release 
+Tablet 30 mg 
+
+Section 8.1-Antianaemia medicines 
+Ferrous salts 
+ 
+(a) Iron Dextran 
+(b) Iron sorbitol 
+citrate complex 
+P,S,T 
+Tablet equivalent to 
+60mg of elemental 
+iron 
+Oral liquid equivalent 
+to 25mg of elemental 
+iron/mL 
+P,S,T 
+Tablet equivalent to 60 mg 
+of elemental iron 
+ 
+Injection 50 mg/mL  
+Injection 50 mg/mL 
+Folic Acid 
+P,S,T  
+Tablet 5 mg 
+P,S,T  
+Tablet 1 mg  
+Tablet 5 mg 
+Section 10.1-Medicines used in angina 
+Diltiazem   
+ 
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+SR Tablet 90 mg 
+P,S,T 
+Tablet 30 mg 
+Tablet 60 mg 
+Modified Release 
+Tablet 180 mg 
+T  
+Injection 5 mg/mL 
+S, T  
+Injection 5 mg/mL 
+Isosorbide-5- 
+mononitrate 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg  
+SR Tablet 30 mg  
+SR Tablet 60 mg 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg  
+Modified Release  
+Tablet 60 mg 
+Metoprolol 
+P,S,T  
+ 
+Tablet 25 mg 
+Tablet 50 mg  
+SR Tablet 25 mg  
+SR Tablet 50 mg 
+P,S,T 
+Tablet 25 mg 
+Tablet 50 mg 
+Tablet 100 mg 
+Modified Release  
+Tablet 100 mg  
+S, T 
+Injection 1 mg/mL 
+Section 10.2-Antiarrhythmic medicines 
+Lignocaine 
+S,T 
+Injection 2% 
+(Preservative free for 
+IV use) 
+S,T 
+Injection 2%  
+Section 10.3-Antihypertensive medicines 
+Labetalol 
+P,S,T 
+Injection 5 mg/mL 
+P,S,T 
+Tablet 50 mg 
+Tablet 100 mg 
+S,T 
+Injection 5 mg/mL  
+
+Section 10.5- Antiplatelet and Antithrombotic Medicines 
+Acetylsalicylic acid 
+P,S,T 
+Tablet 75 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 75 mg 
+Tablet 100 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 100 mg 
+Tablet 150 mg 
+Effervescent/ 
+Dispersible/ Enteric 
+coated Tablet 150 mg 
+P,S,T 
+Conventional/Effervescent/ 
+Dispersible/ Enteric coated 
+Tablets 150 mg  
+Conventional/Effervescent/ 
+Dispersible/ Enteric coated 
+Tablets 325 mg 
+Enteric coated Tablet   75 
+mg 
+Enteric coated Tablet 100 
+mg 
+Clopidogrel 
+P,S,T 
+Tablet 75 mg 
+P,S,T 
+Tablet 75 mg 
+Tablet 150 mg 
+Section 10.6-Hypolipidemic medicines 
+Atorvastatin 
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg 
+Tablet 40 mg  
+P,S,T 
+Tablet 10 mg 
+Tablet 20 mg 
+Tablet 40 mg  
+Tablet 80 mg 
+Section 11.1 - Antifungal medicines 
+Clotrimazole 
+P,S,T 
+Cream 1% 
+P,S,T 
+Cream 1% 
+Lotion 1% 
+Section 11.2 - Antibacterial medicines 
+Framycetin 
+P,S,T 
+Cream 0.5% 
+P,S,T 
+Cream 1% 
+Section 11.4-Keratolytic agents 
+Benzoyl peroxide 
+P,S,T 
+Gel 2.5%  
+P,S,T 
+Gel 2.5% - 5% 
+
+Coal tar (A) + 
+Salicylic Acid (B) 
+P,S,T 
+Solution 5% (A) 
+P,S,T 
+Solution 1% (A) + 3% (B) 
+Podophyllin resin 
+S,T 
+Solution 10 % to 25 % 
+Solution 20% 
+S,T 
+Solution 20% 
+Section 11.6-Miscellaneous 
+Glycerin (as 
+mentioned in IP) 
+P,S,T 
+Oral Liquid 
+P,S,T 
+As Licensed 
+Section 12.2-Radiocontrast media 
+Barium sulphate 
+S,T 
+Oral liquid 100 % w/v 
+Oral liquid 250 % w/v 
+S,T 
+Oral Liquid 95% w/v 
+Section 17.2  Antiemetics 
+Metoclopramide 
+P,S,T 
+Injection 5 mg/mL 
+P,S,T 
+Tablet 10 mg 
+Injection 5 mg/mL 
+Section 18.1 - Adrenal Hormones and synthetic substitutes 
+Hydrocortisone 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Injection 100 mg/mL 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+Powder for Injection 100 
+mg 
+Methylprednisolone S,T 
+Tablet 8 mg 
+Tablet 16 mg 
+Tablet 32 mg 
+Injection 40 mg/mL 
+S,T 
+Injection 40 mg/mL 
+
+Prednisolone 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+Oral liquid 5 mg/5 mL (p)  
+Oral liquid 15 mg/5 mL 
+Section 18.4.1 - Insulins and other antidiabetic agents 
+Metformin 
+P,S,T 
+Tablet 500 mg 
+Tablet 750 mg 
+Tablet 1000 mg 
+(Immediate and 
+controlled release) 
+P,S,T 
+Tablet 500 mg 
+Tablet 1000 mg 
+Modified release 
+Tablet 1000 mg 
+Section 18.5-Ovulation Inducers 
+Human chorionic 
+gonadotropin 
+T 
+Injection 1000 IU 
+Injection 5000 IU 
+S,T 
+Injection 2000 IU 
+Injection 5000 IU 
+Injection 10000 IU 
+Section 18.6 - Progestogens 
+Medroxyprogestero
+ne acetate 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Injection 150 mg/ mL  
+Section 18.7-Thyroid and antithyroid medicines 
+Carbimazole 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+P,S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+
+Section 21.1 - Anti-infective medicines 
+Povidone iodine 
+P,S,T 
+Drops 0.6% 
+Drops 5% 
+P,S,T 
+Drops 5% 
+Section 21.2 - Anti-inflammatory medicine 
+Prednisolone 
+P,S,T 
+Drops 0.1% 
+Drops 1% 
+P,S,T 
+Drops 1% 
+Section 23.1-Medicines used in psychotic disorders 
+Haloperidol 
+S,T 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+Oral liquid 2 mg/5 mL 
+S,T 
+Tablet 2 mg 
+Tablet 5 mg 
+Tablet 10 mg 
+Tablet 20 mg 
+Oral liquid 2 mg/5 mL 
+Injection 5 mg/mL 
+Risperidone 
+P,S,T 
+Tablet 1 mg 
+Tablet 2 mg 
+Tablet 4 mg 
+Oral liquid 1 mg/mL 
+P,S,T 
+Tablet 1 mg 
+Tablet 2 mg 
+Tablet 4 mg 
+Oral liquid 1 mg/mL 
+Injection (Long acting) 25 
+mg  
+Injection (Long acting) 
+37.5 mg  
+
+Section 23.2.1 - Medicines used in Bipolar disorders 
+Sodium valproate 
+P,S,T 
+Tablet 200 mg 
+Tablet 500 mg  
+P,S,T 
+Tablet 200 mg 
+Tablet 300 mg  
+Tablet 500 mg  
+Modified Release 
+Tablet 300 mg  
+Tablet 500 mg 
+Section 25 - Solutions correcting Water, Electrolyte disturbances and Acid-base 
+disturbances 
+Sodium chloride 
+P,S,T 
+Injection 0.9% 
+P,S,T 
+Injection 0.9% 
+S,T 
+Injection 0.45% 
+Injection 3% 
+S,T 
+Injection 3% 
+Section 26-Vitamins and minerals 
+Calcium carbonate 
+P,S,T 
+Tablet 250 mg 
+Tablet 500 mg 
+P,S,T 
+Tablet 1250 mg 
+(equivalent to elemental 
+calcium 500 mg) 
+Riboflavin 
+P,S,T 
+Tablet 5 mg 
+P,S,T 
+Tablet 10 mg 
+Vitamin A 
+P,S,T 
+Capsule 5000 IU 
+Capsule 50000 IU 
+Capsule 100000 IU 
+Oral liquid 100000 
+IU/ml Injection 50000 
+IU/ml 
+P,S,T 
+Capsule/Tablet 50000 IU 
+(including Chewable 
+tablet)  
+Oral liquid 100000 IU/mL 
+Injection 50000 IU/mL 
+ 
+ 
+ 
+ 
+
+ 
+Annexure 4  Drugs figuring in more than one therapeutic category 
+Annexure 4.1: Drugs figuring in two therapeutic categories 
+Drugs Figuring in Two Therapeutic Categories 
+S.No. 
+Drug 
+Therapeutic Category 
+1. 
+ 
+Albendazole 
+Sub Section 6.1.2  Antifilarial 
+Sub Section 6.1.1- Intestinal Anthelminthics 
+2.  
+Allopurinol 
+Sub Section 2.3 - Medicines used to treat gout 
+Sub Section 7.4 - Medicines used in palliative care 
+3. 
+ 
+Amphotericin B 
+Sub Section 6.5.1- Antifungal medicines 
+Sub Section 6.9.3- Antileishmaniasis medicines  
+4. 
+ 
+Azathioprine 
+Sub Section 2.4 - Disease Modifying Agents used in 
+Rheumatoid Disorders 
+Sub Section 7.3- Immunosuppressive medicines 
+5. 
+ 
+Azithromycin 
+Sub Section 6.2.14- Other antibacterials  
+Sub Section 6.7.26- Additional Medicines for Syndromic 
+Management of Sexually Transmitted Infections 
+6. 
+ 
+Budesonide 
+Sub Section 16- Ear, Nose and Throat Medicines 
+Sub Section 24.1 -Antiasthmatic Medicines 
+
+7. 
+ 
+Calcium Gluconate 
+Sub Section 4.2.2 - Antidotes and Other Substances used in 
+Management of Poisonings/Envenomation- Specific 
+Sub Section 26.3 - Vitamins and Minerals 
+8. 
+ 
+Carbamazepine 
+Sub Section 5.1.1 Anticonvulsants/antiepileptics  
+Sub Section 23.2.6-Medicines used in Bipolar disorders 
+9. 
+ 
+Cefotaxime 
+Sub Section 6.2.9  Beta Lactam medicines  
+Sub Section 6.7.21- Medicines for treating Opportunistic 
+Infections in People living with HIV 
+10.  
+Clarithromycin 
+Sub Section 6.2.17-Other antibacterials 
+Sub Section 6.4.4  Anti-tuberculosis medicines 
+11.  
+Clofazimine 
+Sub Section 6.3.1- Antileprosy medicines 
+Sub Section 6.4.5 Anti-tuberculosis medicines  
+12. 
+Co-trimoxazole 
+[Sulphamethoxazole 
+(A) + Trimethoprim 
+(B)  
+Sub Section 6.2.19- Other antibacterials 
+Sub Section 6.9.7-Antipneumocystosis and 
+antitoxoplasmosis medicines  
+
+13. 
+Diazepam 
+Sub Section 5.1.3- Anticonvulsants/ Antiepileptics  
+Sub Section 7.4.4 - Medicines used in palliative care 
+14. 
+Digoxin 
+Sub Section 10.2.3- Antiarrhythmic medicines 
+Sub Section 10.4.1- Medicines used in Shock and Heart 
+Failure  
+15. 
+Doxycycline 
+Sub Section 6.2.20- Other antibacterials 
+Sub Section 6.10.8  For prophylaxis 
+16. 
+Glucose 
+Sub Section 18.4.8- Medicines used to treat hypoglycemia 
+Sub Section 25.1-Solutions correcting Water, Electrolyte 
+disturbances and Acid-base disturbances 
+17. 
+Haloperidol 
+Sub Section 7.4.7 - Medicines used in Palliative Care 
+Sub Section 23.1.3 - Medicines used in psychotic disorders 
+18. 
+Heparin 
+Sub Section 8.2.2 - Medicines affecting coagulation 
+Sub Section 10.5.3 -Antithrombotic medicine 
+(Cardiovascular/Cerebrovascular) 
+
+19. 
+Hydrochlorothiazide 
+Sub Section 10.3.3 - Antihypertensive medicines 
+Sub Section 15.2 - Diuretics 
+20. 
+Hydroxyurea 
+Sub Section 7.1.6 Antineoplastic medicines 
+Sub Section 8.1.6 - Antianaemia medicines 
+21. 
+Ibuprofen 
+Sub Section 2.1.3- Non-opioid Analgesics, Antipyretics 
+and Non-steroidal Anti-inflammatory Drugs 
+Sub Section 5.3.2  Medicines used in Neurological 
+disorders- Antimigraine medicines  
+22. 
+Lactulose 
+Sub Section  7.4.8 Medicines used in Palliative Care 
+Sub Section 17.5.3  Gastrointestinal medicines  - 
+Laxatives 
+23. 
+Lignocaine 
+Sub Section 1.2.2- Local Anaesthetics 
+Sub Section 10.2.5 Antiarrhythmic medicines  
+24. 
+Methotrexate 
+Sub Section 2.4.3- Disease Modifying Agents used in 
+Rheumatoid Disorders 
+Sub Section 7.1.33 -Antineoplastic medicines 
+25. 
+Methylprednisolone 
+Sub Section 18.1- Adrenal Hormones and Synthetic 
+
+substitutes 
+Section 27 - Medicines for COVID 19 management 
+26. 
+Metoclopramide 
+Sub Section 7.4.10 Medicines used in Palliative Care 
+Sub Section 17.2.2 Antiemetics  
+27. 
+Metronidazole 
+Sub Section 6.2.22  Other antibacterials 
+Sub Section 6.9.2  Medicines used for amoebiasis and 
+other parasitic infections 
+28. 
+Neostigmine 
+Sub Section 6.9.2 Medicines used for amoebiasis and 
+other parasitic infections 
+Sub Section 4.2.10  Antidotes and Other Substances used 
+in Management of Poisonings/Envenomation- Specific 
+29. 
+Ondansetron 
+Sub Section 7.4.15- Medicines used in Palliative Care 
+Sub Section 17.2.3  Anti-ulcer medicines 
+30. 
+Oral Rehydration Salts
+Sub Section 17.6.1  Medicines used in diarrhoea 
+Sub Section 25.3  Solutions correcting Water, Electrolyte 
+disturbances and Acid-base disturbances 
+31. 
+Oxygen 
+Sub Section 1.1.5 - General Anaesthetics and Oxygen 
+
+Sub Section 27.5- Medicines for COVID 19 management 
+32. 
+Povidone iodine 
+Section 14.1.5  Antiseptics and Disinfectants- Antiseptics 
+Sub Section 21.1.5 - Anti-infective medicine  
+33. 
+Proparacaine 
+Sub Section 12.1.2 - Diagnostic agents - Ophthalmic 
+Medicines 
+Sub Section 21.3.1 - Local anaesthetic 
+34. 
+Rifampicin 
+Sub Section 6.3.3- Antileprosy medicines 
+Sub Section 6.4.17  Anti-tubercular medicines  
+35. 
+Snake Venom 
+Antiserum 
+Sub Section 4.2.12  Antidotes and Other Substances used 
+in Management of Poisonings/Envenomation- Specific 
+Sub Section 19.2.7  Sera and immunoglobulins (Liquid/ 
+Lyophilized) 
+36. 
+Sodium Valproate 
+Sub Section 5.1.9 Anticonvulsants /antiepileptics  
+Sub Section 23.2.5- Medicines used in mood disorders 
+37. 
+Spironolactone 
+Sub Section 10.4.5 - Medicines used in shock and heart 
+failure 
+Sub Section 15.4 - Diuretics 
+38. 
+Tenofovir Disproxil 
+Fumarate (TDF) 
+Sub Section 6.7.4  Nucleoside reverse transcriptase 
+inhibitors 
+
+Sub Section 6.8 Medicines for Hepatitis B and Hepatitis C
+39. 
+Tramadol 
+Sub Section 2.2.- Opioid Analgesics 
+Sub Section 7.4.- Medicines used in Palliative Care  
+40. 
+Tropicamide 
+Sub Section 12.1.- Ophthalmic Medicines 
+Sub Section 21.5. - Mydriatics 
+41. 
+Valganciclovir 
+Sub Section 6.6.2- Anti Cytomegalovirus (CMV) 
+Medicines 
+Sub Section 6.7.5- Medicines for treating Opportunistic 
+Infections in People living with HIV 
+ 
+
+Annexure 4.2:  Drugs Figuring in Three Therapeutic Categories 
+ 
+Drugs Figuring in Three Therapeutic Categories 
+S.No. 
+Drug 
+Therapeutic Category 
+1.  
+Acetylsalicylic acid 
+Sub Section 2.1. - Non-opioid Analgesics, Antipyretics 
+and Non-steroidal Anti-inflammatory Drugs 
+Section 5.2- Antimigraine Medicines 
+Sub Section 10.5- Antiplatelet and Antithrombotic 
+Medicines 
+2.  
+Acyclovir 
+Sub Section 6.6.1 - Anti-herpes medicines  
+Sub Section 6.7.5- Medicines for treating Opportunistic 
+Infections in People living with HIV 
+Sub Section 21.1- Anti-infective medicine 
+3.  
+Amitriptyline 
+Sub Section 5.2.1 - For Prophylaxis 
+Sub Section 7.4 - Medicines used in Palliative Care 
+Sub Section 23.2.1 - Medicines used in Depressive 
+Disorder 
+
+4.  
+Atropine 
+Sub Section 1.3- Preoperative Medication and Sedation 
+for Short Term Procedures 
+Sub Section 4.2.1- Antidotes and Other Substances used 
+in Management of Poisonings/Envenomation- Specific 
+Sub Section 21.5.1 - Ophthalmological Medicines- 
+Mydriatics 
+5.  
+Ciprofloxacin 
+Sub Section 6.2.2 - Anti-infective medicines- 
+Antibacterials -Other Antibacterials  
+Sub Section 16.2 - Ear, Nose and Throat Medicines 
+Sub Section 21.1-Anti-infective Medicines 
+6.  
+Enoxaparin 
+Sub Section 10.5.4 - Antiplatelet and Antithrombotic 
+Medicines 
+Sub Section 8.2.1- Medicines affecting coagulation 
+Section 27 - Medicines for COVID 19 management  
+7.  
+Fluoxetine 
+Sub Section 7.4 -Medicines used in Palliative Care 
+Sub Section 23.2.1 - Medicines used in Depressive 
+Disorders 
+Sub Section 23.4 - Medicines used in Obsessive 
+Compulsive Disorders and Panic attacks 
+8.  
+Hydrocortisone 
+Sub Section 3.5- Antiallergics and Medicines used in 
+
+Anaphylaxis  
+Sub Section 18.1.3- Adrenal hormones and synthetic 
+substitutes 
+Sub Section 24.1 -Antiasthmatic Medicines 
+9.  
+Midazolam 
+Sub Section 1.3- Preoperative Medication and Sedation 
+for Short Term Procedures 
+Sub Section 5.1- Anticonvulsants/ Antiepileptics 
+Sub Section 7.4- Medicines used in Palliative Care 
+10.  
+Morphine 
+Sub Section- 1.3- Preoperative Medication and Sedation 
+for Short Term Procedures 
+Sub Section 2.2- Opioid Analgesics 
+Sub Section - 7.4-Medicines used in Palliative Care 
+11.  
+Paracetamol 
+Sub Section 2.1 - Non-opioid Analgesics, Antipyretics 
+and Non-steroidal Anti-inflammatory Drugs 
+Sub Section 5.2- Antimigraine Medicines 
+Section 27- Medicines for COVID 19 management 
+ 
+
+  Annexure 4.3: Drugs Figuring in Four Therapeutic Categories 
+Drugs Figuring in Four Therapeutic Categories 
+S.No. 
+Drug 
+Therapeutic Category 
+1. 
+ 
+Clindamycin 
+Sub Section 6.2.- Other antibacterials 
+Sub Section 6.7.5- Medicines for treating Opportunistic 
+Infections in People living with HIV 
+Sub Section 6.9.3- Antipneumocystosis and 
+antitoxoplasmosis medicines 
+Sub Section 6.10.1 - For curative treatment 
+2. 
+Clotrimazole 
+Sub Section 6.5- Antifungal medicines  
+Sub Section 6.7.5- Medicines for treating Opportunistic 
+Infections in People living with HIV  
+Sub Section 11.1. - Antifungal medicines 
+Section 16- Ear, nose and throat medicines  
+3. 
+Dexamethasone 
+Section 3 - Antiallergics and Medicines used in 
+
+Anaphylaxis 
+Sub Section 7.4 - Medicines used in Palliative Care 
+Sub Section 18.1- Adrenal Hormones and Synthetic 
+substitutes 
+Section 27 - Medicines for COVID 19 management 
+4 
+Prednisolone 
+Sub Section 3.- Antiallergics and medicines used in 
+anaphylaxis 
+Sub Section 7.2.- Hormones and anti-hormones used in 
+cancer therapy 
+Sub Section 18.1- Adrenal hormones and synthetic 
+substitutes  
+Sub Section 21.1- Anti-inflammatory medicine 
+ 
+ 
